@@ -1,0 +1,258 @@
+_id,id_doctor,id_paciente,fecha_consulta,motivo,metricas_salud.talla,metricas_salud.peso,metricas_salud.frecuencia_cardiaca,metricas_salud.presion_diastolica,metricas_salud.presion_sistolica,diagnostico,tratamiento_recetado.medicamento,tratamiento_recetado.frecuencia,tratamiento_recetado.duracion,consulta_anterior,cirugias,recursos_utilizados
+1,1,1,2024-06-10T00:00:00.000Z,Dolor de cabeza,170,70,70,80,120,Migraña,Paracetamol 500mg,3 veces al día,7 días,,,
+2,1,2,2024-06-11T00:00:00.000Z,Dolor de Estómago,180,92,120,80,110,Gastritis leve,Ibuprofeno 100mg,3 veces al día,2 días,,,
+3,1,2,2024-06-15T00:00:00.000Z,Dolor fuerte de Estómago,180,92,120,80,110,Apendicitis,Ibuprofeno 500mg,3 veces al día,10 días,2,,
+4,6,38,2023-04-23T00:00:00.000Z,Dolor de cabeza,187,65,77,78,114,Gastritis,Amoxicilina 500mg,3 veces al día,10 días,,,
+5,18,54,2024-04-16T00:00:00.000Z,Fiebre,187,89,61,79,130,Lumbalgia,Ibuprofeno 400mg,2 veces al día,5 días,,,
+6,3,11,2024-03-28T00:00:00.000Z,Dolor de espalda,184,75,62,66,122,Lumbalgia,Dextrometorfano 15mg,2 veces al día,5 días,,,
+7,20,46,2024-02-15T00:00:00.000Z,Tos,154,95,70,62,129,Gastritis,Amoxicilina 500mg,3 veces al día,10 días,,,
+8,23,36,2023-06-24T00:00:00.000Z,Tos,187,57,95,88,117,Migraña,Omeprazol 20mg,1 vez al día,14 días,,,
+9,17,54,2023-04-13T00:00:00.000Z,Dolor de cabeza,189,73,82,72,140,Gripe,Paracetamol 500mg,3 veces al día,7 días,,,
+10,17,38,2023-01-22T00:00:00.000Z,Dolor de cabeza,175,96,84,77,127,Lumbalgia,Ibuprofeno 400mg,2 veces al día,5 días,,,
+11,2,8,2023-08-05T00:00:00.000Z,Dolor de cabeza,188,63,80,66,128,Migraña,Omeprazol 20mg,1 vez al día,14 días,,,
+12,3,49,2023-07-07T00:00:00.000Z,Dolor de espalda,155,85,91,72,121,Gastritis,Dextrometorfano 15mg,2 veces al día,5 días,,,
+13,27,16,2023-02-28T00:00:00.000Z,Tos,152,52,62,62,123,Lumbalgia,Dextrometorfano 15mg,2 veces al día,5 días,,,
+14,20,30,2024-06-10T00:00:00.000Z,Dolor abdominal,152,92,62,60,119,Gastritis,Omeprazol 20mg,1 vez al día,14 días,,,
+15,19,42,2023-10-27T00:00:00.000Z,Tos,179,62,83,81,130,Gastritis,Omeprazol 20mg,1 vez al día,14 días,,,
+16,7,24,2024-05-20T00:00:00.000Z,Dolor de cabeza,150,51,78,81,118,Gastritis,Ibuprofeno 400mg,2 veces al día,5 días,,,
+17,7,36,2024-03-21T00:00:00.000Z,Dolor de cabeza,169,61,62,88,123,Gripe,Dextrometorfano 15mg,2 veces al día,5 días,,,
+18,28,53,2024-03-17T00:00:00.000Z,Dolor abdominal,181,87,81,82,130,Gastritis,Omeprazol 20mg,1 vez al día,14 días,,,
+19,11,19,2024-05-31T00:00:00.000Z,Fiebre,168,99,68,62,113,Migraña,Dextrometorfano 15mg,2 veces al día,5 días,,,
+20,4,2,2024-04-02T00:00:00.000Z,Dolor abdominal,155,60,81,73,139,Bronquitis,Ibuprofeno 400mg,2 veces al día,5 días,,,
+21,1,29,2023-06-22T00:00:00.000Z,Dolor de cabeza,153,72,74,70,125,Lumbalgia,Ibuprofeno 400mg,2 veces al día,5 días,,,
+22,9,28,2024-03-20T00:00:00.000Z,Dolor de espalda,162,89,91,65,115,Lumbalgia,Omeprazol 20mg,1 vez al día,14 días,,,
+23,8,2,2023-01-02T00:00:00.000Z,Dolor abdominal,150,53,98,61,110,Gripe,Amoxicilina 500mg,3 veces al día,10 días,,,
+24,17,40,2023-02-04T00:00:00.000Z,Fiebre,174,88,62,60,112,Lumbalgia,Amoxicilina 500mg,3 veces al día,10 días,,,
+25,21,32,2024-05-24T00:00:00.000Z,Dolor abdominal,154,76,80,61,128,Gastritis,Omeprazol 20mg,1 vez al día,14 días,,,
+26,24,43,2024-05-17T00:00:00.000Z,Fiebre,178,74,79,90,124,Lumbalgia,Omeprazol 20mg,1 vez al día,14 días,,,
+27,15,60,2023-06-02T00:00:00.000Z,Dolor de cabeza,166,57,88,84,120,Gripe,Omeprazol 20mg,1 vez al día,14 días,,,
+28,19,14,2023-07-23T00:00:00.000Z,Dolor de cabeza,185,98,62,65,136,Bronquitis,Paracetamol 500mg,3 veces al día,7 días,,,
+29,10,27,2023-06-10T00:00:00.000Z,Tos,164,79,95,73,120,Bronquitis,Paracetamol 500mg,3 veces al día,7 días,,,
+30,14,56,2023-10-18T00:00:00.000Z,Fiebre,162,88,64,77,123,Lumbalgia,Dextrometorfano 15mg,2 veces al día,5 días,,,
+31,29,36,2024-05-03T00:00:00.000Z,Fiebre,186,78,61,83,134,Gripe,Amoxicilina 500mg,3 veces al día,10 días,,,
+32,5,24,2024-04-28T00:00:00.000Z,Dolor de espalda,158,84,91,74,118,Lumbalgia,Paracetamol 500mg,3 veces al día,7 días,,,
+33,23,8,2023-01-06T00:00:00.000Z,Fiebre,150,71,95,81,118,Migraña,Ibuprofeno 400mg,2 veces al día,5 días,,,
+34,28,5,2023-07-12T00:00:00.000Z,Dolor de cabeza,150,55,87,85,112,Gastritis,Omeprazol 20mg,1 vez al día,14 días,,,
+35,26,38,2024-02-21T00:00:00.000Z,Dolor de espalda,167,95,85,87,113,Lumbalgia,Omeprazol 20mg,1 vez al día,14 días,,,
+36,2,43,2023-06-26T00:00:00.000Z,Fiebre,172,80,95,89,130,Gastritis,Paracetamol 500mg,3 veces al día,7 días,,,
+37,18,52,2023-01-22T00:00:00.000Z,Tos,167,57,100,86,131,Lumbalgia,Amoxicilina 500mg,3 veces al día,10 días,,,
+38,30,56,2024-05-27T00:00:00.000Z,Dolor de espalda,170,90,73,75,140,Gastritis,Amoxicilina 500mg,3 veces al día,10 días,,,
+39,14,21,2024-02-01T00:00:00.000Z,Dolor de cabeza,168,56,67,65,134,Gastritis,Dextrometorfano 15mg,2 veces al día,5 días,,,
+40,5,35,2023-03-09T00:00:00.000Z,Dolor de espalda,175,90,92,85,138,Gripe,Omeprazol 20mg,1 vez al día,14 días,,,
+41,10,26,2024-05-19T00:00:00.000Z,Fiebre,169,81,98,89,112,Gripe,Omeprazol 20mg,1 vez al día,14 días,,,
+42,15,16,2023-10-21T00:00:00.000Z,Dolor de cabeza,183,77,79,67,129,Gripe,Paracetamol 500mg,3 veces al día,7 días,,,
+43,19,58,2023-06-27T00:00:00.000Z,Dolor de espalda,189,97,86,61,126,Bronquitis,Ibuprofeno 400mg,2 veces al día,5 días,,,
+44,15,22,2024-05-29T00:00:00.000Z,Dolor abdominal,177,77,62,83,120,Gripe,Amoxicilina 500mg,3 veces al día,10 días,,,
+45,1,20,2023-01-17T00:00:00.000Z,Dolor abdominal,172,66,82,81,126,Gastritis,Omeprazol 20mg,1 vez al día,14 días,,,
+46,11,2,2023-03-11T00:00:00.000Z,Tos,190,69,60,70,112,Bronquitis,Ibuprofeno 400mg,2 veces al día,5 días,,,
+47,29,59,2024-02-04T00:00:00.000Z,Dolor de cabeza,169,62,72,90,131,Gastritis,Amoxicilina 500mg,3 veces al día,10 días,,,
+48,21,27,2024-05-25T00:00:00.000Z,Dolor de cabeza,162,54,66,88,113,Lumbalgia,Amoxicilina 500mg,3 veces al día,10 días,,,
+49,30,32,2024-01-30T00:00:00.000Z,Fiebre,188,54,60,69,126,Lumbalgia,Paracetamol 500mg,3 veces al día,7 días,,,
+50,4,49,2024-04-02T00:00:00.000Z,Tos,179,63,75,63,119,Gripe,Omeprazol 20mg,1 vez al día,14 días,,,
+51,2,36,2024-06-06T00:00:00.000Z,Dolor abdominal,160,97,99,72,138,Gripe,Dextrometorfano 15mg,2 veces al día,5 días,,,
+52,30,25,2024-06-03T00:00:00.000Z,Dolor de espalda,170,97,67,71,110,Gastritis,Dextrometorfano 15mg,2 veces al día,5 días,,,
+53,22,44,2023-12-02T00:00:00.000Z,Tos,168,92,70,76,124,Bronquitis,Ibuprofeno 400mg,2 veces al día,5 días,,,
+54,27,45,2023-11-29T00:00:00.000Z,Dolor de cabeza,172,78,79,64,110,Bronquitis,Omeprazol 20mg,1 vez al día,14 días,,,
+55,16,33,2023-06-07T00:00:00.000Z,Dolor de cabeza,180,57,77,81,116,Bronquitis,Ibuprofeno 400mg,2 veces al día,5 días,,,
+56,23,24,2023-12-27T00:00:00.000Z,Tos,180,86,66,79,130,Migraña,Paracetamol 500mg,3 veces al día,7 días,,,
+57,16,31,2023-11-23T00:00:00.000Z,Dolor abdominal,166,52,75,61,131,Bronquitis,Ibuprofeno 400mg,2 veces al día,5 días,,,
+58,9,51,2023-11-28T00:00:00.000Z,Fiebre,157,92,64,86,129,Gastritis,Ibuprofeno 400mg,2 veces al día,5 días,,,
+59,8,40,2023-12-07T00:00:00.000Z,Fiebre,176,58,72,81,122,Bronquitis,Ibuprofeno 400mg,2 veces al día,5 días,,,
+60,15,31,2023-11-20T00:00:00.000Z,Dolor de espalda,173,65,93,63,137,Migraña,Ibuprofeno 400mg,2 veces al día,5 días,,,
+61,12,55,2024-05-20T00:00:00.000Z,Tos,157,66,71,75,116,Gripe,Dextrometorfano 15mg,2 veces al día,5 días,,,
+62,17,28,2023-10-16T00:00:00.000Z,Dolor de espalda,161,96,84,68,123,Lumbalgia,Ibuprofeno 400mg,2 veces al día,5 días,,,
+63,24,45,2023-12-01T00:00:00.000Z,Fiebre,172,88,68,77,127,Bronquitis,Ibuprofeno 400mg,2 veces al día,5 días,,,
+64,3,51,2023-10-12T00:00:00.000Z,Fiebre,173,50,83,82,120,Bronquitis,Paracetamol 500mg,3 veces al día,7 días,,,
+65,6,45,2024-05-30T00:00:00.000Z,Dolor de cabeza,165,53,86,64,116,Gastritis,Paracetamol 500mg,3 veces al día,7 días,,,
+66,7,33,2024-01-21T00:00:00.000Z,Dolor de cabeza,161,85,97,87,111,Gastritis,Ibuprofeno 400mg,2 veces al día,5 días,,,
+67,3,44,2024-03-04T00:00:00.000Z,Dolor de cabeza,165,89,78,69,128,Bronquitis,Dextrometorfano 15mg,2 veces al día,5 días,,,
+68,19,46,2023-04-07T00:00:00.000Z,Tos,165,96,83,74,116,Gastritis,Omeprazol 20mg,1 vez al día,14 días,,,
+69,10,31,2023-11-03T00:00:00.000Z,Fiebre,172,70,94,83,111,Gastritis,Dextrometorfano 15mg,2 veces al día,5 días,,,
+70,7,5,2024-03-10T00:00:00.000Z,Fiebre,170,83,89,89,127,Gastritis,Dextrometorfano 15mg,2 veces al día,5 días,,,
+71,20,51,2023-05-05T00:00:00.000Z,Dolor de cabeza,150,65,66,69,113,Bronquitis,Paracetamol 500mg,3 veces al día,7 días,,,
+72,16,49,2024-01-08T00:00:00.000Z,Fiebre,163,61,95,80,136,Gastritis,Omeprazol 20mg,1 vez al día,14 días,,,
+73,26,43,2024-05-13T00:00:00.000Z,Tos,178,70,68,87,115,Gripe,Amoxicilina 500mg,3 veces al día,10 días,,,
+74,11,7,2024-03-08T00:00:00.000Z,Tos,163,93,66,69,114,Bronquitis,Amoxicilina 500mg,3 veces al día,10 días,,,
+75,22,34,2024-02-13T00:00:00.000Z,Dolor de cabeza,160,70,92,61,115,Lumbalgia,Ibuprofeno 400mg,2 veces al día,5 días,,,
+76,6,34,2024-04-10T00:00:00.000Z,Dolor abdominal,177,78,74,74,129,Bronquitis,Paracetamol 500mg,3 veces al día,7 días,,,
+77,15,56,2023-04-08T00:00:00.000Z,Tos,166,54,76,63,123,Migraña,Paracetamol 500mg,3 veces al día,7 días,,,
+78,16,1,2024-06-23T00:00:00.000Z,Tos,182,88,85,78,133,Migraña,Dextrometorfano 15mg,2 veces al día,5 días,,,
+79,21,13,2023-01-06T00:00:00.000Z,Dolor de espalda,188,67,73,84,133,Bronquitis,Dextrometorfano 15mg,2 veces al día,5 días,,,
+80,22,11,2023-05-09T00:00:00.000Z,Dolor de cabeza,184,78,75,79,138,Bronquitis,Ibuprofeno 400mg,2 veces al día,5 días,,,
+81,4,28,2024-02-10T00:00:00.000Z,Dolor de cabeza,163,69,74,73,140,Gripe,Amoxicilina 500mg,3 veces al día,10 días,,,
+82,18,36,2023-10-24T00:00:00.000Z,Fiebre,158,100,78,76,129,Lumbalgia,Dextrometorfano 15mg,2 veces al día,5 días,,,
+83,23,17,2023-04-02T00:00:00.000Z,Tos,171,51,80,64,115,Bronquitis,Paracetamol 500mg,3 veces al día,7 días,,,
+84,5,10,2023-04-13T00:00:00.000Z,Tos,172,61,71,84,136,Migraña,Omeprazol 20mg,1 vez al día,14 días,,,
+85,18,22,2023-10-29T00:00:00.000Z,Dolor de cabeza,190,96,63,78,123,Bronquitis,Amoxicilina 500mg,3 veces al día,10 días,,,
+86,18,35,2023-09-07T00:00:00.000Z,Dolor abdominal,174,75,85,89,115,Bronquitis,Omeprazol 20mg,1 vez al día,14 días,,,
+87,27,50,2023-07-29T00:00:00.000Z,Fiebre,184,53,89,68,123,Lumbalgia,Paracetamol 500mg,3 veces al día,7 días,,,
+88,23,25,2024-01-25T00:00:00.000Z,Dolor de espalda,184,71,98,62,140,Gastritis,Amoxicilina 500mg,3 veces al día,10 días,,,
+89,24,44,2023-12-26T00:00:00.000Z,Fiebre,168,55,62,65,129,Migraña,Amoxicilina 500mg,3 veces al día,10 días,,,
+90,17,1,2024-05-24T00:00:00.000Z,Tos,170,83,89,85,126,Migraña,Dextrometorfano 15mg,2 veces al día,5 días,,,
+91,2,31,2023-12-02T00:00:00.000Z,Fiebre,181,85,100,72,116,Migraña,Omeprazol 20mg,1 vez al día,14 días,,,
+92,21,6,2023-06-28T00:00:00.000Z,Dolor de espalda,183,85,97,69,122,Bronquitis,Amoxicilina 500mg,3 veces al día,10 días,,,
+93,26,15,2024-05-28T00:00:00.000Z,Dolor de espalda,155,60,73,83,122,Lumbalgia,Ibuprofeno 400mg,2 veces al día,5 días,,,
+94,20,26,2024-02-05T00:00:00.000Z,Dolor de cabeza,184,78,78,75,135,Gastritis,Amoxicilina 500mg,3 veces al día,10 días,,,
+95,25,1,2024-01-12T00:00:00.000Z,Fiebre,171,90,80,69,120,Lumbalgia,Dextrometorfano 15mg,2 veces al día,5 días,,,
+96,3,1,2023-01-05T00:00:00.000Z,Dolor abdominal,156,95,92,74,115,Gastritis,Ibuprofeno 400mg,2 veces al día,5 días,,,
+97,18,27,2023-12-01T00:00:00.000Z,Dolor de espalda,150,80,68,65,110,Migraña,Dextrometorfano 15mg,2 veces al día,5 días,,,
+98,1,28,2024-05-03T00:00:00.000Z,Tos,182,90,76,83,136,Bronquitis,Dextrometorfano 15mg,2 veces al día,5 días,,,
+99,25,28,2023-07-15T00:00:00.000Z,Dolor abdominal,184,83,78,77,133,Lumbalgia,Omeprazol 20mg,1 vez al día,14 días,,,
+100,19,20,2023-07-13T00:00:00.000Z,Dolor de cabeza,165,82,69,90,138,Migraña,Dextrometorfano 15mg,2 veces al día,5 días,,,
+101,5,57,2023-08-14T00:00:00.000Z,Dolor de cabeza,179,54,81,75,114,Lumbalgia,Omeprazol 20mg,1 vez al día,14 días,,,
+102,21,56,2023-10-01T00:00:00.000Z,Dolor de espalda,162,86,89,74,116,Gripe,Dextrometorfano 15mg,2 veces al día,5 días,,,
+103,6,29,2023-10-21T00:00:00.000Z,Tos,161,56,66,74,112,Lumbalgia,Dextrometorfano 15mg,2 veces al día,5 días,,,
+150,1,1,2024-06-10T00:00:00.000Z,Dolor de cabeza,170,70,70,80,120,Migraña,,,,,,
+151,3,2,2024-05-20T00:00:00.000Z,Dolor abdominal,165,65,75,85,125,Apendicitis aguda,,,,,Apendicectomía,
+152,4,3,2024-04-15T00:00:00.000Z,Chequeo de rutina,175,80,72,90,140,Hipertensión,,,,,,
+153,1,4,2024-03-12T00:00:00.000Z,Visión borrosa,160,55,68,75,115,Cataratas,,,,,Cirugía de cataratas,
+154,4,5,2024-02-18T00:00:00.000Z,Fatiga y sed excesiva,168,75,74,85,130,Diabetes Tipo 2,,,,,,
+155,2,6,2024-01-10T00:00:00.000Z,Dolor de rodilla,178,85,76,80,120,Lesión de menisco,,,,,Cirugía de rodilla,
+156,6,7,2024-06-15T00:00:00.000Z,Palpitaciones y estrés,165,60,80,70,110,Ansiedad,,,,,,
+157,7,8,2024-05-25T00:00:00.000Z,Dolor en la ingle,175,78,72,82,125,Hernia inguinal,,,,,Cirugía de hernia,
+158,1,9,2024-04-20T00:00:00.000Z,Chequeo de presión arterial,170,72,70,90,135,Hipertensión,,,,,,
+159,10,10,2024-03-05T00:00:00.000Z,Dolor abdominal,168,74,75,85,130,Colecistitis,,,,,Cirugía de vesícula,
+160,2,11,2024-06-12T00:00:00.000Z,Fiebre y tos,172,68,72,80,120,Gripe,,,,,,
+161,3,12,2024-05-18T00:00:00.000Z,Dolor abdominal,165,70,75,85,130,Colecistitis,,,,,Cirugía de vesícula,
+162,4,13,2024-04-22T00:00:00.000Z,Dificultad para respirar,168,60,70,80,120,Asma,,,,,,
+163,5,14,2024-03-25T00:00:00.000Z,Dolor en la ingle,175,75,72,85,125,Hernia inguinal,,,,,Cirugía de hernia,
+164,6,15,2024-02-20T00:00:00.000Z,Chequeo de presión arterial,170,72,70,90,140,Hipertensión,,,,,,
+165,7,16,2024-01-15T00:00:00.000Z,Dolor de rodilla,178,85,76,80,120,Lesión de menisco,,,,,Cirugía de rodilla,
+166,8,17,2024-06-01T00:00:00.000Z,Palpitaciones y estrés,165,60,80,70,110,Ansiedad,,,,,,
+167,9,18,2024-05-05T00:00:00.000Z,Dolor abdominal,168,74,75,85,130,Colecistitis,,,,,Cirugía de vesícula,
+168,10,19,2024-04-15T00:00:00.000Z,Fatiga y sed excesiva,168,75,74,85,130,Diabetes Tipo 2,,,,,,
+169,11,20,2024-03-10T00:00:00.000Z,Chequeo de presión arterial,170,72,70,90,140,Hipertensión,,,,,,
+170,12,21,2024-02-18T00:00:00.000Z,Dolor de rodilla,178,85,76,80,120,Lesión de menisco,,,,,Cirugía de rodilla,
+171,13,22,2024-06-05T00:00:00.000Z,Palpitaciones y estrés,165,60,80,70,110,Ansiedad,,,,,,
+172,14,23,2024-05-20T00:00:00.000Z,Dolor en la ingle,175,75,72,85,125,Hernia inguinal,,,,,Cirugía de hernia,
+173,15,24,2024-04-20T00:00:00.000Z,Chequeo de presión arterial,170,72,70,90,135,Hipertensión,,,,,,
+174,16,25,2024-03-05T00:00:00.000Z,Dolor abdominal,168,74,75,85,130,Colecistitis,,,,,Cirugía de vesícula,
+175,17,26,2024-06-10T00:00:00.000Z,Fiebre y tos,172,68,72,80,120,Gripe,,,,,,
+176,18,27,2024-05-18T00:00:00.000Z,Dolor abdominal,165,70,75,85,130,Colecistitis,,,,,Cirugía de vesícula,
+177,19,28,2024-04-22T00:00:00.000Z,Dificultad para respirar,168,60,70,80,120,Asma,,,,,,
+178,20,29,2024-03-25T00:00:00.000Z,Dolor en la ingle,175,75,72,85,125,Hernia inguinal,,,,,Cirugía de hernia,
+179,21,30,2024-02-20T00:00:00.000Z,Chequeo de presión arterial,170,72,70,90,140,Hipertensión,,,,,,
+180,22,31,2024-06-15T00:00:00.000Z,Fiebre y tos,172,68,72,80,120,Gripe,,,,,,
+181,23,32,2024-05-22T00:00:00.000Z,Dolor abdominal,165,70,75,85,130,Colecistitis,,,,,Cirugía de vesícula,
+182,24,33,2024-04-18T00:00:00.000Z,Dificultad para respirar,168,60,70,80,120,Asma,,,,,,
+183,25,34,2024-03-27T00:00:00.000Z,Dolor en la ingle,175,75,72,85,125,Hernia inguinal,,,,,Cirugía de hernia,
+184,26,35,2024-02-22T00:00:00.000Z,Chequeo de presión arterial,170,72,70,90,140,Hipertensión,,,,,,
+185,27,36,2024-01-19T00:00:00.000Z,Dolor de rodilla,178,85,76,80,120,Lesión de menisco,,,,,Cirugía de rodilla,
+186,28,37,2024-06-02T00:00:00.000Z,Palpitaciones y estrés,165,60,80,70,110,Ansiedad,,,,,,
+187,29,38,2024-05-10T00:00:00.000Z,Dolor abdominal,168,74,75,85,130,Colecistitis,,,,,Cirugía de vesícula,
+188,30,39,2024-04-12T00:00:00.000Z,Fatiga y sed excesiva,168,75,74,85,130,Diabetes Tipo 2,,,,,,
+189,31,40,2024-03-15T00:00:00.000Z,Chequeo de presión arterial,170,72,70,90,140,Hipertensión,,,,,,
+190,32,41,2024-02-19T00:00:00.000Z,Dolor de rodilla,178,85,76,80,120,Lesión de menisco,,,,,Cirugía de rodilla,
+191,33,42,2024-06-01T00:00:00.000Z,Palpitaciones y estrés,165,60,80,70,110,Ansiedad,,,,,,
+192,34,43,2024-05-10T00:00:00.000Z,Dolor en la ingle,175,75,72,85,125,Hernia inguinal,,,,,Cirugía de hernia,
+193,35,44,2024-04-18T00:00:00.000Z,Chequeo de presión arterial,170,72,70,90,135,Hipertensión,,,,,,
+194,36,45,2024-03-05T00:00:00.000Z,Dolor abdominal,168,74,75,85,130,Colecistitis,,,,,Cirugía de vesícula,
+195,37,46,2024-06-10T00:00:00.000Z,Fiebre y tos,172,68,72,80,120,Gripe,,,,,,
+196,38,47,2024-05-18T00:00:00.000Z,Dolor abdominal,165,70,75,85,130,Colecistitis,,,,,Cirugía de vesícula,
+197,39,48,2024-04-22T00:00:00.000Z,Dificultad para respirar,168,60,70,80,120,Asma,,,,,,
+198,40,49,2024-03-25T00:00:00.000Z,Dolor en la ingle,175,75,72,85,125,Hernia inguinal,,,,,Cirugía de hernia,
+199,41,50,2024-02-20T00:00:00.000Z,Chequeo de presión arterial,170,72,70,90,140,Hipertensión,,,,,,
+104,12,43,2023-11-01T00:00:00.000Z,Fiebre,175,68,72,80,120,Infección viral,Paracetamol 500mg,3 veces al día,7 días,,,12
+105,25,87,2023-10-10T00:00:00.000Z,Dolor abdominal,169,60,78,70,115,Gastritis,Omeprazol 20mg,1 vez al día,14 días,,,15
+106,18,29,2023-11-15T00:00:00.000Z,Tos persistente,161,56,66,74,112,Bronquitis,Dextrometorfano 15mg,2 veces al día,7 días,103,,8
+107,9,12,2023-12-05T00:00:00.000Z,Dolor de espalda,180,75,70,76,118,Hernia discal,Ibuprofeno 400mg,3 veces al día,10 días,,Cirugía de hernia discal,22
+108,31,34,2024-01-10T00:00:00.000Z,Dolor de cabeza,165,60,72,80,120,Migraña,Sumatriptán 50mg,1 vez cuando sea necesario,10 días,,,17
+109,22,50,2023-10-02T00:00:00.000Z,Dolor torácico,170,65,74,78,119,Angina de pecho,Aspirina 81mg,1 vez al día,30 días,,,5
+110,44,77,2023-11-25T00:00:00.000Z,Problemas respiratorios,168,58,80,82,122,Asma,Salbutamol inhalador,2 veces al día,Según sea necesario,,,20
+111,19,65,2023-12-15T00:00:00.000Z,Dolor en la rodilla,172,70,68,75,116,Artrosis,Paracetamol 500mg,2 veces al día,15 días,,Artroscopia de rodilla,7
+112,26,5,2024-01-05T00:00:00.000Z,Náuseas,160,54,72,76,110,Gastroenteritis,Ondansetrón 4mg,2 veces al día,3 días,,,14
+113,13,42,2023-09-30T00:00:00.000Z,Erupción cutánea,165,62,70,80,120,Dermatitis de contacto,Hidrocortisona crema,2 veces al día,7 días,,,18
+114,30,29,2024-02-15T00:00:00.000Z,Tos y fiebre,161,56,66,74,112,Neumonía,Amoxicilina 500mg,3 veces al día,10 días,106,,6
+115,40,8,2023-12-20T00:00:00.000Z,Dolor en el pecho,173,72,74,80,120,Reflujo gástrico,Omeprazol 20mg,1 vez al día,14 días,,,19
+116,15,32,2024-01-01T00:00:00.000Z,Dolor en el oído,160,59,76,78,118,Otitis,Amoxicilina 500mg,3 veces al día,7 días,,,11
+117,7,22,2024-01-12T00:00:00.000Z,Fiebre y dolor muscular,178,73,72,80,122,Influenza,Paracetamol 500mg,3 veces al día,5 días,,,10
+118,21,29,2024-03-10T00:00:00.000Z,Tos persistente,161,56,66,74,112,Asma,Salbutamol inhalador,2 veces al día,Según sea necesario,114,,3
+119,35,11,2023-10-30T00:00:00.000Z,Dolor en el pecho,175,77,78,80,120,Reflujo gástrico,Omeprazol 20mg,1 vez al día,14 días,,,4
+200,22,51,2024-06-14T00:00:00.000Z,Tos persistente,172,68,72,80,120,Bronquitis,,,,,,
+201,23,52,2024-05-20T00:00:00.000Z,Dolor abdominal,165,70,75,85,130,Hernia umbilical,,,,,Cirugía de hernia,
+202,24,53,2024-04-10T00:00:00.000Z,Estornudos y congestión,168,60,70,80,120,Alergia estacional,,,,,,
+203,25,54,2024-03-25T00:00:00.000Z,Dolor de rodilla,175,75,72,85,125,Lesión de menisco,,,,,Cirugía de menisco,
+204,22,55,2024-02-15T00:00:00.000Z,Fatiga y aumento de peso,170,72,70,90,140,Hipotiroidismo,,,,,,
+205,23,56,2024-01-30T00:00:00.000Z,Dolor abdominal,178,85,76,80,120,Colecistitis,,,,,Cirugía de vesícula,
+206,24,57,2024-06-11T00:00:00.000Z,Palpitaciones y estrés,165,60,80,70,110,Ansiedad,,,,,,
+207,25,58,2024-05-10T00:00:00.000Z,Dolor en la ingle,175,75,72,85,125,Hernia inguinal,,,,,Cirugía de hernia,
+208,22,59,2024-04-15T00:00:00.000Z,Chequeo de presión arterial,170,72,70,90,140,Hipertensión,,,,,,
+209,23,60,2024-03-20T00:00:00.000Z,Dolor de rodilla,178,85,76,80,120,Lesión de ligamento,,,,,Cirugía de rodilla,
+210,24,61,2024-02-18T00:00:00.000Z,Fatiga y sed excesiva,168,75,74,85,130,Diabetes Tipo 2,,,,,,
+211,25,62,2024-01-20T00:00:00.000Z,Fiebre y tos,172,68,72,80,120,Gripe,,,,,,
+212,22,63,2024-06-25T00:00:00.000Z,Dolor abdominal,165,70,75,85,130,Colecistitis,,,,,Cirugía de vesícula,
+213,23,64,2024-05-22T00:00:00.000Z,Dificultad para respirar,168,60,70,80,120,Asma,,,,,,
+214,24,65,2024-04-10T00:00:00.000Z,Dolor abdominal,175,75,72,85,125,Hernia umbilical,,,,,Cirugía de hernia,
+215,25,66,2024-03-15T00:00:00.000Z,Fatiga y aumento de peso,170,72,70,90,140,Hipotiroidismo,,,,,,
+216,22,67,2024-02-20T00:00:00.000Z,Dolor abdominal,178,85,76,80,120,Colecistitis,,,,,Cirugía de vesícula,
+217,23,68,2024-01-15T00:00:00.000Z,Palpitaciones y estrés,165,60,80,70,110,Ansiedad,,,,,,
+218,24,69,2024-06-10T00:00:00.000Z,Dolor en la ingle,175,75,72,85,125,Hernia inguinal,,,,,Cirugía de hernia,
+219,25,70,2024-05-05T00:00:00.000Z,Chequeo de presión arterial,170,72,70,90,140,Hipertensión,,,,,,
+230,42,230,2024-06-15T00:00:00.000Z,Fiebre y tos,172,68,72,80,120,Gripe,,,,,,
+231,43,231,2024-05-22T00:00:00.000Z,Dolor abdominal,165,70,75,85,130,Colecistitis,,,,,Cirugía de vesícula,
+232,44,232,2024-04-18T00:00:00.000Z,Dificultad para respirar,168,60,70,80,120,Asma,,,,,,
+233,45,233,2024-03-27T00:00:00.000Z,Dolor en la ingle,175,75,72,85,125,Hernia inguinal,,,,,Cirugía de hernia,
+234,46,234,2024-02-22T00:00:00.000Z,Chequeo de presión arterial,170,72,70,90,140,Hipertensión,,,,,,
+235,47,235,2024-01-19T00:00:00.000Z,Dolor de rodilla,178,85,76,80,120,Lesión de menisco,,,,,Cirugía de rodilla,
+236,48,236,2024-06-02T00:00:00.000Z,Palpitaciones y estrés,165,60,80,70,110,Ansiedad,,,,,,
+237,49,237,2024-05-10T00:00:00.000Z,Dolor abdominal,168,74,75,85,130,Colecistitis,,,,,Cirugía de vesícula,
+238,50,238,2024-04-12T00:00:00.000Z,Fatiga y sed excesiva,168,75,74,85,130,Diabetes Tipo 2,,,,,,
+239,51,239,2024-03-15T00:00:00.000Z,Chequeo de presión arterial,170,72,70,90,140,Hipertensión,,,,,,
+240,52,240,2024-02-19T00:00:00.000Z,Dolor de rodilla,178,85,76,80,120,Lesión de menisco,,,,,Cirugía de rodilla,
+241,53,241,2024-06-01T00:00:00.000Z,Palpitaciones y estrés,165,60,80,70,110,Ansiedad,,,,,,
+242,54,242,2024-05-10T00:00:00.000Z,Dolor en la ingle,175,75,72,85,125,Hernia inguinal,,,,,Cirugía de hernia,
+243,55,243,2024-04-18T00:00:00.000Z,Chequeo de presión arterial,170,72,70,90,135,Hipertensión,,,,,,
+244,56,244,2024-03-05T00:00:00.000Z,Dolor abdominal,168,74,75,85,130,Colecistitis,,,,,Cirugía de vesícula,
+245,57,245,2024-06-10T00:00:00.000Z,Fiebre y tos,172,68,72,80,120,Gripe,,,,,,
+246,58,246,2024-05-18T00:00:00.000Z,Dolor abdominal,165,70,75,85,130,Colecistitis,,,,,Cirugía de vesícula,
+247,59,247,2024-04-22T00:00:00.000Z,Dificultad para respirar,168,60,70,80,120,Asma,,,,,,
+248,60,248,2024-03-25T00:00:00.000Z,Dolor en la ingle,175,75,72,85,125,Hernia inguinal,,,,,Cirugía de hernia,
+249,61,249,2024-02-20T00:00:00.000Z,Chequeo de presión arterial,170,72,70,90,140,Hipertensión,,,,,,
+250,62,250,2024-06-20T00:00:00.000Z,Dolor de oído,170,68,75,80,120,Otitis media,,,,,,
+251,63,251,2024-05-15T00:00:00.000Z,Dolor de garganta,168,70,70,85,125,Amigdalitis crónica,,,,,Cirugía de amígdalas,
+252,64,252,2024-04-10T00:00:00.000Z,Erupción cutánea,175,72,78,80,130,Dermatitis atópica,,,,,,
+253,65,253,2024-03-05T00:00:00.000Z,Dolor abdominal,172,74,72,85,125,Apendicitis aguda,,,,,Cirugía de apéndice,
+254,66,254,2024-02-25T00:00:00.000Z,Dolor de garganta y fiebre,168,69,74,82,120,Faringitis estreptocócica,,,,,,
+255,67,255,2024-01-18T00:00:00.000Z,Visión borrosa,165,68,70,80,120,Cataratas,,,,,Cirugía de cataratas,
+256,68,256,2024-06-12T00:00:00.000Z,Fatiga y aumento de peso,175,70,68,85,120,Hipotiroidismo,,,,,,
+257,69,257,2024-06-14T00:00:00.000Z,Dolor de cabeza severo,170,70,72,80,120,Migraña,,,,,,
+120,16,38,2024-01-25T00:00:00.000Z,Dolor de estómago,170,68,72,78,115,Gastritis,Omeprazol 20mg,1 vez al día,14 días,,,11
+121,5,48,2023-09-15T00:00:00.000Z,Mareos,165,60,70,76,110,Vertigo,Betahistina 8mg,2 veces al día,7 días,,,14
+122,23,55,2024-02-12T00:00:00.000Z,Erupción cutánea,160,55,75,80,120,Alergia,Loratadina 10mg,1 vez al día,10 días,,,13
+123,37,9,2023-12-10T00:00:00.000Z,Dolor de espalda,175,72,68,75,120,Contractura muscular,Ibuprofeno 400mg,2 veces al día,7 días,,,18
+124,49,30,2024-01-20T00:00:00.000Z,Dolor de garganta,168,64,72,80,115,Amigdalitis,Amoxicilina 500mg,3 veces al día,10 días,,,9
+125,2,66,2024-02-05T00:00:00.000Z,Dolor de oído,162,58,74,78,118,Otitis media,Amoxicilina 500mg,3 veces al día,7 días,,,12
+126,10,29,2024-04-05T00:00:00.000Z,Tos y fiebre,161,56,66,74,112,Neumonía,Amoxicilina 500mg,3 veces al día,10 días,118,,6
+127,22,15,2024-02-15T00:00:00.000Z,Dolor de cabeza,170,65,72,80,120,Migraña,Ibuprofeno 400mg,3 veces al día,5 días,,,8
+128,34,63,2023-11-18T00:00:00.000Z,Dolor abdominal,168,70,74,78,115,Gastritis,Omeprazol 20mg,1 vez al día,14 días,,,20
+129,17,4,2024-03-25T00:00:00.000Z,Dolor articular,173,74,70,80,120,Artritis,Ibuprofeno 400mg,2 veces al día,10 días,,,16
+130,14,12,2024-01-30T00:00:00.000Z,Tos persistente,170,66,70,78,115,Bronquitis,Amoxicilina 500mg,3 veces al día,7 días,,,10
+131,1,25,2024-02-10T00:00:00.000Z,Dolor de estómago,160,60,72,78,115,Gastritis,Omeprazol 20mg,1 vez al día,14 días,,,12
+132,12,37,2023-09-25T00:00:00.000Z,Dolor de espalda,172,70,70,80,120,Hernia discal,Ibuprofeno 400mg,2 veces al día,14 días,,,7
+133,3,40,2024-02-20T00:00:00.000Z,Dolor de garganta,165,62,72,80,115,Amigdalitis,Amoxicilina 500mg,3 veces al día,10 días,,,14
+134,45,18,2024-01-18T00:00:00.000Z,Fiebre,160,58,74,80,115,Infección viral,Paracetamol 500mg,3 veces al día,5 días,,,11
+135,11,7,2023-12-28T00:00:00.000Z,Dolor en el pecho,175,80,72,80,120,Reflujo gástrico,Omeprazol 20mg,1 vez al día,14 días,,,17
+136,21,2,2024-02-18T00:00:00.000Z,Mareos,160,56,70,76,110,Vertigo,Betahistina 8mg,2 veces al día,7 días,,,15
+137,19,50,2024-01-28T00:00:00.000Z,Erupción cutánea,162,57,75,80,120,Alergia,Loratadina 10mg,1 vez al día,10 días,,,20
+138,26,32,2023-11-30T00:00:00.000Z,Dolor de estómago,170,68,72,78,115,Gastritis,Omeprazol 20mg,1 vez al día,14 días,,,11
+139,20,13,2023-12-20T00:00:00.000Z,Dolor articular,173,74,70,80,120,Artritis,Ibuprofeno 400mg,2 veces al día,10 días,,,19
+140,7,19,2024-03-05T00:00:00.000Z,Dolor de cabeza,170,65,72,80,120,Migraña,Ibuprofeno 400mg,3 veces al día,5 días,,,18
+141,13,21,2024-01-14T00:00:00.000Z,Dolor de garganta,168,64,72,80,115,Amigdalitis,Amoxicilina 500mg,3 veces al día,10 días,,,16
+142,8,26,2024-02-25T00:00:00.000Z,Dolor de espalda,175,72,68,75,120,Contractura muscular,Ibuprofeno 400mg,2 veces al día,7 días,,,17
+143,10,30,2023-12-10T00:00:00.000Z,Dolor abdominal,167,64,75,78,115,Gastritis,Omeprazol 20mg,1 vez al día,14 días,,,10
+144,5,22,2024-02-05T00:00:00.000Z,Fiebre y tos,162,59,74,78,115,Infección respiratoria,Paracetamol 500mg,3 veces al día,5 días,,,13
+145,4,14,2024-03-01T00:00:00.000Z,Dolor en el pecho,175,80,72,80,120,Reflujo gástrico,Omeprazol 20mg,1 vez al día,14 días,,,12
+146,3,10,2024-02-20T00:00:00.000Z,Mareos,160,56,70,76,110,Vértigo,Betahistina 8mg,2 veces al día,7 días,,,15
+147,9,11,2024-01-28T00:00:00.000Z,Erupción cutánea,162,57,75,80,120,Alergia,Loratadina 10mg,1 vez al día,10 días,,,20
+148,15,28,2023-11-25T00:00:00.000Z,Dolor de estómago,170,68,72,78,115,Gastritis,Omeprazol 20mg,1 vez al día,14 días,,,11
+149,6,12,2024-01-10T00:00:00.000Z,Dolor articular,173,74,70,80,120,Artritis,Ibuprofeno 400mg,2 veces al día,10 días,,,19
+220,2,18,2024-04-15T00:00:00.000Z,Dolor de cabeza,165,60,72,80,120,Migraña,Ibuprofeno 400mg,3 veces al día,5 días,,,18
+221,25,24,2024-05-10T00:00:00.000Z,Dolor de garganta,170,70,74,78,115,Faringitis,Amoxicilina 500mg,3 veces al día,10 días,,,10
+222,11,8,2024-06-01T00:00:00.000Z,Dolor en el pecho,175,78,70,80,120,Reflujo gástrico,Omeprazol 20mg,1 vez al día,14 días,,,12
+223,14,9,2024-04-20T00:00:00.000Z,Fiebre y tos,160,58,76,78,115,Infección respiratoria,Paracetamol 500mg,3 veces al día,5 días,,,13
+224,18,16,2024-03-10T00:00:00.000Z,Erupción cutánea,165,62,75,80,120,Alergia,Loratadina 10mg,1 vez al día,10 días,,,20
+225,9,4,2024-01-18T00:00:00.000Z,Dolor de espalda,175,70,68,75,120,Contractura muscular,Ibuprofeno 400mg,2 veces al día,7 días,,,17
+226,21,5,2024-02-12T00:00:00.000Z,Mareos,160,54,70,76,110,Vértigo,Betahistina 8mg,2 veces al día,7 días,,,15
+227,19,2,2024-05-05T00:00:00.000Z,Dolor de estómago,170,68,72,78,115,Gastritis,Omeprazol 20mg,1 vez al día,14 días,,,11
+228,3,22,2024-04-25T00:00:00.000Z,Dolor articular,173,74,70,80,120,Artritis,Ibuprofeno 400mg,2 veces al día,10 días,,,19
+229,12,7,2024-06-15T00:00:00.000Z,Tos persistente,169,66,74,78,115,Bronquitis,Amoxicilina 500mg,3 veces al día,10 días,,,16

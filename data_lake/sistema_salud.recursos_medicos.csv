@@ -1,0 +1,27 @@
+_id,tipo_recurso,nombre,fabricante,modelo,estado,fecha_compra
+1,Instrumento,Ventilador Mecánico,BreatheEasy Ltd.,BE-500,Mantenimiento,2020-07-10T00:00:00.000Z
+2,Monitor,Monitor de Signos Vitales,HealthTech Inc.,VitalWatch 3000,Operativo,2019-11-22T00:00:00.000Z
+3,Equipo Quirúrgico,Lámpara Quirúrgica LED,SurgicalLight Corp.,LumiTech 2000,En reparación,2021-03-15T00:00:00.000Z
+4,Instrumento,Desfibrilador Automático,HeartRescue Technologies,RescueD-500,Operativo,2018-05-07T00:00:00.000Z
+5,Instrumento,Bomba de Infusión,MedTech Solutions,InfuseX 1000,Mantenimiento,2022-01-30T00:00:00.000Z
+6,Monitor,Monitor de Electrocardiograma,CardioTech Systems,CardioMonitor 500,Operativo,2020-08-18T00:00:00.000Z
+7,Equipo Quirúrgico,Mesa de Operaciones,SurgiTable Inc.,SurgiTable 3000,En mantenimiento,2017-12-05T00:00:00.000Z
+8,Instrumento,Ventilador de Transporte,RespireTech,RespiMove 200,Operativo,2023-04-12T00:00:00.000Z
+9,Monitor,Monitor de Presión Arterial,BloodPressure Inc.,BP-3000,Operativo,2019-06-28T00:00:00.000Z
+10,Instrumento,Bomba de Aspiración,SuctionTech,AspireX 500,En mantenimiento,2021-10-02T00:00:00.000Z
+11,Instrumento,Incubadora Neonatal,NeoCare Innovations,NeoWarm 100,Operativo,2020-02-14T00:00:00.000Z
+12,Monitor,Monitor de Gases Sanguíneos,GasTech Solutions,BloodGas 4000,Operativo,2021-09-20T00:00:00.000Z
+13,Equipo Quirúrgico,Aspirador de Humos Quirúrgico,SmokeAway Inc.,SmokeSuction 2000,Mantenimiento,2019-12-10T00:00:00.000Z
+14,Instrumento,Bomba de Infusión de Doble Canal,MediPump Corp.,DualInfuse 1200,Operativo,2022-05-08T00:00:00.000Z
+15,Monitor,Monitor de Frecuencia Cardíaca,HeartBeat Technologies,HeartRate Monitor 100,En mantenimiento,2020-04-25T00:00:00.000Z
+16,Equipo Quirúrgico,Lámpara Quirúrgica Halógena,SurgiLight Inc.,HaloSurg 300,Operativo,2018-08-17T00:00:00.000Z
+17,Instrumento,Desfibrilador Externo Automático,RescueTech,AED-1000,Operativo,2023-02-11T00:00:00.000Z
+18,Monitor,Monitor de Saturación de Oxígeno,OxyMonitor Technologies,OxySat 500,Mantenimiento,2021-01-07T00:00:00.000Z
+19,Instrumento,Incubadora de Transporte Neonatal,NeoTran Inc.,NeoCrib 300,Operativo,2019-10-30T00:00:00.000Z
+20,Instrumento,Bomba de Nutrición Enteral,EnteralTech,NutriPump 800,Operativo,2020-06-14T00:00:00.000Z
+21,Monitor,Monitor de Presión Intracraneal,CranialPressure Inc.,CranioMonitor 600,En reparación,2018-03-19T00:00:00.000Z
+22,Equipo Quirúrgico,Electrobisturí,ElectroCut Technologies,ElectroSurg 500,Operativo,2022-08-22T00:00:00.000Z
+23,Instrumento,Respirador de Circuito Abierto,AirVent Systems,CircuVent 700,Mantenimiento,2021-04-29T00:00:00.000Z
+24,Monitor,Monitor de Temperatura Corporal,TempTech,TempMonitor 200,Operativo,2019-07-12T00:00:00.000Z
+25,Equipo Quirúrgico,Cauterizador Electrónico,CauterTech Inc.,ElectroCauter 400,Operativo,2020-11-05T00:00:00.000Z
+26,Instrumento,Bomba de Perfusión,PerfuseTech,PerfuPump 300,En mantenimiento,2022-02-18T00:00:00.000Z

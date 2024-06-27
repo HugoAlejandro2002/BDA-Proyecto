@@ -1,0 +1,852 @@
+ID,Medicine,Pharmaceutical form type,Composition,Observation,Uso del Medicamento
+1,Abiraterona Acetato,Comprimido,250 mg,,Agentes antineoplásicos e imunomoduladores
+2,Anastrozol,Comprimido,1 mg,,Agentes antineoplásicos e imunomoduladores
+3,Asparaginasa,Inyectable,10.000 UI,,Agentes antineoplásicos e imunomoduladores
+4,Azatioprina,Comprimido,50 mg,,Agentes antineoplásicos e imunomoduladores
+5,Azatioprina,Inyectable,20 mg/ml,,Agentes antineoplásicos e imunomoduladores
+6,Basiliximab,Polvo para inyectable,20 mg,,Agentes antineoplásicos e imunomoduladores
+7,Bevacizumab,Inyectable,25 mg/ml,,Agentes antineoplásicos e imunomoduladores
+8,Bicalutamida,Comprimido,50 mg,,Agentes antineoplásicos e imunomoduladores
+9,Bleomicina,Inyectable,15 UI,,Agentes antineoplásicos e imunomoduladores
+10,Bortezomib,Polvo para inyectable,"3,5 mg",,Agentes antineoplásicos e imunomoduladores
+11,Busulfano,Comprimido,2 mg,,Agentes antineoplásicos e imunomoduladores
+12,Capecitabine,Comprimido,500 mg,,Agentes antineoplásicos e imunomoduladores
+13,Carboplatino,Inyectable,150 mg,,Agentes antineoplásicos e imunomoduladores
+14,Carboplatino,Inyectable,450 mg,,Agentes antineoplásicos e imunomoduladores
+15,Ciclofosfamida,Comprimido,50 mg,,Agentes antineoplásicos e imunomoduladores
+16,Ciclofosfamida,Inyectable,1 g,,Agentes antineoplásicos e imunomoduladores
+17,Ciclofosfamida,Inyectable,500 mg,,Agentes antineoplásicos e imunomoduladores
+18,Ciclosporina,Cápsula blanda,100 mg,,Agentes antineoplásicos e imunomoduladores
+19,Ciclosporina,Cápsula blanda,25 mg,,Agentes antineoplásicos e imunomoduladores
+20,Ciclosporina,Cápsula blanda,50 mg,,Agentes antineoplásicos e imunomoduladores
+21,Ciclosporina,Solución oral,100 mg/ml,,Agentes antineoplásicos e imunomoduladores
+22,Ciproterona (acetato),Comprimido,50 mg,,Agentes antineoplásicos e imunomoduladores
+23,Cisplatino,Inyectable,10 mg,,Agentes antineoplásicos e imunomoduladores
+24,Cisplatino,Inyectable,50 mg,,Agentes antineoplásicos e imunomoduladores
+25,Citarabina,Inyectable,100 mg,,Agentes antineoplásicos e imunomoduladores
+26,Citarabina,Inyectable,500 mg,,Agentes antineoplásicos e imunomoduladores
+27,Dacarbazina,Inyectable,200 mg,,Agentes antineoplásicos e imunomoduladores
+28,Dactinomicina,Inyectable,"0,5 mg/ml",,Agentes antineoplásicos e imunomoduladores
+29,Dasatinib,Comprimido,100 mg,,Agentes antineoplásicos e imunomoduladores
+30,Dasatinib,Comprimido,20 mg,,Agentes antineoplásicos e imunomoduladores
+31,Dasatinib,Comprimido,50 mg,,Agentes antineoplásicos e imunomoduladores
+32,Dasatinib,Comprimido,70 mg,,Agentes antineoplásicos e imunomoduladores
+33,Daunorrubicina,Inyectable,20 mg,,Agentes antineoplásicos e imunomoduladores
+34,Docetaxel,Inyectable,40 mg/ml (2ml),,Agentes antineoplásicos e imunomoduladores
+35,Doxorrubicina liposomal pegilada,Inyectable,20 mg/ 10 ml,,Agentes antineoplásicos e imunomoduladores
+36,Doxorubicina clorhidrato (Adriamicina clorh.),Inyectable,10 mg,,Agentes antineoplásicos e imunomoduladores
+37,Doxorubicina clorhidrato (Adriamicina clorh.),Inyectable,50 mg,,Agentes antineoplásicos e imunomoduladores
+38,Enzalutamida,Cápsula,40 mg,,Agentes antineoplásicos e imunomoduladores
+39,Erlotinib,Comprimido,150 mg,,Agentes antineoplásicos e imunomoduladores
+40,Etopósido,Inyectable,100 mg/5 ml,,Agentes antineoplásicos e imunomoduladores
+41,Filgrastrim,Inyectable,300 mcg/ml,,Agentes antineoplásicos e imunomoduladores
+42,Fingolimod,Cápsula,"0,5 mg",,Agentes antineoplásicos e imunomoduladores
+43,Fludarabina,Inyectable,50 mg,,Agentes antineoplásicos e imunomoduladores
+44,Fluorouracilo,Inyectable,500 mg/10 ml,,Agentes antineoplásicos e imunomoduladores
+45,Flutamida,Comprimido,250 mg,,Agentes antineoplásicos e imunomoduladores
+46,Gemcitabina,Inyectable,1 g,,Agentes antineoplásicos e imunomoduladores
+47,Gemcitabina,Inyectable,200 mg,,Agentes antineoplásicos e imunomoduladores
+48,Globulina Anti-timocito,Inyectable,250 mg/5ml,,Agentes antineoplásicos e imunomoduladores
+49,Globulina Anti-timocito (conejo),Inyectable,25 mg,,Agentes antineoplásicos e imunomoduladores
+50,Hidroxiurea,Cápsula,500 mg,,Agentes antineoplásicos e imunomoduladores
+51,Ifosfamida,Inyectable,1 g,,Agentes antineoplásicos e imunomoduladores
+52,Imatinib,Comprimido,100 mg,,Agentes antineoplásicos e imunomoduladores
+53,Imatinib,Comprimido,400 mg,,Agentes antineoplásicos e imunomoduladores
+54,Interferon alfa 2 b recombinante,Inyectable,10.000.000 UI con diluyente (1 ml),,Agentes antineoplásicos e imunomoduladores
+55,Interferon alfa 2 b recombinante,Inyectable,3.000.000 UI con diluyente (1 ml),,Agentes antineoplásicos e imunomoduladores
+56,Interferon beta,Inyectable,"0,3 mg",,Agentes antineoplásicos e imunomoduladores
+57,Irinotecan,Inyectable,100 mg /5 ml,,Agentes antineoplásicos e imunomoduladores
+58,Leflunomida,Comprimido,100 mg,,Agentes antineoplásicos e imunomoduladores
+59,Leflunomida,Comprimido,20 mg,,Agentes antineoplásicos e imunomoduladores
+60,Lenalidomida,Cápsula,10 mg,,Agentes antineoplásicos e imunomoduladores
+61,Lenalidomida,Cápsula,15 mg,,Agentes antineoplásicos e imunomoduladores
+62,Lenalidomida,Cápsula,25 mg,,Agentes antineoplásicos e imunomoduladores
+63,Lenalidomida,Cápsula,5 mg,,Agentes antineoplásicos e imunomoduladores
+64,Letrozol,Comprimido,"2,5 mg",,Agentes antineoplásicos e imunomoduladores
+65,Leuprolide,Inyectable,"7,5 mg",,Agentes antineoplásicos e imunomoduladores
+66,Melfalán,Comprimido,2 mg,,Agentes antineoplásicos e imunomoduladores
+67,Melfalán,Inyectable,50 mg,,Agentes antineoplásicos e imunomoduladores
+68,Mercaptopurina,Comprimido ranurado,50 mg,,Agentes antineoplásicos e imunomoduladores
+69,Metotrexato,Comprimido,"2,5 mg",,Agentes antineoplásicos e imunomoduladores
+70,Metotrexato,Inyectable,50 mg,,Agentes antineoplásicos e imunomoduladores
+71,Metotrexato,Inyectable,500 mg,,Agentes antineoplásicos e imunomoduladores
+72,Micofenolato de mofetilo,Comprimido,500 mg,,Agentes antineoplásicos e imunomoduladores
+73,Mitomicina,Inyectable,20 mg,,Agentes antineoplásicos e imunomoduladores
+74,Nimotuzumab,Inyectable,50 mg,,Agentes antineoplásicos e imunomoduladores
+75,Oxaliplatino,Inyectable,100 mg,,Agentes antineoplásicos e imunomoduladores
+76,Oxaliplatino,Inyectable,50 mg,,Agentes antineoplásicos e imunomoduladores
+77,Paclitaxel,Inyectable,30 mg/5 ml,,Agentes antineoplásicos e imunomoduladores
+78,Paclitaxel,Inyectable,300 mg/50 ml,,Agentes antineoplásicos e imunomoduladores
+79,Pazopanib,Comprimido,200 mg,,Agentes antineoplásicos e imunomoduladores
+80,Pegaspargasa,Plegable Frasco Vial,750 mg/ml,,Agentes antineoplásicos e imunomoduladores
+81,Pertuzumab,Inyectable,420 mg/14 ml,,Agentes antineoplásicos e imunomoduladores
+82,Rituximab,Inyectable,100 mg/10ml,,Agentes antineoplásicos e imunomoduladores
+83,Rituximab,Inyectable,500 mg/50 ml,,Agentes antineoplásicos e imunomoduladores
+84,Tacrolimus,Cápsula,1 mg,,Agentes antineoplásicos e imunomoduladores
+85,Talidomida,Comprimido,100 mg,,Agentes antineoplásicos e imunomoduladores
+86,Tamoxifeno,Comprimido,20 mg,,Agentes antineoplásicos e imunomoduladores
+87,Temozolomida,Cápsula,100 mg,,Agentes antineoplásicos e imunomoduladores
+88,Temozolomida,Cápsula,20 mg,,Agentes antineoplásicos e imunomoduladores
+89,Temozolomida,Cápsula,250 mg,,Agentes antineoplásicos e imunomoduladores
+90,Trastuzumab,Inyectable,440 mg,,Agentes antineoplásicos e imunomoduladores
+91,Trastuzumab,Inyectable,600 mg,,Agentes antineoplásicos e imunomoduladores
+92,Triptorelina,Inyectable,"11,25 mg",,Agentes antineoplásicos e imunomoduladores
+93,Triptorelina,Inyectable,"22,5 mg",,Agentes antineoplásicos e imunomoduladores
+94,Vinblastina,Inyectable,10 mg,,Agentes antineoplásicos e imunomoduladores
+95,Vincristina,Inyectable,1 mg/ml,,Agentes antineoplásicos e imunomoduladores
+96,Vinorelbina,Inyectable,50 mg,,Agentes antineoplásicos e imunomoduladores
+97,Abacavir,Comprimido,300 mg,,Antiinfecciosos en general para uso sistémico
+98,Aciclovir,Comprimido,200 mg,,Antiinfecciosos en general para uso sistémico
+99,Aciclovir,Comprimido,400 mg,,Antiinfecciosos en general para uso sistémico
+100,Aciclovir,Comprimido,800 mg,,Antiinfecciosos en general para uso sistémico
+101,Aciclovir,Inyectable,250 mg,,Antiinfecciosos en general para uso sistémico
+102,Aciclovir,Inyectable,500 mg,,Antiinfecciosos en general para uso sistémico
+103,Aciclovir,Suspensión,200 mg/5 ml,,Antiinfecciosos en general para uso sistémico
+104,Ácido nalidíxico,Comprimido,500 mg,,Antiinfecciosos en general para uso sistémico
+105,Ácido nalidíxico,Suspensión,125 mg/5 ml,,Antiinfecciosos en general para uso sistémico
+106,Ácido nalidíxico,Suspensión,250 mg/5 ml,,Antiinfecciosos en general para uso sistémico
+107,Acido p-aminosalicílico,Polvo para solución oral,4 g,,Antiinfecciosos en general para uso sistémico
+108,Amfotericina B,Inyectable,50 mg,,Antiinfecciosos en general para uso sistémico
+109,Amikacina,Inyectable,500mg /2 ml,,Antiinfecciosos en general para uso sistémico
+110,Amoxicilina,Comprimido,1 g,,Antiinfecciosos en general para uso sistémico
+111,Amoxicilina,Comprimido,500 mg,,Antiinfecciosos en general para uso sistémico
+112,Amoxicilina,Inyectable,1 g,,Antiinfecciosos en general para uso sistémico
+113,Amoxicilina,Suspensión,500 mg/5 ml,,Antiinfecciosos en general para uso sistémico
+114,Amoxicilina + inhibidor betalactamasa,Comprimido,500 mg + Según disponibilidad,,Antiinfecciosos en general para uso sistémico
+115,Amoxicilina + inhibidor betalactamasa,Comprimido,875 mg + Según disponibilidad,,Antiinfecciosos en general para uso sistémico
+116,Amoxicilina + inhibidor betalactamasa,Inyectable,1 g + Según disponibilidad,,Antiinfecciosos en general para uso sistémico
+117,Amoxicilina + inhibidor betalactamasa,Suspensión,250 mg + Según disponibilidad,,Antiinfecciosos en general para uso sistémico
+118,Ampicilina,Inyectable,1 g,,Antiinfecciosos en general para uso sistémico
+119,Antitóxina tetánica,Inyectable,Norma PAI según disponibilidad,,Antiinfecciosos en general para uso sistémico
+120,Atazanavir (sulfato),Cápsula o Comprimido,300 mg,,Antiinfecciosos en general para uso sistémico
+121,Atazanavir + Ritonavir,Cápsula o Comprimido,300 mg + 100 mg,,Antiinfecciosos en general para uso sistémico
+122,Azitromicina,Comprimido,500 mg,,Antiinfecciosos en general para uso sistémico
+123,Azitromicina,Suspensión,200 mg/5 ml,,Antiinfecciosos en general para uso sistémico
+124,Bedaquilina,Comprimido,100 mg,,Antiinfecciosos en general para uso sistémico
+125,Bencilpenicilina benzatínica,Inyectable,1.200.000 UI,,Antiinfecciosos en general para uso sistémico
+126,Bencilpenicilina benzatínica,Inyectable,2.400.000 UI,,Antiinfecciosos en general para uso sistémico
+127,Bencilpenicilina benzatínica,Inyectable,600.000 UI,,Antiinfecciosos en general para uso sistémico
+128,Bencilpenicilina procaínica,Inyectable,400.000 UI,,Antiinfecciosos en general para uso sistémico
+129,Bencilpenicilina procaínica,Inyectable,800.000 UI,,Antiinfecciosos en general para uso sistémico
+130,Bencilpenicilina sódica,Inyectable,1.000.000 UI,,Antiinfecciosos en general para uso sistémico
+131,Bencilpenicilina sódica,Inyectable,30.000.000 UI,,Antiinfecciosos en general para uso sistémico
+132,Capreomicina,Inyectable,1 g,,Antiinfecciosos en general para uso sistémico
+133,Cefazolina,Inyectable,1 g,,Antiinfecciosos en general para uso sistémico
+134,Cefepima,Inyectable,1g,,Antiinfecciosos en general para uso sistémico
+135,Cefixima,Comprimido o Cápsula,400 mg,,Antiinfecciosos en general para uso sistémico
+136,Cefixima,Suspensión,100 mg/5 ml,,Antiinfecciosos en general para uso sistémico
+137,Cefotaxima,Inyectable,1 g,,Antiinfecciosos en general para uso sistémico
+138,Cefradina,Cápsula o Comprimido,500 mg,,Antiinfecciosos en general para uso sistémico
+139,Cefradina,Suspensión,250 mg/5 ml,,Antiinfecciosos en general para uso sistémico
+140,Ceftazidima,Inyectable,1 g,,Antiinfecciosos en general para uso sistémico
+141,Ceftriaxona,Inyectable,1 g,,Antiinfecciosos en general para uso sistémico
+142,Cicloserina,Cápsula,250 mg,,Antiinfecciosos en general para uso sistémico
+143,Ciprofloxacina,Comprimido,250 mg,,Antiinfecciosos en general para uso sistémico
+144,Ciprofloxacina,Comprimido,500 mg,,Antiinfecciosos en general para uso sistémico
+145,Ciprofloxacina,Inyectable,200 mg,,Antiinfecciosos en general para uso sistémico
+146,Claritromicina,Comprimido,500 mg,,Antiinfecciosos en general para uso sistémico
+147,Claritromicina,Suspensión,250 mg/5 ml,,Antiinfecciosos en general para uso sistémico
+148,Clindamicina,Cápsula o Comprimido,300 mg,,Antiinfecciosos en general para uso sistémico
+149,Clindamicina,Inyectable,600 mg,,Antiinfecciosos en general para uso sistémico
+150,Clindamicina,Suspensión o Jarabe,75 mg/5 ml,,Antiinfecciosos en general para uso sistémico
+151,Clofazimina,Cápsula,100 mg,,Antiinfecciosos en general para uso sistémico
+152,Clofazimina,Cápsula,50 mg,,Antiinfecciosos en general para uso sistémico
+153,Cloranfenicol,Cápsula,500 mg,,Antiinfecciosos en general para uso sistémico
+154,Cloranfenicol succinato sódico,Inyectable,1 g,,Antiinfecciosos en general para uso sistémico
+155,Cloxacilina,Inyectable,1 g,,Antiinfecciosos en general para uso sistémico
+156,Cloxacilina,Inyectable,500 mg,,Antiinfecciosos en general para uso sistémico
+157,Colistina,Inyectable,100 mg,,Antiinfecciosos en general para uso sistémico
+158,Cotrimoxazol (Sulfametoxazol + Trimetoprima),Comprimido,100 mg + 20 mg,,Antiinfecciosos en general para uso sistémico
+159,Cotrimoxazol (Sulfametoxazol + Trimetoprima),Comprimido,400 mg + 80 mg,,Antiinfecciosos en general para uso sistémico
+160,Cotrimoxazol (Sulfametoxazol + Trimetoprima),Comprimido,800 mg + 160 mg,,Antiinfecciosos en general para uso sistémico
+161,Cotrimoxazol (Sulfametoxazol + Trimetoprima),Inyectable,400 mg + 80 mg/5 ml,,Antiinfecciosos en general para uso sistémico
+162,Cotrimoxazol (Sulfametoxazol + Trimetoprima),Inyectable,400 mg + 80 mg/5 ml,,Antiinfecciosos en general para uso sistémico
+163,Cotrimoxazol (Sulfametoxazol + Trimetoprima),Suspensión,200 mg + 40 mg/5 ml,,Antiinfecciosos en general para uso sistémico
+164,Cotrimoxazol (Sulfametoxazol + Trimetoprima),Suspensión,400 mg + 80 mg/5 ml,,Antiinfecciosos en general para uso sistémico
+165,Daclatasvir,Cápsula o Comprimido,60 mg,,Antiinfecciosos en general para uso sistémico
+166,Dapsona,Comprimido,100 mg,,Antiinfecciosos en general para uso sistémico
+167,Dapsona,Comprimido,50 mg,,Antiinfecciosos en general para uso sistémico
+168,Darunavir,Comprimido,600 mg,,Antiinfecciosos en general para uso sistémico
+169,Delamanid,Comprimido,100 mg,,Antiinfecciosos en general para uso sistémico
+170,Dicloxacilina sódica,Cápsula,500 mg,,Antiinfecciosos en general para uso sistémico
+171,Dicloxacilina sódica,Suspensión,250 mg/5 ml,,Antiinfecciosos en general para uso sistémico
+172,Dicloxacilina sódica,Suspensión,250 mg/5 ml,,Antiinfecciosos en general para uso sistémico
+173,Dicloxacilina sódica,Suspensión,250 mg/5 ml,,Antiinfecciosos en general para uso sistémico
+174,Doxiciclina,Cápsula o Comprimido,100 mg,,Antiinfecciosos en general para uso sistémico
+175,Efavirenz,Comprimido,200 mg,,Antiinfecciosos en general para uso sistémico
+176,Efavirenz,Comprimido,600 mg,,Antiinfecciosos en general para uso sistémico
+177,Eritromicina (estearato),Cápsula o Comprimido,500 mg,,Antiinfecciosos en general para uso sistémico
+178,Eritromicina (etilsuccinato),Suspensión,250 mg/5 ml,,Antiinfecciosos en general para uso sistémico
+179,Espiramicina,Comprimido,500 mg,,Antiinfecciosos en general para uso sistémico
+180,Estreptomicina sulfato,Inyectable,1 g,,Antiinfecciosos en general para uso sistémico
+181,Etambutol,Comprimido,400 mg,,Antiinfecciosos en general para uso sistémico
+182,Etionamida,Comprimido,250 mg,,Antiinfecciosos en general para uso sistémico
+183,Favipiravir,Comprimido recubierto,200 mg,,Antiinfecciosos en general para uso sistémico
+184,Fluconazol,Comprimido o Cápsula,150 mg,,Antiinfecciosos en general para uso sistémico
+185,Fluconazol,Inyectable,200 mg,,Antiinfecciosos en general para uso sistémico
+186,Gentamicina sulfato,Inyectable,20 mg,,Antiinfecciosos en general para uso sistémico
+187,Gentamicina sulfato,Inyectable,80 mg,,Antiinfecciosos en general para uso sistémico
+188,Griseofulvina,Comprimido,500 mg,,Antiinfecciosos en general para uso sistémico
+189,Griseofulvina,Suspensión,125 mg/5 ml,,Antiinfecciosos en general para uso sistémico
+190,Imipenem + Cilastatina,Inyectable,500 mg + 500 mg,,Antiinfecciosos en general para uso sistémico
+191,Inmunoglobulina anti D (RH +),Inyectable,"0,1 mg/ml a 0,2 mg/ml",,Antiinfecciosos en general para uso sistémico
+192,Inmunoglobulina humana normal,Inyectable,5 g IV,,Antiinfecciosos en general para uso sistémico
+193,Isoniazida (INH),Comprimido,100 mg,,Antiinfecciosos en general para uso sistémico
+194,Kanamicina,Inyectable,1 g,,Antiinfecciosos en general para uso sistémico
+195,Lamivudina,Comprimido,150 mg,,Antiinfecciosos en general para uso sistémico
+196,Lamivudina,Jarabe o Solución oral,10 mg/ml,,Antiinfecciosos en general para uso sistémico
+197,Ledipasvir + Sofosbuvir,Comprimido,90 mg + 400 mg,,Antiinfecciosos en general para uso sistémico
+198,Levofloxacina,Comprimido,500 mg,,Antiinfecciosos en general para uso sistémico
+199,Levofloxacina,Inyectable,500 mg,,Antiinfecciosos en general para uso sistémico
+200,Linezolid,Comprimido,600 mg,,Antiinfecciosos en general para uso sistémico
+201,Lopinavir + Ritonavir,Comprimido,200 mg + 50 mg,,Antiinfecciosos en general para uso sistémico
+202,Lopinavir + Ritonavir,Solución oral,80 mg + 20 mg/ml,,Antiinfecciosos en general para uso sistémico
+203,Meropenem,Inyectable,500 mg,,Antiinfecciosos en general para uso sistémico
+204,Minociclina,Comprimido,100 mg,,Antiinfecciosos en general para uso sistémico
+205,Moxifloxacina,Comprimido,400 mg,,Antiinfecciosos en general para uso sistémico
+206,Nevirapina,Comprimido,200 mg,,Antiinfecciosos en general para uso sistémico
+207,Nevirapina,Suspensión,10 mg/ml,,Antiinfecciosos en general para uso sistémico
+208,Nitrofurantoína,Comprimido,100 mg,,Antiinfecciosos en general para uso sistémico
+209,Nitrofurantoína,Suspensión,25 mg/5 ml,,Antiinfecciosos en general para uso sistémico
+210,Ofloxacina,Comprimido,200 mg,,Antiinfecciosos en general para uso sistémico
+211,Ofloxacina,Comprimido,400 mg,,Antiinfecciosos en general para uso sistémico
+212,Oseltamivir,Cápsula,75 mg,,Antiinfecciosos en general para uso sistémico
+213,Oseltamivir,Suspensión,12 mg/ml,,Antiinfecciosos en general para uso sistémico
+214,Oseltamivir,Suspensión,30 mg/5 ml,,Antiinfecciosos en general para uso sistémico
+215,Piperacilina + Tazobactam,Inyectable,4 g/500 mg,,Antiinfecciosos en general para uso sistémico
+216,Pirazinamida,Comprimido,500 mg,,Antiinfecciosos en general para uso sistémico
+217,Raltegravir (potásico),Comprimido,400 mg,,Antiinfecciosos en general para uso sistémico
+218,Rifampicina,Cápsula o Comprimido,150 mg,,Antiinfecciosos en general para uso sistémico
+219,Rifampicina,Cápsula o Comprimido,300 mg,,Antiinfecciosos en general para uso sistémico
+220,Rifampicina,Suspensión,100 mg/5 ml,,Antiinfecciosos en general para uso sistémico
+221,Rifampicina + Isoniazida (INH),Comprimido,300 mg + 150 mg,,Antiinfecciosos en general para uso sistémico
+222,"Rifampicina, Clofazimina, Dapsona",Comprimido,300 mg + 100 mg + 100 mg,,Antiinfecciosos en general para uso sistémico
+223,"Rifampicina, Clofazimina, Dapsona",Comprimido,300 mg + 50 mg + 50 mg,,Antiinfecciosos en general para uso sistémico
+224,"Rifampicina, Dapsona",Comprimido,300 mg + 100 mg,,Antiinfecciosos en general para uso sistémico
+225,"Rifampicina, Dapsona",Comprimido,300 mg + 50 mg,,Antiinfecciosos en general para uso sistémico
+226,Ritonavir,Cápsula blanda,100 mg,,Antiinfecciosos en general para uso sistémico
+227,Sofosbuvir,Comprimido,400 mg,,Antiinfecciosos en general para uso sistémico
+228,Suero Antiescorpiónico,Inyectable,Según disponibilidad,,Antiinfecciosos en general para uso sistémico
+229,Suero Antilatrodectus,Inyectable,Según disponibilidad,,Antiinfecciosos en general para uso sistémico
+230,Suero Antiofídico Botrópico Crotálico,Inyectable,Según disponibilidad,,Antiinfecciosos en general para uso sistémico
+231,Suero Antiofídico Botrópico Laquésico,Inyectable,Según disponibilidad,,Antiinfecciosos en general para uso sistémico
+232,Suero Antirrábico (heterólogo),Inyectable,Según disponibilidad,,Antiinfecciosos en general para uso sistémico
+233,Tenofovir disoproxilo,Comprimido,245 mg (Equiv. a 300 mg como fumarato),,Antiinfecciosos en general para uso sistémico
+234,Tenofovir disoproxilo + Efavirenz + Lamivudina,Comprimido,300 mg + 600 mg + 300 mg,,Antiinfecciosos en general para uso sistémico
+235,Tetraciclina,Cápsula o Comprimido,500 mg,,Antiinfecciosos en general para uso sistémico
+236,Toxoide tetánico adsorbido,Inyectable,120 UI/ml,,Antiinfecciosos en general para uso sistémico
+237,Vacuna antiamarílica,Inyectable,Norma PAI (10 dosis),,Antiinfecciosos en general para uso sistémico
+238,Vacuna antiamarílica,Inyectable,Norma PAI (20 dosis),,Antiinfecciosos en general para uso sistémico
+239,Vacuna antiamarílica,Inyectable,Norma PAI (5 dosis),,Antiinfecciosos en general para uso sistémico
+240,Vacuna antihepatitis B,Inyectable,Norma PAI,,Antiinfecciosos en general para uso sistémico
+241,Vacuna antineumococo (13 valente),Inyectable,Norma PAI (Unidosis),,Antiinfecciosos en general para uso sistémico
+242,Vacuna antipoliomielítica bivalente,Solución oral,Norma PAI,,Antiinfecciosos en general para uso sistémico
+243,Vacuna antipoliomielítica inactivada,Inyectable,Norma PAI,,Antiinfecciosos en general para uso sistémico
+244,Vacuna Antirotavírica,Solución oral,Norma PAI (Unidosis),,Antiinfecciosos en general para uso sistémico
+245,Vacuna Antirotavírica,Solución oral,Norma PAI Multidosis,,Antiinfecciosos en general para uso sistémico
+246,Vacuna Antirrábica,Inyectable,1 UI/ml,,Antiinfecciosos en general para uso sistémico
+247,Vacuna Antirrábica de uso Humano (Cultivo Celular),Inyectable,"2,5 U.I./0,5 ml",,Antiinfecciosos en general para uso sistémico
+248,Vacuna BCG,Inyectable,Norma PAI,,Antiinfecciosos en general para uso sistémico
+249,Vacuna contra COVID-19,Inyectable,Norma PAI,,Antiinfecciosos en general para uso sistémico
+250,Vacuna contra Influenza (Adulto),Inyectable,Norma PAI (10 dosis),,Antiinfecciosos en general para uso sistémico
+251,Vacuna contra Influenza (Pediátrica),Inyectable,Norma PAI (10 dosis),,Antiinfecciosos en general para uso sistémico
+252,Vacuna cuadrivalente recombinante contra el Virus del Papiloma Humano,Inyectable,Norma PAI,,Antiinfecciosos en general para uso sistémico
+253,"Vacuna doble dT (difteria, Tétanos)",Inyectable,Norma PAI,,Antiinfecciosos en general para uso sistémico
+254,Vacuna pentavalente (DPT + Hep. B + H. Influenzae B),Inyectable,Norma PAI,,Antiinfecciosos en general para uso sistémico
+255,"Vacuna SR (Sarampión, Rubeola)",Inyectable,Norma PAI,,Antiinfecciosos en general para uso sistémico
+256,"Vacuna SR (Sarampión, Rubeola)",Inyectable,Norma PAI,,Antiinfecciosos en general para uso sistémico
+257,"Vacuna SRP (Sarampión, Rubeola, Paperas)",Inyectable,Norma PAI (Unidosis),,Antiinfecciosos en general para uso sistémico
+258,"Vacuna SRP (Sarampión, Rubeola, Paperas)",Inyectable,Norma PAI Multidosis,,Antiinfecciosos en general para uso sistémico
+259,"Vacuna Triple DPT (Difteria, Pertusis, Tétanos)",Inyectable,Norma PAI,,Antiinfecciosos en general para uso sistémico
+260,Valganciclovir,Comprimido,450 mg,,Antiinfecciosos en general para uso sistémico
+261,Vancomicina,Inyectable,500 mg,,Antiinfecciosos en general para uso sistémico
+262,Voriconazol,Polvo para inyectable,200 mg,,Antiinfecciosos en general para uso sistémico
+263,Zidovudina,Inyectable,10 mg/ml,,Antiinfecciosos en general para uso sistémico
+264,Zidovudina,Suspensión oral,10 mg/ml,,Antiinfecciosos en general para uso sistémico
+265,Zidovudina + Lamivudina,Comprimido,300 mg + 150 mg,,Antiinfecciosos en general para uso sistémico
+266,Ácido acético (Ácido tricloroacético),Solución tópica,50%,,Aparato genitourinario y hormonas sexuales
+267,Bromocriptina,Comprimido,"2,5 mg",,Aparato genitourinario y hormonas sexuales
+268,Bromocriptina,Comprimido,5 mg,,Aparato genitourinario y hormonas sexuales
+269,Cabergolina,Comprimido,"0,5 mg",,Aparato genitourinario y hormonas sexuales
+270,Ciproterona acetato + Estradiol valerato,Comprimido,"2 mg + 0,035 mg",,Aparato genitourinario y hormonas sexuales
+271,Ciproterona acetato + Estradiol valerato,Comprimido,2 mg + 1 mg,,Aparato genitourinario y hormonas sexuales
+272,Clomifeno citrato,Comprimido,50 mg,,Aparato genitourinario y hormonas sexuales
+273,Clotrimazol,Crema vaginal,1%,,Aparato genitourinario y hormonas sexuales
+274,Clotrimazol,Óvulo,100 mg,,Aparato genitourinario y hormonas sexuales
+275,Ergometrina maleato,Comprimido,"0,2 mg",,Aparato genitourinario y hormonas sexuales
+276,Ergometrina maleato,Inyectable,"0,2 mg/ml",,Aparato genitourinario y hormonas sexuales
+277,Estradiol + Noretisterona acetato,Comprimido,2mg + 1mg,,Aparato genitourinario y hormonas sexuales
+278,Estradiol valerianato + Norgestrel,Comprimido,"2 mg + 0,5 mg",,Aparato genitourinario y hormonas sexuales
+279,Estradiol valerianato + Prasterona enantato,Inyectable,4 mg + 200 mg/ml,,Aparato genitourinario y hormonas sexuales
+280,Estrógenos conjugados,Comprimido,"0,625 mg",,Aparato genitourinario y hormonas sexuales
+281,Estrógenos conjugados,Comprimido,"1,25 mg",,Aparato genitourinario y hormonas sexuales
+282,Estrógenos conjugados,Crema vaginal,"0,625 mg",,Aparato genitourinario y hormonas sexuales
+283,Finasterida,Comprimido,5 mg,,Aparato genitourinario y hormonas sexuales
+284,Gonadotrofina coriónica,Inyectable,5.000 UI/ml,,Aparato genitourinario y hormonas sexuales
+285,Levonorgestrel,Comprimido,"0,75 mg",,Aparato genitourinario y hormonas sexuales
+286,Levonorgestrel,Comprimido,"1,5 mg",,Aparato genitourinario y hormonas sexuales
+287,Levonorgestrel,Implante subdérmico,150 mg,,Aparato genitourinario y hormonas sexuales
+288,Levonorgestrel + Etinilestradiol,Comprimido,"0,150 mg + 0,03 mg",,Aparato genitourinario y hormonas sexuales
+289,Medroxiprogesterona acetato,Comprimido,10 mg,,Aparato genitourinario y hormonas sexuales
+290,Medroxiprogesterona acetato,Inyectable,"104mg/0,65 ml",,Aparato genitourinario y hormonas sexuales
+291,Medroxiprogesterona acetato,Inyectable,150 mg/ml,,Aparato genitourinario y hormonas sexuales
+292,Metronidazol,Óvulo,500 mg,,Aparato genitourinario y hormonas sexuales
+293,Mifepristona,Comprimido,200 mg,,Aparato genitourinario y hormonas sexuales
+294,Misoprostol,Comprimido vaginal,25 mcg,,Aparato genitourinario y hormonas sexuales
+295,Nistatina,Óvulo,100.000 UI,,Aparato genitourinario y hormonas sexuales
+296,Noretisterona,Comprimido,5 mg,,Aparato genitourinario y hormonas sexuales
+297,Norgestrel + Etinilestradiol,Comprimido,"0,3 mg + 0,03 mg ó 0,5 mg + 0,05 mg",,Aparato genitourinario y hormonas sexuales
+298,Oxitocina,Inyectable,5 UI/ml o 10 UI/ml,,Aparato genitourinario y hormonas sexuales
+299,Progesterona,Cápsula,200 mg,,Aparato genitourinario y hormonas sexuales
+300,Ritodrina,Comprimido,10 mg,,Aparato genitourinario y hormonas sexuales
+301,Ritodrina,Inyectable,10 mg/ml,,Aparato genitourinario y hormonas sexuales
+302,Testosterona undecanoato,Inyectable,1.000 mg,,Aparato genitourinario y hormonas sexuales
+303,Medicamentos dermatológicos,,,,Aparato genitourinario y hormonas sexuales
+304,Medicine,Pharmaceutical form type,Composition,Observation,Aparato genitourinario y hormonas sexuales
+305,Aciclovir,Crema dérmica,5%,,Aparato genitourinario y hormonas sexuales
+306,Ácido salicílico,Solución tópica,5%,,Aparato genitourinario y hormonas sexuales
+307,Alcohol etílico (Etanol),Solución 1 l,70% a 95%,,Aparato genitourinario y hormonas sexuales
+308,Bacitracina + Neomicina sulfato,Crema o Pomada,500 UI + 5 mg/g,,Aparato genitourinario y hormonas sexuales
+309,Betametasona (valerato),Crema o Pomada,"0,1%",,Aparato genitourinario y hormonas sexuales
+310,Clobetasol,Crema o Pomada,"0,05%",,Aparato genitourinario y hormonas sexuales
+311,Clobetasol,Solución,"0,05%",,Aparato genitourinario y hormonas sexuales
+312,Clorhexidina gluconato,Solución,N/A,,Aparato genitourinario y hormonas sexuales
+313,Clotrimazol,Crema o Pomada,1%,,Aparato genitourinario y hormonas sexuales
+314,Eritromicina,Loción,2% a 4%,,Aparato genitourinario y hormonas sexuales
+315,Eter alifático dietilamino etanol,Solución 1 l,N/A,,Aparato genitourinario y hormonas sexuales
+316,Formaldehido,Solución,40% p/v,,Aparato genitourinario y hormonas sexuales
+317,Glicerol (Glicerina bidestilada),Solución 1 l,N/A,,Aparato genitourinario y hormonas sexuales
+318,Hidrocortisona acetato,Crema o Pomada,1%,,Aparato genitourinario y hormonas sexuales
+319,Hidroquinona,Crema o Pomada,4% o 5 %,,Aparato genitourinario y hormonas sexuales
+320,Hidroquinona,Loción,4% o 5%,,Aparato genitourinario y hormonas sexuales
+321,Hipoclorito de sodio,Solución,8%,,Aparato genitourinario y hormonas sexuales
+322,Iodo (Yodo),Solución hidroalcohólica,2%,,Aparato genitourinario y hormonas sexuales
+323,Iodo povidona (Yodopovidona),Crema o Pomada,10% ( 500 g ),,Aparato genitourinario y hormonas sexuales
+324,Iodo povidona (Yodopovidona),Solución,10%,,Aparato genitourinario y hormonas sexuales
+325,Lidocaína,Gel o Jalea,2%,,Aparato genitourinario y hormonas sexuales
+326,Lidocaína clorhidrato,Solución para atomización,10%,,Aparato genitourinario y hormonas sexuales
+327,Nistatina,Crema o Pomada,100.000 UI/g,,Aparato genitourinario y hormonas sexuales
+328,Nitrofural (Nitrofurazona),Crema o Pomada,"0,2% (450 g)",,Aparato genitourinario y hormonas sexuales
+329,Oxido de Zinc con o sin aceite,Pasta o Pomada,N/A,,Aparato genitourinario y hormonas sexuales
+330,Peróxido de Benzoílo,"Crema, Pomada o Gel",5%,,Aparato genitourinario y hormonas sexuales
+331,Peróxido de Benzoílo,Loción,5%,,Aparato genitourinario y hormonas sexuales
+332,Peróxido de hidrógeno (Agua oxigenada),Solución,2% o 3%,,Aparato genitourinario y hormonas sexuales
+333,Resina de Podofilo (Podofilina),Solución tópica,10% o 25%,,Aparato genitourinario y hormonas sexuales
+334,Resorcinol,Crema o Pomada,10%,,Aparato genitourinario y hormonas sexuales
+335,Ritonavir,Cápsula blanda,100 mg,,Aparato genitourinario y hormonas sexuales
+336,Sulfadiazina de plata,Crema o Pomada,1%,,Aparato genitourinario y hormonas sexuales
+337,Terbinafina,Comprimido,250 mg,,Aparato genitourinario y hormonas sexuales
+338,Tiabendazol,Crema o Pomada,5%,,Aparato genitourinario y hormonas sexuales
+339,Tolnaftato,Solución,1%,,Aparato genitourinario y hormonas sexuales
+340,Trolamina,Emulsión dérmica,"0,67%",,Aparato genitourinario y hormonas sexuales
+341,Ungüento dérmico eucalipto mentol,Ungüento o crema,N/A,,Aparato genitourinario y hormonas sexuales
+342,Vaselina líquida,Solución 1 l,N/A,,Aparato genitourinario y hormonas sexuales
+343,Vaselina sólida,Pasta 1 kg,N/A,,Aparato genitourinario y hormonas sexuales
+344,Violeta de genciana (Cloruro de metilrosanilina),Solución,1%,,Aparato genitourinario y hormonas sexuales
+345,Órganos de los sentidos,,,,Aparato genitourinario y hormonas sexuales
+346,Medicine,Pharmaceutical form type,Composition,Observation,Aparato genitourinario y hormonas sexuales
+347,Aciclovir,Crema o Pomada oftálmica,3%,,Aparato genitourinario y hormonas sexuales
+348,Atropina sulfato,Solución oftálmica,1%,,Aparato genitourinario y hormonas sexuales
+349,Ciclosporina,Solución oftálmica,"0,1%",,Aparato genitourinario y hormonas sexuales
+350,Ciprofloxacina,Solución oftálmica,"0,3%",,Aparato genitourinario y hormonas sexuales
+351,Cloranfenicol,Solución oftálmica,"0,5%",,Aparato genitourinario y hormonas sexuales
+352,Cloranfenicol,Ungüento oftálmico,1%,,Aparato genitourinario y hormonas sexuales
+353,Corticoide + antiinfeccioso de acción tópica,Solución oftálmica,Según disponibilidad,,Aparato genitourinario y hormonas sexuales
+354,Corticoide + antiinfeccioso de acción tópica,Ungüento oftálmico,Según disponibilidad,,Aparato genitourinario y hormonas sexuales
+355,Dexametasona,Solución oftálmica,"0,1%",,Aparato genitourinario y hormonas sexuales
+356,Dexametasona,Ungüento o Pomada oftálmica,"0,1%",,Aparato genitourinario y hormonas sexuales
+357,Diclofenaco Sódico,Solución oftálmica,"0,1%",,Aparato genitourinario y hormonas sexuales
+358,Dorzolamida,Solución oftálmica,2%,,Aparato genitourinario y hormonas sexuales
+359,Fluoresceina,Inyectable,10%,,Aparato genitourinario y hormonas sexuales
+360,Fluoresceina (sal sódica),Solución oftálmica,"0,25%",,Aparato genitourinario y hormonas sexuales
+361,Gentamicina,Solución oftálmica,"0,3%",,Aparato genitourinario y hormonas sexuales
+362,Gentamicina,Ungüento oftálmico,"0,3%",,Aparato genitourinario y hormonas sexuales
+363,Glicerina + carbonato de sodio,Gotas óticas,Según disponibilidad,,Aparato genitourinario y hormonas sexuales
+364,Ketotifeno,Solución oftálmica,"0,25 mg/ml",,Aparato genitourinario y hormonas sexuales
+365,Lágrimas artificiales,Gel,"0,3% o 1%",,Aparato genitourinario y hormonas sexuales
+366,Lágrimas artificiales,Solución oftálmica,"0,3% o 1%",,Aparato genitourinario y hormonas sexuales
+367,Latanoprost,Solución oftálmica,50 mcg/ml,,Aparato genitourinario y hormonas sexuales
+368,Nafazolina clorhidrato,Solución oftálmica,"0,1%",,Aparato genitourinario y hormonas sexuales
+369,Proximetacaina (Proparacaina),Solución oftálmica,"0,5%",,Aparato genitourinario y hormonas sexuales
+370,Solución Fisiológica,Solución Nasal,"0,9% (15 a 30 ml)",,Aparato genitourinario y hormonas sexuales
+371,Timolol maleato,Solución oftálmica,"0,5%",,Aparato genitourinario y hormonas sexuales
+372,Tropicamida,Solución oftálmica,1%,,Aparato genitourinario y hormonas sexuales
+373,"Preparados hormonales sistémicos, excluyendo las hormonas sexuales",,,,Aparato genitourinario y hormonas sexuales
+374,Betametasona (fosfato),Inyectable,4 mg,,Aparato genitourinario y hormonas sexuales
+375,Carbetocina,Inyectable,100 mcg/ml,,Aparato genitourinario y hormonas sexuales
+376,Corticotrofina (ACTH),Inyectable,25 UI o 40 UI,,Aparato genitourinario y hormonas sexuales
+377,Desmopresina acetato,Solución nasal,"0,1 mg/ml",,Aparato genitourinario y hormonas sexuales
+378,Dexametasona,Comprimido,"0,5 mg",,Aparato genitourinario y hormonas sexuales
+379,Dexametasona,Comprimido,4 mg,,Aparato genitourinario y hormonas sexuales
+380,Dexametasona,Inyectable,4 mg/ml,,Aparato genitourinario y hormonas sexuales
+381,Hidrocortisona succinato sódico,Inyectable,100 mg,,Aparato genitourinario y hormonas sexuales
+382,Hidrocortisona succinato sódico,Inyectable,250 mg,,Aparato genitourinario y hormonas sexuales
+383,Levotiroxina sódica,Comprimido,"0,05 mg",,Aparato genitourinario y hormonas sexuales
+384,Levotiroxina sódica,Comprimido ranurado,"0,1 mg",,Aparato genitourinario y hormonas sexuales
+385,Metilprednisolona succinato sódico,Inyectable,500 mg,,Aparato genitourinario y hormonas sexuales
+386,Prednisona,Comprimido,5 mg,,Aparato genitourinario y hormonas sexuales
+387,Prednisona,Comprimido ranurado,20 mg,,Aparato genitourinario y hormonas sexuales
+388,Prednisona,Suspensión,1 mg/ml,,Aparato genitourinario y hormonas sexuales
+389,Propiltiouracilo,Comprimido,50 mg,,Aparato genitourinario y hormonas sexuales
+390,Somatropina,Inyectable,"4UI (1,33 mg)",,Aparato genitourinario y hormonas sexuales
+391,Terlipresina,Inyectable,1 mg,,Aparato genitourinario y hormonas sexuales
+392,Tiamazol (Metimazol),Comprimido,20 mg,,Aparato genitourinario y hormonas sexuales
+393,Albendazol,Comprimido,200 mg,,"Productos antiparasitarios, insecticidas y repelentes"
+394,Albendazol,Suspensión,200 mg/5 ml,,"Productos antiparasitarios, insecticidas y repelentes"
+395,Artemeter + Lumefantrina,Comprimido,20 mg + 120 mg,,"Productos antiparasitarios, insecticidas y repelentes"
+396,Artesunato,Comprimido,50 mg,,"Productos antiparasitarios, insecticidas y repelentes"
+397,Artesunato,Inyectable,60 mg,,"Productos antiparasitarios, insecticidas y repelentes"
+398,Artesunato + Mefloquina,Comprimido,100 mg + 220 mg,,"Productos antiparasitarios, insecticidas y repelentes"
+399,Artesunato + Mefloquina,Comprimido,25 mg + 55 mg,,"Productos antiparasitarios, insecticidas y repelentes"
+400,Benznidazol,Comprimido,100 mg,,"Productos antiparasitarios, insecticidas y repelentes"
+401,Benznidazol,Comprimido,"12,5 mg",,"Productos antiparasitarios, insecticidas y repelentes"
+402,Benznidazol,Comprimido,50 mg,,"Productos antiparasitarios, insecticidas y repelentes"
+403,Benzoato de bencilo,Solución o Loción,20% o 25%,,"Productos antiparasitarios, insecticidas y repelentes"
+404,Cloroquina fosfato,Comprimido,250 mg (150 mg base),,"Productos antiparasitarios, insecticidas y repelentes"
+405,Hidroxicloroquina sulfato,Comprimido,200 mg,,"Productos antiparasitarios, insecticidas y repelentes"
+406,Ivermectina,Comprimido,3 mg,,"Productos antiparasitarios, insecticidas y repelentes"
+407,Ivermectina,Comprimido,6 mg,,"Productos antiparasitarios, insecticidas y repelentes"
+408,Mebendazol,Comprimido,100 mg,,"Productos antiparasitarios, insecticidas y repelentes"
+409,Mebendazol,Comprimido,500 mg,,"Productos antiparasitarios, insecticidas y repelentes"
+410,Mebendazol,Suspensión,100 mg/5 ml,,"Productos antiparasitarios, insecticidas y repelentes"
+411,Mefloquina (clorhidrato),Comprimido,250 mg,,"Productos antiparasitarios, insecticidas y repelentes"
+412,Meglumina antimoniato,Inyectable,"1,5 g/5 ml",,"Productos antiparasitarios, insecticidas y repelentes"
+413,Metronidazol,Comprimido,500 mg,,"Productos antiparasitarios, insecticidas y repelentes"
+414,Metronidazol,Inyectable,500 mg,,"Productos antiparasitarios, insecticidas y repelentes"
+415,Metronidazol,Suspensión,125 mg/5 ml,,"Productos antiparasitarios, insecticidas y repelentes"
+416,Metronidazol,Suspensión,250 mg/5 ml,,"Productos antiparasitarios, insecticidas y repelentes"
+417,Niclosamida,Comprimido,500 mg,,"Productos antiparasitarios, insecticidas y repelentes"
+418,Nifurtimox,Comprimido,120 mg,,"Productos antiparasitarios, insecticidas y repelentes"
+419,Nifurtimox,Comprimido,250 mg,,"Productos antiparasitarios, insecticidas y repelentes"
+420,Nifurtimox,Comprimido,30 mg,,"Productos antiparasitarios, insecticidas y repelentes"
+421,Nitazoxanida,Comprimido,500 mg,,"Productos antiparasitarios, insecticidas y repelentes"
+422,Nitazoxanida,Jarabe,100 mg / 5 ml,,"Productos antiparasitarios, insecticidas y repelentes"
+423,Pentamidina,Inyectable,200 mg,,"Productos antiparasitarios, insecticidas y repelentes"
+424,Pentamidina,Inyectable,300 mg,,"Productos antiparasitarios, insecticidas y repelentes"
+425,Permetrina,Crema o Pomada,5%,,"Productos antiparasitarios, insecticidas y repelentes"
+426,Permetrina,Loción,1%,,"Productos antiparasitarios, insecticidas y repelentes"
+427,Pirantel pamoato,Comprimido,250 mg,,"Productos antiparasitarios, insecticidas y repelentes"
+428,Pirantel pamoato,Suspensión,250 mg/5 ml,,"Productos antiparasitarios, insecticidas y repelentes"
+429,Pirimetamina,Comprimido,25 mg,,"Productos antiparasitarios, insecticidas y repelentes"
+430,Prazicuantel,Comprimido,600 mg,,"Productos antiparasitarios, insecticidas y repelentes"
+431,Primaquina (base),Comprimido,15 mg,,"Productos antiparasitarios, insecticidas y repelentes"
+432,Primaquina (base),Comprimido,5 mg,,"Productos antiparasitarios, insecticidas y repelentes"
+433,Primaquina (base),Suspensión,15 mg/5 ml,,"Productos antiparasitarios, insecticidas y repelentes"
+434,Quinina (bisulfato o sulfato),Comprimido,300 mg,,"Productos antiparasitarios, insecticidas y repelentes"
+435,Quinina (diclorhidrato),Inyectable,600 mg,,"Productos antiparasitarios, insecticidas y repelentes"
+436,Sulfadoxina + Pirimetamina,Comprimido,500 mg + 25 mg,,"Productos antiparasitarios, insecticidas y repelentes"
+437,Tiabendazol,Comprimido,500 mg,,"Productos antiparasitarios, insecticidas y repelentes"
+438,Tiabendazol,Suspensión,500 mg/5 ml,,"Productos antiparasitarios, insecticidas y repelentes"
+439,Triclabendazol,Comprimido,250 mg,,"Productos antiparasitarios, insecticidas y repelentes"
+440,Acetazolamida,Comprimido,250 mg,,Sistema cardiovascular
+441,Adenosina,Inyectable,6 mg/2 ml,,Sistema cardiovascular
+442,Amiodarona (clorhidrato),Comprimido,200 mg,,Sistema cardiovascular
+443,Amiodarona (clorhidrato),Inyectable,50 mg/ml,,Sistema cardiovascular
+444,Amlodipina,Comprimido,10 mg,,Sistema cardiovascular
+445,Atenolol,Comprimido ranurado,100 mg,,Sistema cardiovascular
+446,Atorvastatina,Comprimido,10 mg,,Sistema cardiovascular
+447,Atorvastatina,Comprimido,20 mg,,Sistema cardiovascular
+448,Bisoprolol,Comprimido,5 mg,,Sistema cardiovascular
+449,Carvedilol,Comprimido,"12,5 mg",,Sistema cardiovascular
+450,Carvedilol,Comprimido,"6,25 mg",,Sistema cardiovascular
+451,Corticoide + anestésico,Crema o Pomada,Según disponibilidad,,Sistema cardiovascular
+452,Corticoide + anestésico,Supositorio,Según disponibilidad,,Sistema cardiovascular
+453,Digoxina,Comprimido ranurado,"0,25 mg",,Sistema cardiovascular
+454,Digoxina,Inyectable,"0,25 mg/ml",,Sistema cardiovascular
+455,Digoxina,Solución oral gotas,"0,75 mg/ml",,Sistema cardiovascular
+456,Dinitrato de isosorbida (Isosorbide dinitrato),Comprimido sublingual,5 mg,,Sistema cardiovascular
+457,Dobutamina clorhidrato,Inyectable,250 mg,,Sistema cardiovascular
+458,Dopamina clorhidrato,Inyectable,200 mg,,Sistema cardiovascular
+459,Enalapril maleato,Comprimido ranurado,10 mg,,Sistema cardiovascular
+460,Epinefrina (Adrenalina),Inyectable,1 mg/ml,,Sistema cardiovascular
+461,Espironolactona,Comprimido,100 mg,,Sistema cardiovascular
+462,Espironolactona,Comprimido,25 mg,,Sistema cardiovascular
+463,Etilefrina,Inyectable,10 mg/ml,,Sistema cardiovascular
+464,Fenofibrato,Cápsula o Comprimido,200 mg,,Sistema cardiovascular
+465,Furosemida,Comprimido ranurado,40 mg,,Sistema cardiovascular
+466,Furosemida,Inyectable,10 mg/ml,,Sistema cardiovascular
+467,Gemfibrozilo,Comprimido,600 mg,,Sistema cardiovascular
+468,Hidralazina clorhidrato,Comprimido,25 mg,,Sistema cardiovascular
+469,Hidralazina clorhidrato,Inyectable,20 mg/ml,,Sistema cardiovascular
+470,Hidroclorotiazida,Comprimido ranurado,50 mg,,Sistema cardiovascular
+471,Hidroclorotiazida + Amilorida,Comprimido,50 mg + 5 mg,,Sistema cardiovascular
+472,Ibuprofeno,Inyectable,5 mg/ml,,Sistema cardiovascular
+473,Isosorbida Mononitrato,Comprimido,20 mg,,Sistema cardiovascular
+474,Labetalol,Inyectable,20 mg,,Sistema cardiovascular
+475,Losartán,Comprimido,50 mg,,Sistema cardiovascular
+476,Metildopa (Alfametildopa),Comprimido,500 mg,,Sistema cardiovascular
+477,Milrinona,Inyectable,1 mg/ml,,Sistema cardiovascular
+478,Nifedipino,Comprimido o Cápsula,10 mg,,Sistema cardiovascular
+479,Nimodipina,Comprimido,30 mg,,Sistema cardiovascular
+480,Nimodipina,Inyectable,"0,2 mg/ml",,Sistema cardiovascular
+481,Nitroglicerina (Trinitrato de glicerol),Inyectable,5 mg/ml,,Sistema cardiovascular
+482,Nitroprusiato de sodio,Inyectable,25 mg/ml,,Sistema cardiovascular
+483,Noradrenalina,Inyectable,1 mg/ml,,Sistema cardiovascular
+484,Propranolol,Comprimido,40 mg,,Sistema cardiovascular
+485,Propranolol,Inyectable,1 mg/ml,,Sistema cardiovascular
+486,Rosuvastatina,Comprimido,20 mg,,Sistema cardiovascular
+487,Sildenafilo,Comprimido,50 mg,,Sistema cardiovascular
+488,Verapamilo,Comprimido,40 mg,,Sistema cardiovascular
+489,Verapamilo,Comprimido,80 mg,,Sistema cardiovascular
+490,Verapamilo,Inyectable,"2,5 mg/ml",,Sistema cardiovascular
+491,Aceite mineral,Emulsión oral,40%,,Sistema digestivo y metabolismo
+492,Aceite vitaminado (alimento),Emulsión oral,Según disponibilidad,,Sistema digestivo y metabolismo
+493,Ácido Ascorbico (Vitamina C),Inyectable,500 mg/ml (2 ml),,Sistema digestivo y metabolismo
+494,Ácido Ascorbico (Vitamina C),Solución oral gotas,Según disponibilidad,,Sistema digestivo y metabolismo
+495,Ácido Ursodeoxicólico,Cápsula,250 mg,,Sistema digestivo y metabolismo
+496,Atropina sulfato,Inyectable,1 mg/ml,,Sistema digestivo y metabolismo
+497,Bicarbonato de sodio,Polvo,20 g,,Sistema digestivo y metabolismo
+498,Bisacodilo,Comprimido,5 mg,,Sistema digestivo y metabolismo
+499,Butilbromuro de Hioscina (Butilescopolamina),Comprimido,10 mg,,Sistema digestivo y metabolismo
+500,Butilbromuro de Hioscina (Butilescopolamina),Inyectable,20 mg/ml,,Sistema digestivo y metabolismo
+501,Butilbromuro de Hioscina (Butilescopolamina),Solución oral gotas,"0,1%",,Sistema digestivo y metabolismo
+502,Calcio (carbonato o citrato),Comprimido,500 mg (ión calcio),,Sistema digestivo y metabolismo
+503,Carbón medicinal activado,Polvo,Según disponibilidad,,Sistema digestivo y metabolismo
+504,Cianocobalamina (Vitamina B12),Inyectable,1 mg/ml,,Sistema digestivo y metabolismo
+505,Cloruro de potasio,Solución oral,"1,3 mEq/ml",,Sistema digestivo y metabolismo
+506,Colecalciferol (Vitamina D3),Comprimido o Cápsula blanda,"0,25 mcg",,Sistema digestivo y metabolismo
+507,Complejo B (B1 + B6 + B12),Comprimido,Según concentración estándar,,Sistema digestivo y metabolismo
+508,Complejo B (B1 + B6 + B12),Inyectable,Según concentración estándar,,Sistema digestivo y metabolismo
+509,Complejo de vitaminas y minerales (Uso pediatría) CMV,Polvo para solución oral,Según disponibilidad,,Sistema digestivo y metabolismo
+510,Domperidona,Comprimido,10 mg,,Sistema digestivo y metabolismo
+511,"Enzimas pancreáticas (Lipasa, Proteasa y Amilasa en combinación)",Comprimido,Según disponibilidad,,Sistema digestivo y metabolismo
+512,Fibra natural,Polvo o granulado,Según disponibilidad,,Sistema digestivo y metabolismo
+513,Fluoruro de sodio,Gel o Pasta,Según Programa,,Sistema digestivo y metabolismo
+514,Fluoruro de sodio,Solución oral gotas,"0,2%",,Sistema digestivo y metabolismo
+515,Glibenclamida,Comprimido,5 mg,,Sistema digestivo y metabolismo
+516,Glicerol (Glicerina),Supositorio,"1 g a 1,80 g (infantil)",,Sistema digestivo y metabolismo
+517,Glicerol (Glicerina),Supositorio,2 g a 4 g (adulto),,Sistema digestivo y metabolismo
+518,Hidróxido de aluminio y magnesio,Suspensión,1:01,,Sistema digestivo y metabolismo
+519,Insulina Glargina,Inyectable,100 U.I/ml,,Sistema digestivo y metabolismo
+520,Insulina Glulisina,Inyectable,100 U.I/ml,,Sistema digestivo y metabolismo
+521,Insulina recombinante humana NPH,Inyectable,100 UI/ml,,Sistema digestivo y metabolismo
+522,Insulina zinc cristalina recombinante humana,Inyectable,100 UI/ml,,Sistema digestivo y metabolismo
+523,Lactulosa,Solución oral,65% a 67%,,Sistema digestivo y metabolismo
+524,Loperamida,Cápsula o Comprimido,2 mg,,Sistema digestivo y metabolismo
+525,Mesalazina,Comprimido,500 mg,,Sistema digestivo y metabolismo
+526,Mesalazina,Supositorio,1g,,Sistema digestivo y metabolismo
+527,Metformina,Comprimido,500 mg,,Sistema digestivo y metabolismo
+528,Metformina,Comprimido,850 mg,,Sistema digestivo y metabolismo
+529,Metoclopramida,Comprimido,10 mg,,Sistema digestivo y metabolismo
+530,Metoclopramida,Inyectable,10mg / 2ml,,Sistema digestivo y metabolismo
+531,Metoclopramida,Solución oral gotas,"0,35% o 0,5%",,Sistema digestivo y metabolismo
+532,Misoprostol,Comprimido,200 mcg,,Sistema digestivo y metabolismo
+533,Multivitaminas,Comprimido,Según concentración estándar,,Sistema digestivo y metabolismo
+534,Multivitaminas,Jarabe,Según concentración estándar,,Sistema digestivo y metabolismo
+535,Multivitaminas,Polvo liofilizado,Según disponibilidad,,Sistema digestivo y metabolismo
+536,Nistatina,Comprimido,500.000 UI,,Sistema digestivo y metabolismo
+537,Nistatina,Suspensión,500.000 UI/5 ml,,Sistema digestivo y metabolismo
+538,Omeprazol,Cápsula,20 mg,,Sistema digestivo y metabolismo
+539,Omeprazol,Inyectable,40 mg/ml,,Sistema digestivo y metabolismo
+540,Ondansetrón,Comprimido,8 mg,,Sistema digestivo y metabolismo
+541,Ondansetrón,Inyectable,8 mg,,Sistema digestivo y metabolismo
+542,Piridoxina clorhidrato (Vitamina B6),Comprimido,300 mg,,Sistema digestivo y metabolismo
+543,Piridoxina clorhidrato (Vitamina B6),Inyectable,300 mg,,Sistema digestivo y metabolismo
+544,Propinoxato,Comprimido,10 mg,,Sistema digestivo y metabolismo
+545,Propinoxato,Inyectable,5 mg/ml,,Sistema digestivo y metabolismo
+546,Ranitidina,Comprimido,150 mg,,Sistema digestivo y metabolismo
+547,Ranitidina,Inyectable,50 mg,,Sistema digestivo y metabolismo
+548,Retinol (Vitamina A),Cápsula o Perla,10.000 UI,,Sistema digestivo y metabolismo
+549,Retinol (Vitamina A),Cápsula o Perla,100.000 UI,,Sistema digestivo y metabolismo
+550,Retinol (Vitamina A),Cápsula o Perla,200.000 UI,,Sistema digestivo y metabolismo
+551,Retinol (Vitamina A),Cápsula o Perla,25.000 UI,,Sistema digestivo y metabolismo
+552,Sales de rehidratación oral (SRO) baja osmolaridad,Sobres,Según concentración estándar,,Sistema digestivo y metabolismo
+553,Simeticona,Comprimido,100 mg,,Sistema digestivo y metabolismo
+554,Simeticona,Suspensión,3% o 4%,,Sistema digestivo y metabolismo
+555,Sucralfato,Suspensión,1g/5 ml,,Sistema digestivo y metabolismo
+556,Sulfato de Magnesio,Granulado,20 g a 30 g,,Sistema digestivo y metabolismo
+557,Tiamina (Vitamina B 1),Comprimido,300 mg,,Sistema digestivo y metabolismo
+558,Tiamina (Vitamina B 1),Inyectable,100 mg/ml,,Sistema digestivo y metabolismo
+559,Tocoferol (Vitamina E),Cápsula blanda,1.000 UI,,Sistema digestivo y metabolismo
+560,Zinc (como sulfato),Comprimido,20 mg,,Sistema digestivo y metabolismo
+561,Zinc (como sulfato),Jarabe,20 mg/5 ml,,Sistema digestivo y metabolismo
+562,Ácido Alendrónico (Alendronato),Comprimido,70 mg,,Sistema musculoesquelético
+563,Ácido Zoledrónico,Inyectable,4 mg,,Sistema musculoesquelético
+564,Alopurinol,Comprimido,300 mg,,Sistema musculoesquelético
+565,Atracurio besilato,Inyectable,10 mg/ml,,Sistema musculoesquelético
+566,Colchicina,Comprimido,"0,5 mg",,Sistema musculoesquelético
+567,Diclofenaco Sódico,Comprimido,50 mg,,Sistema musculoesquelético
+568,Diclofenaco Sódico,Inyectable,75 mg,,Sistema musculoesquelético
+569,Diclofenaco Sódico,Pomada o Gel,1%,,Sistema musculoesquelético
+570,Ibuprofeno,Comprimido,400 mg,,Sistema musculoesquelético
+571,Ibuprofeno,Suspensión,100 mg/5 ml,,Sistema musculoesquelético
+572,Indometacina,Cápsula o Comprimido,25 mg,,Sistema musculoesquelético
+573,Indometacina,Supositorio,100 mg,,Sistema musculoesquelético
+574,Ketoprofeno,Inyectable,100 mg,,Sistema musculoesquelético
+575,Ketorolaco,Inyectable,30 mg/ml,,Sistema musculoesquelético
+576,Meloxicam,Comprimido,15 mg,,Sistema musculoesquelético
+577,Mivacuronio,Inyectable,2 mg/ml,,Sistema musculoesquelético
+578,Penicilamina,Comprimido,250 mg,,Sistema musculoesquelético
+579,Rocuronio bromuro,Inyectable,10 mg/ml,,Sistema musculoesquelético
+580,Suxametonio (Succinil colina),Inyectable,500 mg,,Sistema musculoesquelético
+581,Ácido acetil salicílico,Comprimido,500 mg,,Sistema nervioso
+582,Ácido Valpróico ó Valproato sódico,Cápsula o Comprimido,500 mg,,Sistema nervioso
+583,Ácido Valpróico ó Valproato sódico,Jarabe o Solución oral,200 mg/5 ml,,Sistema nervioso
+584,Ácido Valpróico ó Valproato sódico,Jarabe o Solución oral,250 mg/5 ml,,Sistema nervioso
+585,Alprazolam,Comprimido ranurado,"0,5 mg",,Sistema nervioso
+586,Amitriptilina,Comprimido ranurado,25 mg,,Sistema nervioso
+587,Aripiprazol,Comprimido,10 mg,,Sistema nervioso
+588,Aripiprazol,Comprimido,15 mg,,Sistema nervioso
+589,Biperideno clorhidrato,Comprimido,4 mg,,Sistema nervioso
+590,Bupivacaina clorhidrato,Inyectable,"0,5%",,Sistema nervioso
+591,Bupivacaina clorhidrato (pesada),Inyectable,"0,5%",,Sistema nervioso
+592,Bupivacaina clorhidrato con Epinefrina sin conservante,Inyectable,"0,5% 1:200.000",,Sistema nervioso
+593,Cafeína Citrato,Inyectable,20 mg/ml,,Sistema nervioso
+594,Carbamazepina,Comprimido,200 mg,,Sistema nervioso
+595,Carbamazepina,Suspensión o Jarabe,2% (100 mg/5 ml),,Sistema nervioso
+596,Clomipramina,Comprimido,75 mg,,Sistema nervioso
+597,Clomipramina (clorhidrato),Inyectable,25 mg/2 ml,,Sistema nervioso
+598,Clonazepam,Comprimido ranurado,2 mg,,Sistema nervioso
+599,Clonazepam,Solución oral,"2,5 mg/ml",,Sistema nervioso
+600,Clorpromazina,Comprimido,100 mg,,Sistema nervioso
+601,Clorpromazina,Inyectable,"12,5 mg/ml",,Sistema nervioso
+602,Codeína,Comprimido,30 mg,,Sistema nervioso
+603,Dexmedetomidina,Inyectable,100 mcg/ml,,Sistema nervioso
+604,Diazepam,Comprimido ranurado,10 mg,,Sistema nervioso
+605,Diazepam,Comprimido ranurado,5 mg,,Sistema nervioso
+606,Diazepam,Inyectable,10 mg,,Sistema nervioso
+607,Dimenhidrinato,Comprimido,50 mg,,Sistema nervioso
+608,Dimenhidrinato,Inyectable,50 mg/ml,,Sistema nervioso
+609,Dimenhidrinato,Supositorio,50 mg,,Sistema nervioso
+610,Droperidol,Inyectable,"2,5 mg/ml",,Sistema nervioso
+611,Duloxetina,Cápsula,30 mg,,Sistema nervioso
+612,Ergotamina tartrato + Cafeína,Comprimido,1 mg + 100 mg,,Sistema nervioso
+613,Fenitoína,Cápsula o Comprimido,100 mg,,Sistema nervioso
+614,Fenitoína,Inyectable,50 mg/ml,,Sistema nervioso
+615,Fenobarbital,Comprimido,100 mg,,Sistema nervioso
+616,Fenobarbital,Gotas,20 mg/ml,,Sistema nervioso
+617,Fenobarbital,Inyectable,100 mg/ml,,Sistema nervioso
+618,Fentanilo con conservante,Inyectable,"0,05 mg/ml",,Sistema nervioso
+619,Fentanilo sin conservante,Inyectable,"0,05 mg/ml",,Sistema nervioso
+620,Flunarizina,Comprimido,10 mg,,Sistema nervioso
+621,Fluoxetina,Cápsula o Comprimido,20 mg,,Sistema nervioso
+622,Haloperidol,Comprimido,5 mg,,Sistema nervioso
+623,Haloperidol,Inyectable,5 mg/ml,,Sistema nervioso
+624,Haloperidol,Solución oral,2 mg/ml,,Sistema nervioso
+625,Haloperidol decanoato,Inyectable,50 mg/ml,,Sistema nervioso
+626,Halotano,Solución,"0,01% de timol",,Sistema nervioso
+627,Imipramina clorhidrato,Comprimido,25 mg,,Sistema nervioso
+628,Ketamina (Cetamina),Inyectable,50 mg/ml,,Sistema nervioso
+629,Lamotrigina,Comprimido,100 mg,,Sistema nervioso
+630,Lamotrigina,Comprimido,200 mg,,Sistema nervioso
+631,Lamotrigina,Comprimido,25 mg,,Sistema nervioso
+632,Lamotrigina,Comprimido,50 mg,,Sistema nervioso
+633,Levodopa + Carbidopa,Comprimido,250 mg + 25 mg,,Sistema nervioso
+634,Lidocaína,Cartucho dental,2%,,Sistema nervioso
+635,Lidocaína clorhidrato + Epinefrina,Cartucho dental,2% 1:200.000,,Sistema nervioso
+636,Lidocaína clorhidrato + Epinefrina,Inyectable,2% 1:200.000,,Sistema nervioso
+637,Lidocaína clorhidrato sin conservante,Inyectable,2%,,Sistema nervioso
+638,Litio carbonato,Comprimido,300 mg,,Sistema nervioso
+639,Metadona,Comprimido,5 mg,,Sistema nervioso
+640,Metamizol (Dipirona),Inyectable,1 g,,Sistema nervioso
+641,Metilfenidato,Comprimido,10 mg,,Sistema nervioso
+642,Midazolam,Inyectable,15 mg/3 ml,,Sistema nervioso
+643,Morfina,Cápsula o Comprimido,10 mg,,Sistema nervioso
+644,Morfina (con y sin conservante),Inyectable,10 mg/ml,,Sistema nervioso
+645,Naratriptan,Comprimido,"2,5 mg",,Sistema nervioso
+646,Neostigmina,Inyectable,"0,5 mg/ml",,Sistema nervioso
+647,Paracetamol (Acetaminofeno),Comprimido,100 mg,,Sistema nervioso
+648,Paracetamol (Acetaminofeno),Comprimido,500 mg,,Sistema nervioso
+649,Paracetamol (Acetaminofeno),Gotas,100 mg/ml,,Sistema nervioso
+650,Paracetamol (Acetaminofeno),Inyectable,1 gr,,Sistema nervioso
+651,Paracetamol (Acetaminofeno),Jarabe,120 mg/5 ml o 125 mg/5 ml,,Sistema nervioso
+652,Paracetamol (Acetaminofeno),Supositorio,100 mg,,Sistema nervioso
+653,Petidina (Meperidina),Inyectable,100 mg,,Sistema nervioso
+654,Piridostigmina,Comprimido,60 mg,,Sistema nervioso
+655,Pregabalina,Comprimido o Cápsula,150 mg,,Sistema nervioso
+656,Pregabalina,Comprimido o Cápsula,50 mg,,Sistema nervioso
+657,Pregabalina,Comprimido o Cápsula,75 mg,,Sistema nervioso
+658,Propofol,Inyectable,10 mg/ml,,Sistema nervioso
+659,Quetiapina,Comprimido,100 mg,,Sistema nervioso
+660,Remifentanilo,Inyectable,5 mg,,Sistema nervioso
+661,Risperidona,Comprimido,3 mg,,Sistema nervioso
+662,Sevoflurano (Trifluorometil etil),Solución,250 ml,,Sistema nervioso
+663,Tiopental sódico,Inyectable,1 g,,Sistema nervioso
+664,Tioridazina,Comprimido,100 mg,,Sistema nervioso
+665,Tioridazina,Suspensión,100 mg/5 ml,,Sistema nervioso
+666,Tramadol,Comprimido,50 mg,,Sistema nervioso
+667,Tramadol,Inyectable,100 mg/2 ml,,Sistema nervioso
+668,Tramadol,Solución para gotas orales,100 mg/ml,,Sistema nervioso
+669,Aminofilina,Comprimido,200 mg,,Sistema respiratorio
+670,Aminofilina,Inyectable,250 mg / 10 ml,,Sistema respiratorio
+671,Antigripal (Paracetamol + Antihistamínico + Vasoconstrictor con o sin Cafeína),Comprimido,Según disponibilidad,,Sistema respiratorio
+672,Beclometasona dipropionato,Aerosol,50 mcg/inhalación,,Sistema respiratorio
+673,Budesonida,Aerosol,100 mcg,,Sistema respiratorio
+674,Cetirizina,Cápsula o Comprimido,10 mg,,Sistema respiratorio
+675,Cetirizina,Jarabe,5 mg/5 ml,,Sistema respiratorio
+676,Clorfenamina (Clorfeniramina),Comprimido,4 mg,,Sistema respiratorio
+677,Clorfenamina (Clorfeniramina),Inyectable,10 mg/ml,,Sistema respiratorio
+678,Clorfenamina (Clorfeniramina),Jarabe,2 mg/5 ml,,Sistema respiratorio
+679,Codeína,Jarabe,10 mg/5 ml,,Sistema respiratorio
+680,Dextrometorfano bromhidrato,Jarabe,10 mg/5 ml,,Sistema respiratorio
+681,Ipratropio bromuro,Aerosol,20 mcg/dosis,,Sistema respiratorio
+682,Ketotifeno,Comprimido,1 mg,,Sistema respiratorio
+683,Montelukast,Comprimido,5 mg,,Sistema respiratorio
+684,Montelukast,Comprimido o Cápsula,10 mg,,Sistema respiratorio
+685,Salbutamol,Aerosol,"0,1 mg/inhalación",,Sistema respiratorio
+686,Salbutamol,Comprimido,4 mg,,Sistema respiratorio
+687,Salbutamol,Solución para nebulización,5 mg/ml,,Sistema respiratorio
+688,Salmeterol + Fluticasona,Aerosol,25 mcg + 125 mcg,,Sistema respiratorio
+689,Surfactante pulmonar,Inyectable,25 a 35 mg/ml,,Sistema respiratorio
+690,Teofilina,Comprimido,300 mg,,Sistema respiratorio
+691,Acetil Cisteina,Inyectable,10%,,Varios
+692,Ácido Gadotérico,Inyectable,0.5 mmol/ml,,Varios
+693,Alimentos Terapéutico Listo para Uso (ATLU),"Polvo, pasta o Granulado según disponibilidad",Según concentración estándar,,Varios
+694,Complemento nutricional,Polvo,Según concentración estándar,,Varios
+695,Complemento nutricional (Carmelo),Polvo,Según concentración estándar,,Varios
+696,Complemento nutricional (Diabético),Polvo,Según concentración estándar,,Varios
+697,"Complemento nutricional (Nutri Mama con Cañahua, probiótico y Omega-3)",Polvo,Según concentración estándar,,Varios
+698,Complemento nutricional (Nutribebé),Polvo,Según concentración estándar,,Varios
+699,Contraste iodado,Inyectable,Según disponibilidad (10 ml),,Varios
+700,Contraste iodado,Inyectable,Según disponibilidad (100 ml o 200 ml),,Varios
+701,Contraste iodado,Inyectable,Según disponibilidad (50 ml),,Varios
+702,Deferoxamina mesilato,Inyectable,500 mg,,Varios
+703,Dimercaprol (B.A.L.),Inyectable,100 mg/ml,,Varios
+704,Edetato sódico de calcio (EDTA),Inyectable,20%,,Varios
+705,Flumazenil,Inyectable,"0,5 mg/5 ml",,Varios
+706,Gadobutrol,Inyectable,"604,72mg/ml",,Varios
+707,Gadodiamida,Inyectable,287 mg/ml,,Varios
+708,Gadopentato de dimeglumina,Inyectable,469 mg/ml,,Varios
+709,Gadoversetamida,Inyectable,0.5 mmol / ml,,Varios
+710,Ipecacuana,Jarabe,7%,,Varios
+711,Leucovorina,Inyectable,50 mg,,Varios
+712,Leucovorina (Folinato de calcio),Comprimido,15 mg,,Varios
+713,Meglumina diatrizoato,Inyectable,70% o 76% (20 ml),,Varios
+714,Meglumina diatrizoato,Inyectable,70% o 76% (50 ml),,Varios
+715,Mesna (Mercapto etilsulfonato sódico),Inyectable,400 mg,,Varios
+716,Naloxona,Inyectable,"0,4 mg/ml",,Varios
+717,Naloxona,Inyectable,"0,4 mg/ml",,Varios
+718,Oxígeno,Gas,93% - 99%,,Varios
+719,Permanganato de potasio,Solución acuosa,01:10.0,,Varios
+720,Pralidoxima,Inyectable,1 g,,Varios
+721,Protamina Sulfato,Inyectable,10 mg/ml,,Varios
+722,Proteínas para alimentación enteral (alimento),Polvo,Según disponibilidad,,Varios
+723,Solución de preservación de órganos sólidos HTK,Solución,Según disponibilidad,,Varios
+724,Sulfato de Bario,Polvo para enema,Según disponibilidad,,Varios
+725,Sulfato de Bario,Suspensión,Según disponibilidad,,Varios
+726,Ácido acetil salicílico,Comprimido,100 mg,,Sangre y órganos hematopoyéticos
+727,Ácido aminocapróico,Inyectable,2g /10 ml,,Sangre y órganos hematopoyéticos
+728,Ácido fólico,Comprimido,5 mg,,Sangre y órganos hematopoyéticos
+729,Ácido Fólico,Comprimido,800 mcg,,Sangre y órganos hematopoyéticos
+730,Ácido Tranexámico,Comprimido,500 mg,,Sangre y órganos hematopoyéticos
+731,Ácido Tranexámico,Inyectable,500 mg,,Sangre y órganos hematopoyéticos
+732,Agentes con gelatina,Solución parenteral de gran volúmen,Según disponibilidad,,Sangre y órganos hematopoyéticos
+733,Agua para inyección,Inyectable,5 ml,,Sangre y órganos hematopoyéticos
+734,Albúmina humana,Inyectable,20%,,Sangre y órganos hematopoyéticos
+735,Aminoácidos,Solución parenteral de gran volúmen,10%,,Sangre y órganos hematopoyéticos
+736,Bicarbonato de sodio,Inyectable,8%,,Sangre y órganos hematopoyéticos
+737,Bicarbonato de sodio p/hemodiálisis,Polvo,Frasco por 720 g,,Sangre y órganos hematopoyéticos
+738,Clopidogrel,Comprimido,75 mg,,Sangre y órganos hematopoyéticos
+739,Cloruro de potasio,Inyectable,20%,,Sangre y órganos hematopoyéticos
+740,Dextrán 70,Solución parenteral de gran volúmen,6%,,Sangre y órganos hematopoyéticos
+741,Emulsión de lípidos,Emulsión inyectable,Según disponibilidad,,Sangre y órganos hematopoyéticos
+742,Eritropoyetina,Inyectable,10.000 UI,,Sangre y órganos hematopoyéticos
+743,Eritropoyetina,Inyectable,2.000 UI,,Sangre y órganos hematopoyéticos
+744,Eritropoyetina,Inyectable,4000 UI,,Sangre y órganos hematopoyéticos
+745,Estreptoquinasa,Inyectable,1.500.000 UI,,Sangre y órganos hematopoyéticos
+746,Etamsilato,Inyectable,250 mg/2 ml,,Sangre y órganos hematopoyéticos
+747,Factor IX de la coagulación,Inyectable,500 UI,,Sangre y órganos hematopoyéticos
+748,Factor VIII de la coagulación,Inyectable,500 UI,,Sangre y órganos hematopoyéticos
+749,Fibrinógeno humano,Inyectable,1g,,Sangre y órganos hematopoyéticos
+750,Fitomenadiona (Vitamina K1),Inyectable,10 mg/ml,,Sangre y órganos hematopoyéticos
+751,Gluconato Cálcico (Calcio Gluconato),Inyectable,10%,,Sangre y órganos hematopoyéticos
+752,Heparina de bajo peso molecular,Inyectable,Según disponibilidad,,Sangre y órganos hematopoyéticos
+753,Heparina sódica,Inyectable,5.000 UI/ml,,Sangre y órganos hematopoyéticos
+754,Hierro,Inyectable,100 mg - IM o IV,,Sangre y órganos hematopoyéticos
+755,Hierro (como bisglicina quelato),Suspensión,30 mg/5 mL,,Sangre y órganos hematopoyéticos
+756,Micronutrientes (Vit. C + Vit A + Fe + Zn + Ac. Fólico) (Chispitas nutricionales),Polvo,Según concentración estándar,,Sangre y órganos hematopoyéticos
+757,Oligoelementos para nutricion parenteral,Solución parenteral de gran volúmen,Según disponibilidad,,Sangre y órganos hematopoyéticos
+758,Rivaroxabán,Comprimido,10 mg,,Sangre y órganos hematopoyéticos
+759,Solución ácida,Solución,Según disponibilidad,,Sangre y órganos hematopoyéticos
+760,Solución Básica,Solución,Según disponibilidad,,Sangre y órganos hematopoyéticos
+761,Solución de glucosa,Inyectable,50% (20 ml),,Sangre y órganos hematopoyéticos
+762,Solución de glucosa,Solución parenteral,10% (250 ml),,Sangre y órganos hematopoyéticos
+763,Solución de glucosa,Solución parenteral de gran volumen,10% (1.000 ml),,Sangre y órganos hematopoyéticos
+764,Solución de glucosa,Solución parenteral de gran volumen,10% (500 ml),,Sangre y órganos hematopoyéticos
+765,Solución de glucosa,Solución parenteral de gran volumen,5% (1.000 ml),,Sangre y órganos hematopoyéticos
+766,Solución de glucosa,Solución parenteral de gran volumen,5% (500 ml),,Sangre y órganos hematopoyéticos
+767,Solución de glucosa,Solución parenteral de gran volumen,50% (500 ml),,Sangre y órganos hematopoyéticos
+768,Solución de Manitol,Solución parenteral de gran volumen,20% (500 ml),,Sangre y órganos hematopoyéticos
+769,Solución Fisiológica,Solución parenteral,"0,9% (100 ml)",,Sangre y órganos hematopoyéticos
+770,Solución Fisiológica,Solución parenteral,"0,9% (150 ml)",,Sangre y órganos hematopoyéticos
+771,Solución Fisiológica,Solución parenteral de gran volumen,"0,9% (1.000 ml)",,Sangre y órganos hematopoyéticos
+772,Solución Fisiológica,Solución parenteral de gran volumen,"0,9% (500 ml)",,Sangre y órganos hematopoyéticos
+773,Solución glucosada clorurada,Solución parenteral de gran volumen,1.000 ml,,Sangre y órganos hematopoyéticos
+774,Solución glucosada clorurada,Solución parenteral de gran volumen,500 ml,,Sangre y órganos hematopoyéticos
+775,Solución para diálisis intraperitoneal (de acuerdo a composición apropiada),Solución parenteral,Según disponibilidad,,Sangre y órganos hematopoyéticos
+776,Solución para diálisis peritoneal I,Solución parenteral de gran volumen,1.000 ml,,Sangre y órganos hematopoyéticos
+777,Solución para diálisis peritoneal I,Solución parenteral de gran volumen,1.000 ml,,Sangre y órganos hematopoyéticos
+778,Solución para diálisis peritoneal II,Solución parenteral de gran volumen,1.000 ml,,Sangre y órganos hematopoyéticos
+779,Solución ringer lactato,Solución parenteral de gran volumen,1.000 ml,,Sangre y órganos hematopoyéticos
+780,Solución ringer lactato,Solución parenteral de gran volumen,500 ml,,Sangre y órganos hematopoyéticos
+781,Solución ringer normal,Solución parenteral de gran volumen,1.000 ml,,Sangre y órganos hematopoyéticos
+782,Solución ringer normal,Solución parenteral de gran volumen,500 ml,,Sangre y órganos hematopoyéticos
+783,Sulfato de Magnesio,Inyectable,10%,,Sangre y órganos hematopoyéticos
+784,Sulfato ferroso,Comprimido,200 mg,,Sangre y órganos hematopoyéticos
+785,Sulfato ferroso,Solución oral,125 mg/ml,,Sangre y órganos hematopoyéticos
+786,Sulfato ferroso + Ac. Fólico + Vitamina C,Comprimido,"200 mg + 0,5 mg + 150 mg",,Sangre y órganos hematopoyéticos
+787,Sulfato ferroso + Ac. Fólico + Vitamina C,Solución oral,"125 mg + 0,25 mg + 30 mg",,Sangre y órganos hematopoyéticos
+788,Tenecteplasa,Polvo para Inyectable,50 mg,,Sangre y órganos hematopoyéticos
+789,Warfarina,Comprimido ranurado,5 mg,,Sangre y órganos hematopoyéticos
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
