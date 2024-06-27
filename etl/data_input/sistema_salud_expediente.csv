@@ -1,0 +1,835 @@
+_id;familiares;personales;quirurgicos.cirugia;quirurgicos.fecha;alergias;inmunizaciones.vacuna;inmunizaciones.fecha;id_paciente;inmunizaciones.fecha.$date;quirurgicos.fecha.$date;DimPacientes.id;DimPacientes.nombre;DimPacientes.apellido
+1;Hipertension;Asma;Apendicectomia;14/6/2000 20:00;Penicilina;Tetano;9/1/2010 20:00;1;;;1;Paciente 1;Apellido 1
+1;Hipertension;Apendicitis;Apendicectomia;14/6/2000 20:00;Penicilina;Tetano;9/1/2010 20:00;1;;;1;Paciente 1;Apellido 1
+1;Diabetes;Asma;Apendicectomia;14/6/2000 20:00;Penicilina;Tetano;9/1/2010 20:00;1;;;1;Paciente 1;Apellido 1
+1;Diabetes;Apendicitis;Apendicectomia;14/6/2000 20:00;Penicilina;Tetano;9/1/2010 20:00;1;;;1;Paciente 1;Apellido 1
+81;Hipertensión;Asma;Apendicectomía;14/6/2000 20:00;Penicilina;Tétano;9/1/2010 20:00;81;;;81;Paciente 81;Apellido 81
+81;Hipertensión;Apendicitis;Apendicectomía;14/6/2000 20:00;Penicilina;Tétano;9/1/2010 20:00;81;;;81;Paciente 81;Apellido 81
+81;Diabetes;Asma;Apendicectomía;14/6/2000 20:00;Penicilina;Tétano;9/1/2010 20:00;81;;;81;Paciente 81;Apellido 81
+81;Diabetes;Apendicitis;Apendicectomía;14/6/2000 20:00;Penicilina;Tétano;9/1/2010 20:00;81;;;81;Paciente 81;Apellido 81
+5;Artritis reumatoide;Epilépsia;Cirugía de columna;19/2/2015 20:00;Mariscos;COVID-19;17/4/2021 20:00;5;;;5;Paciente 5;Apellido 5
+5;Artritis reumatoide;Celíaca;Cirugía de columna;19/2/2015 20:00;Mariscos;COVID-19;17/4/2021 20:00;5;;;5;Paciente 5;Apellido 5
+5;Depresión;Epilépsia;Cirugía de columna;19/2/2015 20:00;Mariscos;COVID-19;17/4/2021 20:00;5;;;5;Paciente 5;Apellido 5
+5;Depresión;Celíaca;Cirugía de columna;19/2/2015 20:00;Mariscos;COVID-19;17/4/2021 20:00;5;;;5;Paciente 5;Apellido 5
+6;Asma;Hipotiroidismo;Cirugía ocular;6/7/2019 20:00;Polvo;Neumococo;13/9/2016 20:00;6;;;6;Paciente 6;Apellido 6
+6;Asma;Colitis ulcerosa;Cirugía ocular;6/7/2019 20:00;Polvo;Neumococo;13/9/2016 20:00;6;;;6;Paciente 6;Apellido 6
+6;Enfermedad renal;Hipotiroidismo;Cirugía ocular;6/7/2019 20:00;Polvo;Neumococo;13/9/2016 20:00;6;;;6;Paciente 6;Apellido 6
+6;Enfermedad renal;Colitis ulcerosa;Cirugía ocular;6/7/2019 20:00;Polvo;Neumococo;13/9/2016 20:00;6;;;6;Paciente 6;Apellido 6
+7;Cáncer de próstata;Insuficiencia cardíaca;Bypass gástrico;30/9/2014 20:00;Polen;Papilomavirus humano (HPV);1/12/2013 20:00;7;;;7;Paciente 7;Apellido 7
+7;Cáncer de próstata;Trastorno bipolar;Bypass gástrico;30/9/2014 20:00;Polen;Papilomavirus humano (HPV);1/12/2013 20:00;7;;;7;Paciente 7;Apellido 7
+7;Esclerosis múltiple;Insuficiencia cardíaca;Bypass gástrico;30/9/2014 20:00;Polen;Papilomavirus humano (HPV);1/12/2013 20:00;7;;;7;Paciente 7;Apellido 7
+7;Esclerosis múltiple;Trastorno bipolar;Bypass gástrico;30/9/2014 20:00;Polen;Papilomavirus humano (HPV);1/12/2013 20:00;7;;;7;Paciente 7;Apellido 7
+8;Anemia;Esquizofrenia;Cirugía bariátrica;14/3/2020 20:00;Nueces;Hepatitis A;9/6/2008 20:00;8;;;8;Paciente 8;Apellido 8
+8;Anemia;Hiperlipidemia;Cirugía bariátrica;14/3/2020 20:00;Nueces;Hepatitis A;9/6/2008 20:00;8;;;8;Paciente 8;Apellido 8
+8;Osteoartritis;Esquizofrenia;Cirugía bariátrica;14/3/2020 20:00;Nueces;Hepatitis A;9/6/2008 20:00;8;;;8;Paciente 8;Apellido 8
+8;Osteoartritis;Hiperlipidemia;Cirugía bariátrica;14/3/2020 20:00;Nueces;Hepatitis A;9/6/2008 20:00;8;;;8;Paciente 8;Apellido 8
+82;Cáncer de mama;Migrañas;Colecistectomía;21/3/2018 20:00;Amoxicilina;Gripe;11/10/2022 20:00;82;;;82;Paciente 82;Apellido 82
+82;Cáncer de mama;Artritis;Colecistectomía;21/3/2018 20:00;Amoxicilina;Gripe;11/10/2022 20:00;82;;;82;Paciente 82;Apellido 82
+82;Enfermedad de Alzheimer;Migrañas;Colecistectomía;21/3/2018 20:00;Amoxicilina;Gripe;11/10/2022 20:00;82;;;82;Paciente 82;Apellido 82
+82;Enfermedad de Alzheimer;Artritis;Colecistectomía;21/3/2018 20:00;Amoxicilina;Gripe;11/10/2022 20:00;82;;;82;Paciente 82;Apellido 82
+9;Esquizofrenia;Anemia;Reparación de válvula cardíaca;24/11/2003 20:00;Gluten;Polio;19/1/1995 20:00;9;;;9;Paciente 9;Apellido 9
+9;Esquizofrenia;Fibromialgia;Reparación de válvula cardíaca;24/11/2003 20:00;Gluten;Polio;19/1/1995 20:00;9;;;9;Paciente 9;Apellido 9
+9;Parkinson;Anemia;Reparación de válvula cardíaca;24/11/2003 20:00;Gluten;Polio;19/1/1995 20:00;9;;;9;Paciente 9;Apellido 9
+9;Parkinson;Fibromialgia;Reparación de válvula cardíaca;24/11/2003 20:00;Gluten;Polio;19/1/1995 20:00;9;;;9;Paciente 9;Apellido 9
+10;Epilepsia;EPOC;Cirugía de rodilla;7/9/2010 20:00;Aspirina;Fiebre amarilla;17/5/2011 20:00;10;;;10;Paciente 10;Apellido 10
+10;Epilepsia;Síndrome de Sjögren;Cirugía de rodilla;7/9/2010 20:00;Aspirina;Fiebre amarilla;17/5/2011 20:00;10;;;10;Paciente 10;Apellido 10
+10;Enfermedad de Crohn;EPOC;Cirugía de rodilla;7/9/2010 20:00;Aspirina;Fiebre amarilla;17/5/2011 20:00;10;;;10;Paciente 10;Apellido 10
+10;Enfermedad de Crohn;Síndrome de Sjögren;Cirugía de rodilla;7/9/2010 20:00;Aspirina;Fiebre amarilla;17/5/2011 20:00;10;;;10;Paciente 10;Apellido 10
+11;Enfermedad Pulmonar Obstructiva Crónica (EPOC);Hipertensión;Cirugía de cataratas;9/1/2018 20:00;Leche;Influenza;14/9/2020 20:00;11;;;11;Paciente 11;Apellido 11
+11;Enfermedad Pulmonar Obstructiva Crónica (EPOC);Gota;Cirugía de cataratas;9/1/2018 20:00;Leche;Influenza;14/9/2020 20:00;11;;;11;Paciente 11;Apellido 11
+11;Enfermedad de Parkinson;Hipertensión;Cirugía de cataratas;9/1/2018 20:00;Leche;Influenza;14/9/2020 20:00;11;;;11;Paciente 11;Apellido 11
+11;Enfermedad de Parkinson;Gota;Cirugía de cataratas;9/1/2018 20:00;Leche;Influenza;14/9/2020 20:00;11;;;11;Paciente 11;Apellido 11
+12;Anemia;Psoriasis;Cirugía de hemorroides;4/6/2015 20:00;Polen de abedul;Hepatitis C;9/3/2007 20:00;12;;;12;Paciente 12;Apellido 12
+12;Anemia;Síndrome del Intestino Irritable (SII);Cirugía de hemorroides;4/6/2015 20:00;Polen de abedul;Hepatitis C;9/3/2007 20:00;12;;;12;Paciente 12;Apellido 12
+12;Insuficiencia renal crónica;Psoriasis;Cirugía de hemorroides;4/6/2015 20:00;Polen de abedul;Hepatitis C;9/3/2007 20:00;12;;;12;Paciente 12;Apellido 12
+12;Insuficiencia renal crónica;Síndrome del Intestino Irritable (SII);Cirugía de hemorroides;4/6/2015 20:00;Polen de abedul;Hepatitis C;9/3/2007 20:00;12;;;12;Paciente 12;Apellido 12
+83;Hipotiroidismo;Diabetes Tipo 1;Reparación de hernia;29/8/2012 20:00;Ibuprofeno;Hepatitis B;14/5/2005 20:00;83;;;83;Paciente 83;Apellido 83
+83;Hipotiroidismo;Eczema;Reparación de hernia;29/8/2012 20:00;Ibuprofeno;Hepatitis B;14/5/2005 20:00;83;;;83;Paciente 83;Apellido 83
+13;Hipertensión arterial;Hipertiroidismo;Cirugía de hernia umbilical;14/4/2016 20:00;Ajo;Sarampión;19/11/1998 20:00;13;;;13;Paciente 13;Apellido 13
+13;Hipertensión arterial;Alergia a los gatos;Cirugía de hernia umbilical;14/4/2016 20:00;Ajo;Sarampión;19/11/1998 20:00;13;;;13;Paciente 13;Apellido 13
+13;Osteoporosis;Hipertiroidismo;Cirugía de hernia umbilical;14/4/2016 20:00;Ajo;Sarampión;19/11/1998 20:00;13;;;13;Paciente 13;Apellido 13
+13;Osteoporosis;Alergia a los gatos;Cirugía de hernia umbilical;14/4/2016 20:00;Ajo;Sarampión;19/11/1998 20:00;13;;;13;Paciente 13;Apellido 13
+14;Diabetes Mellitus;Dermatitis atópica;Cirugía de escoliosis;21/11/2014 20:00;Aspirina;Fiebre tifoidea;17/2/2012 20:00;14;;;14;Paciente 14;Apellido 14
+14;Diabetes Mellitus;Hipotensión;Cirugía de escoliosis;21/11/2014 20:00;Aspirina;Fiebre tifoidea;17/2/2012 20:00;14;;;14;Paciente 14;Apellido 14
+14;Cáncer de colon;Dermatitis atópica;Cirugía de escoliosis;21/11/2014 20:00;Aspirina;Fiebre tifoidea;17/2/2012 20:00;14;;;14;Paciente 14;Apellido 14
+14;Cáncer de colon;Hipotensión;Cirugía de escoliosis;21/11/2014 20:00;Aspirina;Fiebre tifoidea;17/2/2012 20:00;14;;;14;Paciente 14;Apellido 14
+84;Enfermedad cardíaca;Hipertensión;Reemplazo de cadera;10/11/2017 20:00;Latex;Varicela;24/4/1999 20:00;84;;;84;Paciente 84;Apellido 84
+84;Enfermedad cardíaca;Osteoporosis;Reemplazo de cadera;10/11/2017 20:00;Latex;Varicela;24/4/1999 20:00;84;;;84;Paciente 84;Apellido 84
+84;Obesidad;Hipertensión;Reemplazo de cadera;10/11/2017 20:00;Latex;Varicela;24/4/1999 20:00;84;;;84;Paciente 84;Apellido 84
+84;Obesidad;Osteoporosis;Reemplazo de cadera;10/11/2017 20:00;Latex;Varicela;24/4/1999 20:00;84;;;84;Paciente 84;Apellido 84
+15;Insuficiencia cardíaca;Epilepsia;Cirugía de varices;19/5/2011 20:00;Polvo;Fiebre amarilla;29/7/2009 20:00;15;;;15;Paciente 15;Apellido 15
+15;Insuficiencia cardíaca;Gastritis;Cirugía de varices;19/5/2011 20:00;Polvo;Fiebre amarilla;29/7/2009 20:00;15;;;15;Paciente 15;Apellido 15
+15;Cáncer de pulmón;Epilepsia;Cirugía de varices;19/5/2011 20:00;Polvo;Fiebre amarilla;29/7/2009 20:00;15;;;15;Paciente 15;Apellido 15
+15;Cáncer de pulmón;Gastritis;Cirugía de varices;19/5/2011 20:00;Polvo;Fiebre amarilla;29/7/2009 20:00;15;;;15;Paciente 15;Apellido 15
+16;Enfermedad de Crohn;Acné severo;Cirugía de vesícula;26/9/2013 20:00;Lactosa;Hepatitis A;13/3/2004 20:00;16;;;16;Paciente 16;Apellido 16
+16;Enfermedad de Crohn;Alergia al polen;Cirugía de vesícula;26/9/2013 20:00;Lactosa;Hepatitis A;13/3/2004 20:00;16;;;16;Paciente 16;Apellido 16
+16;Cáncer de piel;Acné severo;Cirugía de vesícula;26/9/2013 20:00;Lactosa;Hepatitis A;13/3/2004 20:00;16;;;16;Paciente 16;Apellido 16
+16;Cáncer de piel;Alergia al polen;Cirugía de vesícula;26/9/2013 20:00;Lactosa;Hepatitis A;13/3/2004 20:00;16;;;16;Paciente 16;Apellido 16
+17;Artritis psoriásica;Anemia perniciosa;Cirugía de apendicitis;8/10/2009 20:00;Gluten;Meningitis;30/11/2001 20:00;17;;;17;Paciente 17;Apellido 17
+17;Artritis psoriásica;Hipercolesterolemia;Cirugía de apendicitis;8/10/2009 20:00;Gluten;Meningitis;30/11/2001 20:00;17;;;17;Paciente 17;Apellido 17
+17;Demencia senil;Anemia perniciosa;Cirugía de apendicitis;8/10/2009 20:00;Gluten;Meningitis;30/11/2001 20:00;17;;;17;Paciente 17;Apellido 17
+17;Demencia senil;Hipercolesterolemia;Cirugía de apendicitis;8/10/2009 20:00;Gluten;Meningitis;30/11/2001 20:00;17;;;17;Paciente 17;Apellido 17
+18;Enfermedad hepática;Hipertrofia benigna de próstata;Cirugía de cadera;17/7/2017 20:00;Pescado;Tétanos;9/8/1996 20:00;18;;;18;Paciente 18;Apellido 18
+18;Enfermedad hepática;Reflujo gastroesofágico;Cirugía de cadera;17/7/2017 20:00;Pescado;Tétanos;9/8/1996 20:00;18;;;18;Paciente 18;Apellido 18
+18;Cáncer de estómago;Hipertrofia benigna de próstata;Cirugía de cadera;17/7/2017 20:00;Pescado;Tétanos;9/8/1996 20:00;18;;;18;Paciente 18;Apellido 18
+18;Cáncer de estómago;Reflujo gastroesofágico;Cirugía de cadera;17/7/2017 20:00;Pescado;Tétanos;9/8/1996 20:00;18;;;18;Paciente 18;Apellido 18
+19;Esclerosis múltiple;Hipotiroidismo;Cirugía de codo;10/11/2012 20:00;Maní;Difteria;24/5/2003 20:00;19;;;19;Paciente 19;Apellido 19
+19;Esclerosis múltiple;Asma;Cirugía de codo;10/11/2012 20:00;Maní;Difteria;24/5/2003 20:00;19;;;19;Paciente 19;Apellido 19
+19;Insuficiencia venosa;Hipotiroidismo;Cirugía de codo;10/11/2012 20:00;Maní;Difteria;24/5/2003 20:00;19;;;19;Paciente 19;Apellido 19
+19;Insuficiencia venosa;Asma;Cirugía de codo;10/11/2012 20:00;Maní;Difteria;24/5/2003 20:00;19;;;19;Paciente 19;Apellido 19
+20;Hipertensión pulmonar;Insuficiencia adrenal;Cirugía de amígdalas;2/4/2010 20:00;Sulfa;Tétanos;16/6/2006 20:00;20;;;20;Paciente 20;Apellido 20
+20;Hipertensión pulmonar;Síndrome de fatiga crónica;Cirugía de amígdalas;2/4/2010 20:00;Sulfa;Tétanos;16/6/2006 20:00;20;;;20;Paciente 20;Apellido 20
+20;Cáncer de vejiga;Insuficiencia adrenal;Cirugía de amígdalas;2/4/2010 20:00;Sulfa;Tétanos;16/6/2006 20:00;20;;;20;Paciente 20;Apellido 20
+20;Cáncer de vejiga;Síndrome de fatiga crónica;Cirugía de amígdalas;2/4/2010 20:00;Sulfa;Tétanos;16/6/2006 20:00;20;;;20;Paciente 20;Apellido 20
+21;Diabetes Tipo 2;Hipertensión;Colecistectomía;13/8/2015 20:00;Aspirina;Hepatitis B;9/10/2011 20:00;21;;;21;Paciente 21;Apellido 21
+21;Diabetes Tipo 2;Síndrome del Túnel Carpiano;Colecistectomía;13/8/2015 20:00;Aspirina;Hepatitis B;9/10/2011 20:00;21;;;21;Paciente 21;Apellido 21
+21;Cáncer de páncreas;Hipertensión;Colecistectomía;13/8/2015 20:00;Aspirina;Hepatitis B;9/10/2011 20:00;21;;;21;Paciente 21;Apellido 21
+21;Cáncer de páncreas;Síndrome del Túnel Carpiano;Colecistectomía;13/8/2015 20:00;Aspirina;Hepatitis B;9/10/2011 20:00;21;;;21;Paciente 21;Apellido 21
+22;Enfermedad de Alzheimer;Asma;Cirugía de cataratas;24/5/2016 20:00;Penicilina;Gripe;9/11/2019 20:00;22;;;22;Paciente 22;Apellido 22
+22;Enfermedad de Alzheimer;Enfermedad celíaca;Cirugía de cataratas;24/5/2016 20:00;Penicilina;Gripe;9/11/2019 20:00;22;;;22;Paciente 22;Apellido 22
+22;Osteoporosis;Asma;Cirugía de cataratas;24/5/2016 20:00;Penicilina;Gripe;9/11/2019 20:00;22;;;22;Paciente 22;Apellido 22
+22;Osteoporosis;Enfermedad celíaca;Cirugía de cataratas;24/5/2016 20:00;Penicilina;Gripe;9/11/2019 20:00;22;;;22;Paciente 22;Apellido 22
+23;Hipertensión;Diabetes Tipo 1;Apendicectomía;29/7/2004 20:00;Polen;Varicela;14/3/1997 20:00;23;;;23;Paciente 23;Apellido 23
+23;Hipertensión;Fibromialgia;Apendicectomía;29/7/2004 20:00;Polen;Varicela;14/3/1997 20:00;23;;;23;Paciente 23;Apellido 23
+23;Cáncer de piel;Diabetes Tipo 1;Apendicectomía;29/7/2004 20:00;Polen;Varicela;14/3/1997 20:00;23;;;23;Paciente 23;Apellido 23
+23;Cáncer de piel;Fibromialgia;Apendicectomía;29/7/2004 20:00;Polen;Varicela;14/3/1997 20:00;23;;;23;Paciente 23;Apellido 23
+24;Cáncer de pulmón;Colitis ulcerosa;Cirugía de hernia inguinal;19/2/2018 20:00;Mariscos;Sarampión;4/12/2000 20:00;24;;;24;Paciente 24;Apellido 24
+24;Cáncer de pulmón;Migrañas;Cirugía de hernia inguinal;19/2/2018 20:00;Mariscos;Sarampión;4/12/2000 20:00;24;;;24;Paciente 24;Apellido 24
+24;Esclerosis múltiple;Colitis ulcerosa;Cirugía de hernia inguinal;19/2/2018 20:00;Mariscos;Sarampión;4/12/2000 20:00;24;;;24;Paciente 24;Apellido 24
+24;Esclerosis múltiple;Migrañas;Cirugía de hernia inguinal;19/2/2018 20:00;Mariscos;Sarampión;4/12/2000 20:00;24;;;24;Paciente 24;Apellido 24
+25;Cáncer de mama;Trastorno de ansiedad;Bypass gástrico;13/10/2012 20:00;Nueces;Hepatitis A;21/4/2003 20:00;25;;;25;Paciente 25;Apellido 25
+25;Cáncer de mama;Hipertiroidismo;Bypass gástrico;13/10/2012 20:00;Nueces;Hepatitis A;21/4/2003 20:00;25;;;25;Paciente 25;Apellido 25
+25;Artritis reumatoide;Trastorno de ansiedad;Bypass gástrico;13/10/2012 20:00;Nueces;Hepatitis A;21/4/2003 20:00;25;;;25;Paciente 25;Apellido 25
+25;Artritis reumatoide;Hipertiroidismo;Bypass gástrico;13/10/2012 20:00;Nueces;Hepatitis A;21/4/2003 20:00;25;;;25;Paciente 25;Apellido 25
+26;Insuficiencia cardíaca;Hipertensión pulmonar;Cirugía de válvula cardíaca;21/6/2017 20:00;Ibuprofeno;Difteria;16/1/2001 20:00;26;;;26;Paciente 26;Apellido 26
+26;Insuficiencia cardíaca;Enfermedad de Crohn;Cirugía de válvula cardíaca;21/6/2017 20:00;Ibuprofeno;Difteria;16/1/2001 20:00;26;;;26;Paciente 26;Apellido 26
+26;Cáncer de hígado;Hipertensión pulmonar;Cirugía de válvula cardíaca;21/6/2017 20:00;Ibuprofeno;Difteria;16/1/2001 20:00;26;;;26;Paciente 26;Apellido 26
+26;Cáncer de hígado;Enfermedad de Crohn;Cirugía de válvula cardíaca;21/6/2017 20:00;Ibuprofeno;Difteria;16/1/2001 20:00;26;;;26;Paciente 26;Apellido 26
+27;Enfermedad de Parkinson;Artritis psoriásica;Cirugía de cadera;8/9/2013 20:00;Látex;Tétano;2/11/1995 20:00;27;;;27;Paciente 27;Apellido 27
+27;Enfermedad de Parkinson;Síndrome de apnea del sueño;Cirugía de cadera;8/9/2013 20:00;Látex;Tétano;2/11/1995 20:00;27;;;27;Paciente 27;Apellido 27
+27;Diabetes Tipo 2;Artritis psoriásica;Cirugía de cadera;8/9/2013 20:00;Látex;Tétano;2/11/1995 20:00;27;;;27;Paciente 27;Apellido 27
+27;Diabetes Tipo 2;Síndrome de apnea del sueño;Cirugía de cadera;8/9/2013 20:00;Látex;Tétano;2/11/1995 20:00;27;;;27;Paciente 27;Apellido 27
+28;Enfermedad renal crónica;Hipertiroidismo;Cirugía de rodilla;18/12/2011 20:00;Polvo;Gripe;21/10/2020 20:00;28;;;28;Paciente 28;Apellido 28
+28;Enfermedad renal crónica;Depresión;Cirugía de rodilla;18/12/2011 20:00;Polvo;Gripe;21/10/2020 20:00;28;;;28;Paciente 28;Apellido 28
+28;Cáncer de próstata;Hipertiroidismo;Cirugía de rodilla;18/12/2011 20:00;Polvo;Gripe;21/10/2020 20:00;28;;;28;Paciente 28;Apellido 28
+28;Cáncer de próstata;Depresión;Cirugía de rodilla;18/12/2011 20:00;Polvo;Gripe;21/10/2020 20:00;28;;;28;Paciente 28;Apellido 28
+29;Hipertensión;Enfermedad de Addison;Colecistectomía;29/3/2014 20:00;Cacahuetes;Hepatitis B;10/8/2006 20:00;29;;;29;Paciente 29;Apellido 29
+29;Hipertensión;Trastorno de pánico;Colecistectomía;29/3/2014 20:00;Cacahuetes;Hepatitis B;10/8/2006 20:00;29;;;29;Paciente 29;Apellido 29
+29;Cáncer de ovario;Enfermedad de Addison;Colecistectomía;29/3/2014 20:00;Cacahuetes;Hepatitis B;10/8/2006 20:00;29;;;29;Paciente 29;Apellido 29
+29;Cáncer de ovario;Trastorno de pánico;Colecistectomía;29/3/2014 20:00;Cacahuetes;Hepatitis B;10/8/2006 20:00;29;;;29;Paciente 29;Apellido 29
+30;Esclerosis múltiple;Fibromialgia;Cirugía de vesícula;26/5/2010 20:00;Gluten;Varicela;16/7/2008 20:00;30;;;30;Paciente 30;Apellido 30
+30;Esclerosis múltiple;Artritis reumatoide;Cirugía de vesícula;26/5/2010 20:00;Gluten;Varicela;16/7/2008 20:00;30;;;30;Paciente 30;Apellido 30
+30;Cáncer de riñón;Fibromialgia;Cirugía de vesícula;26/5/2010 20:00;Gluten;Varicela;16/7/2008 20:00;30;;;30;Paciente 30;Apellido 30
+30;Cáncer de riñón;Artritis reumatoide;Cirugía de vesícula;26/5/2010 20:00;Gluten;Varicela;16/7/2008 20:00;30;;;30;Paciente 30;Apellido 30
+41;Hipertensión;Asma;Apendicectomía;19/5/2006 20:00;Polvo;Influenza;11/10/2018 20:00;41;;;41;Paciente 41;Apellido 41
+41;Hipertensión;Hipotiroidismo;Apendicectomía;19/5/2006 20:00;Polvo;Influenza;11/10/2018 20:00;41;;;41;Paciente 41;Apellido 41
+41;Diabetes Tipo 2;Asma;Apendicectomía;19/5/2006 20:00;Polvo;Influenza;11/10/2018 20:00;41;;;41;Paciente 41;Apellido 41
+41;Diabetes Tipo 2;Hipotiroidismo;Apendicectomía;19/5/2006 20:00;Polvo;Influenza;11/10/2018 20:00;41;;;41;Paciente 41;Apellido 41
+42;Cáncer de mama;Migrañas;Cirugía de amígdalas;18/8/2002 20:00;Mariscos;Hepatitis B;13/4/2009 20:00;42;;;42;Paciente 42;Apellido 42
+42;Cáncer de mama;Dermatitis atópica;Cirugía de amígdalas;18/8/2002 20:00;Mariscos;Hepatitis B;13/4/2009 20:00;42;;;42;Paciente 42;Apellido 42
+42;Artritis reumatoide;Migrañas;Cirugía de amígdalas;18/8/2002 20:00;Mariscos;Hepatitis B;13/4/2009 20:00;42;;;42;Paciente 42;Apellido 42
+42;Artritis reumatoide;Dermatitis atópica;Cirugía de amígdalas;18/8/2002 20:00;Mariscos;Hepatitis B;13/4/2009 20:00;42;;;42;Paciente 42;Apellido 42
+43;Enfermedad cardíaca;Diabetes Tipo 1;Colecistectomía;16/3/2015 20:00;Aspirina;Tétanos;21/7/2011 20:00;43;;;43;Paciente 43;Apellido 43
+43;Enfermedad cardíaca;Eczema;Colecistectomía;16/3/2015 20:00;Aspirina;Tétanos;21/7/2011 20:00;43;;;43;Paciente 43;Apellido 43
+43;Osteoporosis;Diabetes Tipo 1;Colecistectomía;16/3/2015 20:00;Aspirina;Tétanos;21/7/2011 20:00;43;;;43;Paciente 43;Apellido 43
+43;Osteoporosis;Eczema;Colecistectomía;16/3/2015 20:00;Aspirina;Tétanos;21/7/2011 20:00;43;;;43;Paciente 43;Apellido 43
+44;Asma;Hipertensión;Reparación de hernia;26/11/2017 20:00;Nueces;Varicela;22/2/1999 20:00;44;;;44;Paciente 44;Apellido 44
+44;Asma;Colitis ulcerosa;Reparación de hernia;26/11/2017 20:00;Nueces;Varicela;22/2/1999 20:00;44;;;44;Paciente 44;Apellido 44
+44;Enfermedad renal crónica;Hipertensión;Reparación de hernia;26/11/2017 20:00;Nueces;Varicela;22/2/1999 20:00;44;;;44;Paciente 44;Apellido 44
+44;Enfermedad renal crónica;Colitis ulcerosa;Reparación de hernia;26/11/2017 20:00;Nueces;Varicela;22/2/1999 20:00;44;;;44;Paciente 44;Apellido 44
+45;Enfermedad de Alzheimer;Epilépsia;Cirugía ocular;10/12/2013 20:00;Gluten;COVID-19;21/3/2021 20:00;45;;;45;Paciente 45;Apellido 45
+45;Enfermedad de Alzheimer;Gastritis;Cirugía ocular;10/12/2013 20:00;Gluten;COVID-19;21/3/2021 20:00;45;;;45;Paciente 45;Apellido 45
+45;Diabetes Tipo 2;Epilépsia;Cirugía ocular;10/12/2013 20:00;Gluten;COVID-19;21/3/2021 20:00;45;;;45;Paciente 45;Apellido 45
+45;Diabetes Tipo 2;Gastritis;Cirugía ocular;10/12/2013 20:00;Gluten;COVID-19;21/3/2021 20:00;45;;;45;Paciente 45;Apellido 45
+46;Hipertensión arterial;Psoriasis;Cirugía de varices;6/5/2011 20:00;Penicilina;Gripe;29/9/2017 20:00;46;;;46;Paciente 46;Apellido 46
+46;Hipertensión arterial;Hipotiroidismo;Cirugía de varices;6/5/2011 20:00;Penicilina;Gripe;29/9/2017 20:00;46;;;46;Paciente 46;Apellido 46
+46;Cáncer de piel;Psoriasis;Cirugía de varices;6/5/2011 20:00;Penicilina;Gripe;29/9/2017 20:00;46;;;46;Paciente 46;Apellido 46
+46;Cáncer de piel;Hipotiroidismo;Cirugía de varices;6/5/2011 20:00;Penicilina;Gripe;29/9/2017 20:00;46;;;46;Paciente 46;Apellido 46
+47;Insuficiencia cardíaca;Trastorno de ansiedad;Reemplazo de cadera;11/9/2012 20:00;Lácteos;Hepatitis A;24/11/2008 20:00;47;;;47;Paciente 47;Apellido 47
+47;Insuficiencia cardíaca;Hiperlipidemia;Reemplazo de cadera;11/9/2012 20:00;Lácteos;Hepatitis A;24/11/2008 20:00;47;;;47;Paciente 47;Apellido 47
+47;Cáncer de pulmón;Trastorno de ansiedad;Reemplazo de cadera;11/9/2012 20:00;Lácteos;Hepatitis A;24/11/2008 20:00;47;;;47;Paciente 47;Apellido 47
+47;Cáncer de pulmón;Hiperlipidemia;Reemplazo de cadera;11/9/2012 20:00;Lácteos;Hepatitis A;24/11/2008 20:00;47;;;47;Paciente 47;Apellido 47
+48;Esclerosis múltiple;Anemia perniciosa;Cirugía de columna;19/6/2009 20:00;Ibuprofeno;Sarampión;16/12/2003 20:00;48;;;48;Paciente 48;Apellido 48
+48;Esclerosis múltiple;Fibromialgia;Cirugía de columna;19/6/2009 20:00;Ibuprofeno;Sarampión;16/12/2003 20:00;48;;;48;Paciente 48;Apellido 48
+48;Demencia senil;Anemia perniciosa;Cirugía de columna;19/6/2009 20:00;Ibuprofeno;Sarampión;16/12/2003 20:00;48;;;48;Paciente 48;Apellido 48
+48;Demencia senil;Fibromialgia;Cirugía de columna;19/6/2009 20:00;Ibuprofeno;Sarampión;16/12/2003 20:00;48;;;48;Paciente 48;Apellido 48
+49;Cáncer de próstata;Síndrome del intestino irritable;Cirugía bariátrica;17/7/2015 20:00;Maní;Polio;10/8/1997 20:00;49;;;49;Paciente 49;Apellido 49
+49;Cáncer de próstata;Hipercolesterolemia;Cirugía bariátrica;17/7/2015 20:00;Maní;Polio;10/8/1997 20:00;49;;;49;Paciente 49;Apellido 49
+49;Osteoartritis;Síndrome del intestino irritable;Cirugía bariátrica;17/7/2015 20:00;Maní;Polio;10/8/1997 20:00;49;;;49;Paciente 49;Apellido 49
+49;Osteoartritis;Hipercolesterolemia;Cirugía bariátrica;17/7/2015 20:00;Maní;Polio;10/8/1997 20:00;49;;;49;Paciente 49;Apellido 49
+50;Diabetes Tipo 1;Síndrome de Sjögren;Cirugía de rodilla;13/10/2018 20:00;Polen;Fiebre amarilla;14/4/2004 20:00;50;;;50;Paciente 50;Apellido 50
+50;Diabetes Tipo 1;EPOC;Cirugía de rodilla;13/10/2018 20:00;Polen;Fiebre amarilla;14/4/2004 20:00;50;;;50;Paciente 50;Apellido 50
+50;Cáncer de estómago;Síndrome de Sjögren;Cirugía de rodilla;13/10/2018 20:00;Polen;Fiebre amarilla;14/4/2004 20:00;50;;;50;Paciente 50;Apellido 50
+50;Cáncer de estómago;EPOC;Cirugía de rodilla;13/10/2018 20:00;Polen;Fiebre amarilla;14/4/2004 20:00;50;;;50;Paciente 50;Apellido 50
+51;Hipertensión;Asma;Apendicectomía;24/4/2005 20:00;Aspirina;Influenza;14/11/2019 20:00;51;;;51;Paciente 51;Apellido 51
+51;Hipertensión;Hipotiroidismo;Apendicectomía;24/4/2005 20:00;Aspirina;Influenza;14/11/2019 20:00;51;;;51;Paciente 51;Apellido 51
+51;Diabetes;Asma;Apendicectomía;24/4/2005 20:00;Aspirina;Influenza;14/11/2019 20:00;51;;;51;Paciente 51;Apellido 51
+51;Diabetes;Hipotiroidismo;Apendicectomía;24/4/2005 20:00;Aspirina;Influenza;14/11/2019 20:00;51;;;51;Paciente 51;Apellido 51
+52;Cáncer de mama;Migrañas;Cirugía de amígdalas;13/12/2003 20:00;Penicilina;Hepatitis B;9/6/2010 20:00;52;;;52;Paciente 52;Apellido 52
+52;Cáncer de mama;Dermatitis atópica;Cirugía de amígdalas;13/12/2003 20:00;Penicilina;Hepatitis B;9/6/2010 20:00;52;;;52;Paciente 52;Apellido 52
+52;Artritis reumatoide;Migrañas;Cirugía de amígdalas;13/12/2003 20:00;Penicilina;Hepatitis B;9/6/2010 20:00;52;;;52;Paciente 52;Apellido 52
+52;Artritis reumatoide;Dermatitis atópica;Cirugía de amígdalas;13/12/2003 20:00;Penicilina;Hepatitis B;9/6/2010 20:00;52;;;52;Paciente 52;Apellido 52
+53;Enfermedad cardíaca;Diabetes Tipo 1;Colecistectomía;4/9/2017 20:00;Gluten;Tétanos;21/3/2012 20:00;53;;;53;Paciente 53;Apellido 53
+53;Enfermedad cardíaca;Eczema;Colecistectomía;4/9/2017 20:00;Gluten;Tétanos;21/3/2012 20:00;53;;;53;Paciente 53;Apellido 53
+53;Osteoporosis;Diabetes Tipo 1;Colecistectomía;4/9/2017 20:00;Gluten;Tétanos;21/3/2012 20:00;53;;;53;Paciente 53;Apellido 53
+53;Osteoporosis;Eczema;Colecistectomía;4/9/2017 20:00;Gluten;Tétanos;21/3/2012 20:00;53;;;53;Paciente 53;Apellido 53
+54;Asma;Hipertensión;Reparación de hernia;19/11/2018 20:00;Mariscos;Varicela;29/7/2000 20:00;54;;;54;Paciente 54;Apellido 54
+54;Asma;Colitis ulcerosa;Reparación de hernia;19/11/2018 20:00;Mariscos;Varicela;29/7/2000 20:00;54;;;54;Paciente 54;Apellido 54
+54;Enfermedad renal crónica;Hipertensión;Reparación de hernia;19/11/2018 20:00;Mariscos;Varicela;29/7/2000 20:00;54;;;54;Paciente 54;Apellido 54
+54;Enfermedad renal crónica;Colitis ulcerosa;Reparación de hernia;19/11/2018 20:00;Mariscos;Varicela;29/7/2000 20:00;54;;;54;Paciente 54;Apellido 54
+55;Enfermedad de Alzheimer;Epilépsia;Cirugía ocular;9/1/2014 20:00;Ibuprofeno;COVID-19;17/2/2021 20:00;55;;;55;Paciente 55;Apellido 55
+55;Enfermedad de Alzheimer;Gastritis;Cirugía ocular;9/1/2014 20:00;Ibuprofeno;COVID-19;17/2/2021 20:00;55;;;55;Paciente 55;Apellido 55
+55;Diabetes Tipo 2;Epilépsia;Cirugía ocular;9/1/2014 20:00;Ibuprofeno;COVID-19;17/2/2021 20:00;55;;;55;Paciente 55;Apellido 55
+55;Diabetes Tipo 2;Gastritis;Cirugía ocular;9/1/2014 20:00;Ibuprofeno;COVID-19;17/2/2021 20:00;55;;;55;Paciente 55;Apellido 55
+56;Hipertensión arterial;Psoriasis;Cirugía de varices;18/7/2012 20:00;Polen;Gripe;24/9/2018 20:00;56;;;56;Paciente 56;Apellido 56
+56;Hipertensión arterial;Hipotiroidismo;Cirugía de varices;18/7/2012 20:00;Polen;Gripe;24/9/2018 20:00;56;;;56;Paciente 56;Apellido 56
+56;Cáncer de piel;Psoriasis;Cirugía de varices;18/7/2012 20:00;Polen;Gripe;24/9/2018 20:00;56;;;56;Paciente 56;Apellido 56
+56;Cáncer de piel;Hipotiroidismo;Cirugía de varices;18/7/2012 20:00;Polen;Gripe;24/9/2018 20:00;56;;;56;Paciente 56;Apellido 56
+57;Insuficiencia cardíaca;Trastorno de ansiedad;Reemplazo de cadera;4/10/2013 20:00;Lactosa;Hepatitis A;13/11/2009 20:00;57;;;57;Paciente 57;Apellido 57
+57;Insuficiencia cardíaca;Hiperlipidemia;Reemplazo de cadera;4/10/2013 20:00;Lactosa;Hepatitis A;13/11/2009 20:00;57;;;57;Paciente 57;Apellido 57
+57;Cáncer de pulmón;Trastorno de ansiedad;Reemplazo de cadera;4/10/2013 20:00;Lactosa;Hepatitis A;13/11/2009 20:00;57;;;57;Paciente 57;Apellido 57
+57;Cáncer de pulmón;Hiperlipidemia;Reemplazo de cadera;4/10/2013 20:00;Lactosa;Hepatitis A;13/11/2009 20:00;57;;;57;Paciente 57;Apellido 57
+58;Esclerosis múltiple;Anemia perniciosa;Cirugía de columna;14/4/2010 20:00;Maní;Sarampión;16/12/2004 20:00;58;;;58;Paciente 58;Apellido 58
+58;Esclerosis múltiple;Fibromialgia;Cirugía de columna;14/4/2010 20:00;Maní;Sarampión;16/12/2004 20:00;58;;;58;Paciente 58;Apellido 58
+58;Demencia senil;Anemia perniciosa;Cirugía de columna;14/4/2010 20:00;Maní;Sarampión;16/12/2004 20:00;58;;;58;Paciente 58;Apellido 58
+58;Demencia senil;Fibromialgia;Cirugía de columna;14/4/2010 20:00;Maní;Sarampión;16/12/2004 20:00;58;;;58;Paciente 58;Apellido 58
+59;Cáncer de próstata;Síndrome del intestino irritable;Cirugía bariátrica;29/8/2016 20:00;Nueces;Polio;24/3/1998 20:00;59;;;59;Paciente 59;Apellido 59
+59;Cáncer de próstata;Hipercolesterolemia;Cirugía bariátrica;29/8/2016 20:00;Nueces;Polio;24/3/1998 20:00;59;;;59;Paciente 59;Apellido 59
+59;Osteoartritis;Síndrome del intestino irritable;Cirugía bariátrica;29/8/2016 20:00;Nueces;Polio;24/3/1998 20:00;59;;;59;Paciente 59;Apellido 59
+59;Osteoartritis;Hipercolesterolemia;Cirugía bariátrica;29/8/2016 20:00;Nueces;Polio;24/3/1998 20:00;59;;;59;Paciente 59;Apellido 59
+60;Diabetes Tipo 1;Síndrome de Sjögren;Cirugía de rodilla;8/3/2019 20:00;Mariscos;Fiebre amarilla;10/5/2005 20:00;60;;;60;Paciente 60;Apellido 60
+60;Diabetes Tipo 1;EPOC;Cirugía de rodilla;8/3/2019 20:00;Mariscos;Fiebre amarilla;10/5/2005 20:00;60;;;60;Paciente 60;Apellido 60
+60;Cáncer de estómago;Síndrome de Sjögren;Cirugía de rodilla;8/3/2019 20:00;Mariscos;Fiebre amarilla;10/5/2005 20:00;60;;;60;Paciente 60;Apellido 60
+60;Cáncer de estómago;EPOC;Cirugía de rodilla;8/3/2019 20:00;Mariscos;Fiebre amarilla;10/5/2005 20:00;60;;;60;Paciente 60;Apellido 60
+31;Diabetes Tipo 2;Asma;Apendicectomía;14/6/2010 20:00;Polen;Influenza;19/10/2018 20:00;31;;;31;Paciente 31;Apellido 31
+31;Diabetes Tipo 2;Hipotiroidismo;Apendicectomía;14/6/2010 20:00;Polen;Influenza;19/10/2018 20:00;31;;;31;Paciente 31;Apellido 31
+31;Hipertensión;Asma;Apendicectomía;14/6/2010 20:00;Polen;Influenza;19/10/2018 20:00;31;;;31;Paciente 31;Apellido 31
+31;Hipertensión;Hipotiroidismo;Apendicectomía;14/6/2010 20:00;Polen;Influenza;19/10/2018 20:00;31;;;31;Paciente 31;Apellido 31
+32;Enfermedad cardíaca;Hipertensión;Cirugía de cataratas;9/5/2015 20:00;Penicilina;Varicela;24/7/2003 20:00;32;;;32;Paciente 32;Apellido 32
+32;Enfermedad cardíaca;Diabetes Tipo 1;Cirugía de cataratas;9/5/2015 20:00;Penicilina;Varicela;24/7/2003 20:00;32;;;32;Paciente 32;Apellido 32
+32;Osteoporosis;Hipertensión;Cirugía de cataratas;9/5/2015 20:00;Penicilina;Varicela;24/7/2003 20:00;32;;;32;Paciente 32;Apellido 32
+32;Osteoporosis;Diabetes Tipo 1;Cirugía de cataratas;9/5/2015 20:00;Penicilina;Varicela;24/7/2003 20:00;32;;;32;Paciente 32;Apellido 32
+33;Cáncer de pulmón;Migrañas;Cirugía de hernia;19/2/2008 20:00;Mariscos;Hepatitis A;10/11/2011 20:00;33;;;33;Paciente 33;Apellido 33
+33;Cáncer de pulmón;Dermatitis atópica;Cirugía de hernia;19/2/2008 20:00;Mariscos;Hepatitis A;10/11/2011 20:00;33;;;33;Paciente 33;Apellido 33
+33;Artritis reumatoide;Migrañas;Cirugía de hernia;19/2/2008 20:00;Mariscos;Hepatitis A;10/11/2011 20:00;33;;;33;Paciente 33;Apellido 33
+33;Artritis reumatoide;Dermatitis atópica;Cirugía de hernia;19/2/2008 20:00;Mariscos;Hepatitis A;10/11/2011 20:00;33;;;33;Paciente 33;Apellido 33
+34;Esclerosis múltiple;Asma;Cirugía de apéndice;17/3/2010 20:00;Lácteos;Tétanos;13/9/2007 20:00;34;;;34;Paciente 34;Apellido 34
+34;Esclerosis múltiple;Hipotiroidismo;Cirugía de apéndice;17/3/2010 20:00;Lácteos;Tétanos;13/9/2007 20:00;34;;;34;Paciente 34;Apellido 34
+34;Diabetes Tipo 1;Asma;Cirugía de apéndice;17/3/2010 20:00;Lácteos;Tétanos;13/9/2007 20:00;34;;;34;Paciente 34;Apellido 34
+34;Diabetes Tipo 1;Hipotiroidismo;Cirugía de apéndice;17/3/2010 20:00;Lácteos;Tétanos;13/9/2007 20:00;34;;;34;Paciente 34;Apellido 34
+35;Cáncer de colon;Eczema;Cirugía de menisco;14/4/2018 20:00;Nueces;Hepatitis B;9/5/2006 20:00;35;;;35;Paciente 35;Apellido 35
+35;Cáncer de colon;Hipertensión;Cirugía de menisco;14/4/2018 20:00;Nueces;Hepatitis B;9/5/2006 20:00;35;;;35;Paciente 35;Apellido 35
+35;Artritis;Eczema;Cirugía de menisco;14/4/2018 20:00;Nueces;Hepatitis B;9/5/2006 20:00;35;;;35;Paciente 35;Apellido 35
+35;Artritis;Hipertensión;Cirugía de menisco;14/4/2018 20:00;Nueces;Hepatitis B;9/5/2006 20:00;35;;;35;Paciente 35;Apellido 35
+36;Cáncer de próstata;Colitis ulcerosa;Cirugía de vesícula;24/6/2016 20:00;Gluten;Influenza;9/10/2019 20:00;36;;;36;Paciente 36;Apellido 36
+36;Cáncer de próstata;Hipotiroidismo;Cirugía de vesícula;24/6/2016 20:00;Gluten;Influenza;9/10/2019 20:00;36;;;36;Paciente 36;Apellido 36
+36;Diabetes Tipo 2;Colitis ulcerosa;Cirugía de vesícula;24/6/2016 20:00;Gluten;Influenza;9/10/2019 20:00;36;;;36;Paciente 36;Apellido 36
+36;Diabetes Tipo 2;Hipotiroidismo;Cirugía de vesícula;24/6/2016 20:00;Gluten;Influenza;9/10/2019 20:00;36;;;36;Paciente 36;Apellido 36
+37;Cáncer de mama;Asma;Cirugía de amígdalas;21/8/2005 20:00;Polen;Hepatitis A;19/4/2010 20:00;37;;;37;Paciente 37;Apellido 37
+37;Cáncer de mama;Diabetes Tipo 1;Cirugía de amígdalas;21/8/2005 20:00;Polen;Hepatitis A;19/4/2010 20:00;37;;;37;Paciente 37;Apellido 37
+37;Hipertensión;Asma;Cirugía de amígdalas;21/8/2005 20:00;Polen;Hepatitis A;19/4/2010 20:00;37;;;37;Paciente 37;Apellido 37
+37;Hipertensión;Diabetes Tipo 1;Cirugía de amígdalas;21/8/2005 20:00;Polen;Hepatitis A;19/4/2010 20:00;37;;;37;Paciente 37;Apellido 37
+38;Enfermedad cardíaca;Hipertensión;Cirugía de hernia;16/7/2013 20:00;Mariscos;Tétanos;11/6/2009 20:00;38;;;38;Paciente 38;Apellido 38
+38;Enfermedad cardíaca;Dermatitis atópica;Cirugía de hernia;16/7/2013 20:00;Mariscos;Tétanos;11/6/2009 20:00;38;;;38;Paciente 38;Apellido 38
+38;Osteoporosis;Hipertensión;Cirugía de hernia;16/7/2013 20:00;Mariscos;Tétanos;11/6/2009 20:00;38;;;38;Paciente 38;Apellido 38
+38;Osteoporosis;Dermatitis atópica;Cirugía de hernia;16/7/2013 20:00;Mariscos;Tétanos;11/6/2009 20:00;38;;;38;Paciente 38;Apellido 38
+39;Cáncer de pulmón;Migrañas;Cirugía de apéndice;24/2/2009 20:00;Lactosa;Hepatitis B;13/1/2004 20:00;39;;;39;Paciente 39;Apellido 39
+39;Cáncer de pulmón;Hipotiroidismo;Cirugía de apéndice;24/2/2009 20:00;Lactosa;Hepatitis B;13/1/2004 20:00;39;;;39;Paciente 39;Apellido 39
+39;Artritis reumatoide;Migrañas;Cirugía de apéndice;24/2/2009 20:00;Lactosa;Hepatitis B;13/1/2004 20:00;39;;;39;Paciente 39;Apellido 39
+39;Artritis reumatoide;Hipotiroidismo;Cirugía de apéndice;24/2/2009 20:00;Lactosa;Hepatitis B;13/1/2004 20:00;39;;;39;Paciente 39;Apellido 39
+40;Esclerosis múltiple;Asma;Cirugía de amígdalas;18/9/2007 20:00;Ibuprofeno;Varicela;9/11/2001 20:00;40;;;40;Paciente 40;Apellido 40
+40;Esclerosis múltiple;Dermatitis atópica;Cirugía de amígdalas;18/9/2007 20:00;Ibuprofeno;Varicela;9/11/2001 20:00;40;;;40;Paciente 40;Apellido 40
+40;Diabetes Tipo 2;Asma;Cirugía de amígdalas;18/9/2007 20:00;Ibuprofeno;Varicela;9/11/2001 20:00;40;;;40;Paciente 40;Apellido 40
+40;Diabetes Tipo 2;Dermatitis atópica;Cirugía de amígdalas;18/9/2007 20:00;Ibuprofeno;Varicela;9/11/2001 20:00;40;;;40;Paciente 40;Apellido 40
+61;Hipertensión;Asma;Apendicectomía;9/9/2012 20:00;Lácteos;Hepatitis B;13/5/2008 20:00;61;;;61;Paciente 61;Apellido 61
+61;Hipertensión;Hipotiroidismo;Apendicectomía;9/9/2012 20:00;Lácteos;Hepatitis B;13/5/2008 20:00;61;;;61;Paciente 61;Apellido 61
+61;Diabetes Tipo 2;Asma;Apendicectomía;9/9/2012 20:00;Lácteos;Hepatitis B;13/5/2008 20:00;61;;;61;Paciente 61;Apellido 61
+61;Diabetes Tipo 2;Hipotiroidismo;Apendicectomía;9/9/2012 20:00;Lácteos;Hepatitis B;13/5/2008 20:00;61;;;61;Paciente 61;Apellido 61
+62;Cáncer de mama;Migrañas;Cirugía de amígdalas;16/6/2003 20:00;Penicilina;Influenza;24/11/2018 20:00;62;;;62;Paciente 62;Apellido 62
+62;Cáncer de mama;Dermatitis atópica;Cirugía de amígdalas;16/6/2003 20:00;Penicilina;Influenza;24/11/2018 20:00;62;;;62;Paciente 62;Apellido 62
+62;Artritis reumatoide;Migrañas;Cirugía de amígdalas;16/6/2003 20:00;Penicilina;Influenza;24/11/2018 20:00;62;;;62;Paciente 62;Apellido 62
+62;Artritis reumatoide;Dermatitis atópica;Cirugía de amígdalas;16/6/2003 20:00;Penicilina;Influenza;24/11/2018 20:00;62;;;62;Paciente 62;Apellido 62
+63;Cáncer de pulmón;Hipertensión;Cirugía de hernia;21/3/2010 20:00;Mariscos;Hepatitis A;10/4/2015 20:00;63;;;63;Paciente 63;Apellido 63
+63;Cáncer de pulmón;Diabetes Tipo 1;Cirugía de hernia;21/3/2010 20:00;Mariscos;Hepatitis A;10/4/2015 20:00;63;;;63;Paciente 63;Apellido 63
+63;Osteoporosis;Hipertensión;Cirugía de hernia;21/3/2010 20:00;Mariscos;Hepatitis A;10/4/2015 20:00;63;;;63;Paciente 63;Apellido 63
+63;Osteoporosis;Diabetes Tipo 1;Cirugía de hernia;21/3/2010 20:00;Mariscos;Hepatitis A;10/4/2015 20:00;63;;;63;Paciente 63;Apellido 63
+64;Enfermedad cardíaca;Hipotiroidismo;Cirugía de cataratas;11/10/2014 20:00;Nueces;Varicela;13/2/2004 20:00;64;;;64;Paciente 64;Apellido 64
+64;Enfermedad cardíaca;Eczema;Cirugía de cataratas;11/10/2014 20:00;Nueces;Varicela;13/2/2004 20:00;64;;;64;Paciente 64;Apellido 64
+64;Esclerosis múltiple;Hipotiroidismo;Cirugía de cataratas;11/10/2014 20:00;Nueces;Varicela;13/2/2004 20:00;64;;;64;Paciente 64;Apellido 64
+64;Esclerosis múltiple;Eczema;Cirugía de cataratas;11/10/2014 20:00;Nueces;Varicela;13/2/2004 20:00;64;;;64;Paciente 64;Apellido 64
+65;Cáncer de colon;Asma;Cirugía de vesícula;24/7/2016 20:00;Gluten;Tétanos;17/9/2007 20:00;65;;;65;Paciente 65;Apellido 65
+65;Cáncer de colon;Colitis ulcerosa;Cirugía de vesícula;24/7/2016 20:00;Gluten;Tétanos;17/9/2007 20:00;65;;;65;Paciente 65;Apellido 65
+65;Artritis;Asma;Cirugía de vesícula;24/7/2016 20:00;Gluten;Tétanos;17/9/2007 20:00;65;;;65;Paciente 65;Apellido 65
+65;Artritis;Colitis ulcerosa;Cirugía de vesícula;24/7/2016 20:00;Gluten;Tétanos;17/9/2007 20:00;65;;;65;Paciente 65;Apellido 65
+66;Diabetes Tipo 2;Migrañas;Cirugía de amígdalas;18/5/2008 20:00;Polen;Hepatitis B;19/6/2006 20:00;66;;;66;Paciente 66;Apellido 66
+66;Diabetes Tipo 2;Dermatitis atópica;Cirugía de amígdalas;18/5/2008 20:00;Polen;Hepatitis B;19/6/2006 20:00;66;;;66;Paciente 66;Apellido 66
+66;Hipertensión;Migrañas;Cirugía de amígdalas;18/5/2008 20:00;Polen;Hepatitis B;19/6/2006 20:00;66;;;66;Paciente 66;Apellido 66
+66;Hipertensión;Dermatitis atópica;Cirugía de amígdalas;18/5/2008 20:00;Polen;Hepatitis B;19/6/2006 20:00;66;;;66;Paciente 66;Apellido 66
+67;Cáncer de mama;Hipertensión;Cirugía de hernia;16/11/2013 20:00;Lácteos;Hepatitis A;24/8/2010 20:00;67;;;67;Paciente 67;Apellido 67
+67;Cáncer de mama;Diabetes Tipo 1;Cirugía de hernia;16/11/2013 20:00;Lácteos;Hepatitis A;24/8/2010 20:00;67;;;67;Paciente 67;Apellido 67
+67;Osteoporosis;Hipertensión;Cirugía de hernia;16/11/2013 20:00;Lácteos;Hepatitis A;24/8/2010 20:00;67;;;67;Paciente 67;Apellido 67
+67;Osteoporosis;Diabetes Tipo 1;Cirugía de hernia;16/11/2013 20:00;Lácteos;Hepatitis A;24/8/2010 20:00;67;;;67;Paciente 67;Apellido 67
+68;Enfermedad cardíaca;Eczema;Cirugía de cataratas;11/12/2011 20:00;Ibuprofeno;Influenza;19/9/2017 20:00;68;;;68;Paciente 68;Apellido 68
+68;Enfermedad cardíaca;Hipotiroidismo;Cirugía de cataratas;11/12/2011 20:00;Ibuprofeno;Influenza;19/9/2017 20:00;68;;;68;Paciente 68;Apellido 68
+68;Esclerosis múltiple;Eczema;Cirugía de cataratas;11/12/2011 20:00;Ibuprofeno;Influenza;19/9/2017 20:00;68;;;68;Paciente 68;Apellido 68
+68;Esclerosis múltiple;Hipotiroidismo;Cirugía de cataratas;11/12/2011 20:00;Ibuprofeno;Influenza;19/9/2017 20:00;68;;;68;Paciente 68;Apellido 68
+69;Cáncer de colon;Asma;Cirugía de vesícula;24/6/2014 20:00;Gluten;Varicela;13/3/2009 20:00;69;;;69;Paciente 69;Apellido 69
+69;Cáncer de colon;Colitis ulcerosa;Cirugía de vesícula;24/6/2014 20:00;Gluten;Varicela;13/3/2009 20:00;69;;;69;Paciente 69;Apellido 69
+69;Artritis reumatoide;Asma;Cirugía de vesícula;24/6/2014 20:00;Gluten;Varicela;13/3/2009 20:00;69;;;69;Paciente 69;Apellido 69
+69;Artritis reumatoide;Colitis ulcerosa;Cirugía de vesícula;24/6/2014 20:00;Gluten;Varicela;13/3/2009 20:00;69;;;69;Paciente 69;Apellido 69
+70;Diabetes Tipo 2;Migrañas;Cirugía de amígdalas;18/8/2009 20:00;Polen;Tétanos;9/7/2011 20:00;70;;;70;Paciente 70;Apellido 70
+70;Diabetes Tipo 2;Dermatitis atópica;Cirugía de amígdalas;18/8/2009 20:00;Polen;Tétanos;9/7/2011 20:00;70;;;70;Paciente 70;Apellido 70
+70;Artritis;Migrañas;Cirugía de amígdalas;18/8/2009 20:00;Polen;Tétanos;9/7/2011 20:00;70;;;70;Paciente 70;Apellido 70
+70;Artritis;Dermatitis atópica;Cirugía de amígdalas;18/8/2009 20:00;Polen;Tétanos;9/7/2011 20:00;70;;;70;Paciente 70;Apellido 70
+71;Cáncer de mama;Asma;Apendicectomía;9/12/2011 20:00;Mariscos;Hepatitis B;13/10/2005 20:00;71;;;71;Paciente 71;Apellido 71
+71;Cáncer de mama;Hipotiroidismo;Apendicectomía;9/12/2011 20:00;Mariscos;Hepatitis B;13/10/2005 20:00;71;;;71;Paciente 71;Apellido 71
+71;Diabetes Tipo 2;Asma;Apendicectomía;9/12/2011 20:00;Mariscos;Hepatitis B;13/10/2005 20:00;71;;;71;Paciente 71;Apellido 71
+71;Diabetes Tipo 2;Hipotiroidismo;Apendicectomía;9/12/2011 20:00;Mariscos;Hepatitis B;13/10/2005 20:00;71;;;71;Paciente 71;Apellido 71
+72;Hipertensión;Migrañas;Cirugía de amígdalas;16/6/2006 20:00;Penicilina;Influenza;24/5/2019 20:00;72;;;72;Paciente 72;Apellido 72
+72;Hipertensión;Dermatitis atópica;Cirugía de amígdalas;16/6/2006 20:00;Penicilina;Influenza;24/5/2019 20:00;72;;;72;Paciente 72;Apellido 72
+72;Artritis reumatoide;Migrañas;Cirugía de amígdalas;16/6/2006 20:00;Penicilina;Influenza;24/5/2019 20:00;72;;;72;Paciente 72;Apellido 72
+72;Artritis reumatoide;Dermatitis atópica;Cirugía de amígdalas;16/6/2006 20:00;Penicilina;Influenza;24/5/2019 20:00;72;;;72;Paciente 72;Apellido 72
+73;Cáncer de pulmón;Hipertensión;Cirugía de hernia;21/3/2008 20:00;Mariscos;Hepatitis A;10/11/2014 20:00;73;;;73;Paciente 73;Apellido 73
+73;Cáncer de pulmón;Diabetes Tipo 1;Cirugía de hernia;21/3/2008 20:00;Mariscos;Hepatitis A;10/11/2014 20:00;73;;;73;Paciente 73;Apellido 73
+73;Osteoporosis;Hipertensión;Cirugía de hernia;21/3/2008 20:00;Mariscos;Hepatitis A;10/11/2014 20:00;73;;;73;Paciente 73;Apellido 73
+73;Osteoporosis;Diabetes Tipo 1;Cirugía de hernia;21/3/2008 20:00;Mariscos;Hepatitis A;10/11/2014 20:00;73;;;73;Paciente 73;Apellido 73
+74;Enfermedad cardíaca;Hipotiroidismo;Cirugía de cataratas;11/10/2013 20:00;Nueces;Varicela;13/2/2002 20:00;74;;;74;Paciente 74;Apellido 74
+74;Enfermedad cardíaca;Eczema;Cirugía de cataratas;11/10/2013 20:00;Nueces;Varicela;13/2/2002 20:00;74;;;74;Paciente 74;Apellido 74
+74;Esclerosis múltiple;Hipotiroidismo;Cirugía de cataratas;11/10/2013 20:00;Nueces;Varicela;13/2/2002 20:00;74;;;74;Paciente 74;Apellido 74
+74;Esclerosis múltiple;Eczema;Cirugía de cataratas;11/10/2013 20:00;Nueces;Varicela;13/2/2002 20:00;74;;;74;Paciente 74;Apellido 74
+75;Cáncer de colon;Asma;Cirugía de vesícula;24/7/2012 20:00;Gluten;Tétanos;17/9/2005 20:00;75;;;75;Paciente 75;Apellido 75
+75;Cáncer de colon;Colitis ulcerosa;Cirugía de vesícula;24/7/2012 20:00;Gluten;Tétanos;17/9/2005 20:00;75;;;75;Paciente 75;Apellido 75
+75;Artritis;Asma;Cirugía de vesícula;24/7/2012 20:00;Gluten;Tétanos;17/9/2005 20:00;75;;;75;Paciente 75;Apellido 75
+75;Artritis;Colitis ulcerosa;Cirugía de vesícula;24/7/2012 20:00;Gluten;Tétanos;17/9/2005 20:00;75;;;75;Paciente 75;Apellido 75
+76;Diabetes Tipo 2;Migrañas;Cirugía de amígdalas;18/5/2007 20:00;Polen;Hepatitis B;19/6/2003 20:00;76;;;76;Paciente 76;Apellido 76
+76;Diabetes Tipo 2;Dermatitis atópica;Cirugía de amígdalas;18/5/2007 20:00;Polen;Hepatitis B;19/6/2003 20:00;76;;;76;Paciente 76;Apellido 76
+76;Hipertensión;Migrañas;Cirugía de amígdalas;18/5/2007 20:00;Polen;Hepatitis B;19/6/2003 20:00;76;;;76;Paciente 76;Apellido 76
+76;Hipertensión;Dermatitis atópica;Cirugía de amígdalas;18/5/2007 20:00;Polen;Hepatitis B;19/6/2003 20:00;76;;;76;Paciente 76;Apellido 76
+77;Cáncer de mama;Hipertensión;Cirugía de hernia;16/11/2012 20:00;Lácteos;Hepatitis A;24/8/2004 20:00;77;;;77;Paciente 77;Apellido 77
+77;Cáncer de mama;Diabetes Tipo 1;Cirugía de hernia;16/11/2012 20:00;Lácteos;Hepatitis A;24/8/2004 20:00;77;;;77;Paciente 77;Apellido 77
+77;Osteoporosis;Hipertensión;Cirugía de hernia;16/11/2012 20:00;Lácteos;Hepatitis A;24/8/2004 20:00;77;;;77;Paciente 77;Apellido 77
+77;Osteoporosis;Diabetes Tipo 1;Cirugía de hernia;16/11/2012 20:00;Lácteos;Hepatitis A;24/8/2004 20:00;77;;;77;Paciente 77;Apellido 77
+78;Enfermedad cardíaca;Eczema;Cirugía de cataratas;11/12/2008 20:00;Ibuprofeno;Influenza;19/9/2015 20:00;78;;;78;Paciente 78;Apellido 78
+78;Enfermedad cardíaca;Hipotiroidismo;Cirugía de cataratas;11/12/2008 20:00;Ibuprofeno;Influenza;19/9/2015 20:00;78;;;78;Paciente 78;Apellido 78
+78;Esclerosis múltiple;Eczema;Cirugía de cataratas;11/12/2008 20:00;Ibuprofeno;Influenza;19/9/2015 20:00;78;;;78;Paciente 78;Apellido 78
+78;Esclerosis múltiple;Hipotiroidismo;Cirugía de cataratas;11/12/2008 20:00;Ibuprofeno;Influenza;19/9/2015 20:00;78;;;78;Paciente 78;Apellido 78
+79;Cáncer de colon;Asma;Cirugía de vesícula;24/6/2014 20:00;Gluten;Varicela;13/3/2001 20:00;79;;;79;Paciente 79;Apellido 79
+79;Cáncer de colon;Colitis ulcerosa;Cirugía de vesícula;24/6/2014 20:00;Gluten;Varicela;13/3/2001 20:00;79;;;79;Paciente 79;Apellido 79
+79;Artritis reumatoide;Asma;Cirugía de vesícula;24/6/2014 20:00;Gluten;Varicela;13/3/2001 20:00;79;;;79;Paciente 79;Apellido 79
+79;Artritis reumatoide;Colitis ulcerosa;Cirugía de vesícula;24/6/2014 20:00;Gluten;Varicela;13/3/2001 20:00;79;;;79;Paciente 79;Apellido 79
+80;Diabetes Tipo 2;Migrañas;Cirugía de amígdalas;18/8/2011 20:00;Polen;Tétanos;9/7/2006 20:00;80;;;80;Paciente 80;Apellido 80
+80;Diabetes Tipo 2;Dermatitis atópica;Cirugía de amígdalas;18/8/2011 20:00;Polen;Tétanos;9/7/2006 20:00;80;;;80;Paciente 80;Apellido 80
+80;Artritis;Migrañas;Cirugía de amígdalas;18/8/2011 20:00;Polen;Tétanos;9/7/2006 20:00;80;;;80;Paciente 80;Apellido 80
+80;Artritis;Dermatitis atópica;Cirugía de amígdalas;18/8/2011 20:00;Polen;Tétanos;9/7/2006 20:00;80;;;80;Paciente 80;Apellido 80
+3;Cáncer de mama;Asma;Apendicectomía;9/12/2011 20:00;Mariscos;Hepatitis B;13/10/2005 20:00;3;;;3;Paciente 3;Apellido 3
+3;Cáncer de mama;Hipotiroidismo;Apendicectomía;9/12/2011 20:00;Mariscos;Hepatitis B;13/10/2005 20:00;3;;;3;Paciente 3;Apellido 3
+3;Diabetes Tipo 2;Asma;Apendicectomía;9/12/2011 20:00;Mariscos;Hepatitis B;13/10/2005 20:00;3;;;3;Paciente 3;Apellido 3
+3;Diabetes Tipo 2;Hipotiroidismo;Apendicectomía;9/12/2011 20:00;Mariscos;Hepatitis B;13/10/2005 20:00;3;;;3;Paciente 3;Apellido 3
+4;Hipertensión;Migrañas;Cirugía de amígdalas;16/6/2006 20:00;Penicilina;Influenza;24/5/2019 20:00;4;;;4;Paciente 4;Apellido 4
+4;Hipertensión;Dermatitis atópica;Cirugía de amígdalas;16/6/2006 20:00;Penicilina;Influenza;24/5/2019 20:00;4;;;4;Paciente 4;Apellido 4
+4;Artritis reumatoide;Migrañas;Cirugía de amígdalas;16/6/2006 20:00;Penicilina;Influenza;24/5/2019 20:00;4;;;4;Paciente 4;Apellido 4
+4;Artritis reumatoide;Dermatitis atópica;Cirugía de amígdalas;16/6/2006 20:00;Penicilina;Influenza;24/5/2019 20:00;4;;;4;Paciente 4;Apellido 4
+101;Cáncer de próstata;Asma;Apendicectomía;9/9/2015 20:00;Frutas cítricas;Hepatitis B;13/3/2010 20:00;101;;;;;
+101;Cáncer de próstata;Hipotiroidismo;Apendicectomía;9/9/2015 20:00;Frutas cítricas;Hepatitis B;13/3/2010 20:00;101;;;;;
+101;Hipertensión;Asma;Apendicectomía;9/9/2015 20:00;Frutas cítricas;Hepatitis B;13/3/2010 20:00;101;;;;;
+101;Hipertensión;Hipotiroidismo;Apendicectomía;9/9/2015 20:00;Frutas cítricas;Hepatitis B;13/3/2010 20:00;101;;;;;
+102;Cáncer de mama;Migrañas;Cirugía de amígdalas;16/6/2008 20:00;Frutos secos;Influenza;24/11/2017 20:00;102;;;;;
+102;Cáncer de mama;Dermatitis atópica;Cirugía de amígdalas;16/6/2008 20:00;Frutos secos;Influenza;24/11/2017 20:00;102;;;;;
+102;Artritis reumatoide;Migrañas;Cirugía de amígdalas;16/6/2008 20:00;Frutos secos;Influenza;24/11/2017 20:00;102;;;;;
+102;Artritis reumatoide;Dermatitis atópica;Cirugía de amígdalas;16/6/2008 20:00;Frutos secos;Influenza;24/11/2017 20:00;102;;;;;
+103;Cáncer de pulmón;Hipertensión;Cirugía de hernia;21/3/2011 20:00;Plátano;Hepatitis A;10/4/2014 20:00;103;;;;;
+103;Cáncer de pulmón;Diabetes Tipo 1;Cirugía de hernia;21/3/2011 20:00;Plátano;Hepatitis A;10/4/2014 20:00;103;;;;;
+103;Osteoporosis;Hipertensión;Cirugía de hernia;21/3/2011 20:00;Plátano;Hepatitis A;10/4/2014 20:00;103;;;;;
+103;Osteoporosis;Diabetes Tipo 1;Cirugía de hernia;21/3/2011 20:00;Plátano;Hepatitis A;10/4/2014 20:00;103;;;;;
+104;Enfermedad cardíaca;Hipotiroidismo;Cirugía de cataratas;11/10/2012 20:00;Fresas;Varicela;13/2/2005 20:00;104;;;;;
+104;Enfermedad cardíaca;Eczema;Cirugía de cataratas;11/10/2012 20:00;Fresas;Varicela;13/2/2005 20:00;104;;;;;
+104;Esclerosis múltiple;Hipotiroidismo;Cirugía de cataratas;11/10/2012 20:00;Fresas;Varicela;13/2/2005 20:00;104;;;;;
+104;Esclerosis múltiple;Eczema;Cirugía de cataratas;11/10/2012 20:00;Fresas;Varicela;13/2/2005 20:00;104;;;;;
+105;Cáncer de colon;Asma;Cirugía de vesícula;24/7/2013 20:00;Kiwi;Tétanos;17/9/2008 20:00;105;;;;;
+105;Cáncer de colon;Colitis ulcerosa;Cirugía de vesícula;24/7/2013 20:00;Kiwi;Tétanos;17/9/2008 20:00;105;;;;;
+105;Artritis;Asma;Cirugía de vesícula;24/7/2013 20:00;Kiwi;Tétanos;17/9/2008 20:00;105;;;;;
+105;Artritis;Colitis ulcerosa;Cirugía de vesícula;24/7/2013 20:00;Kiwi;Tétanos;17/9/2008 20:00;105;;;;;
+106;Diabetes Tipo 2;Migrañas;Cirugía de amígdalas;18/5/2007 20:00;Uvas;Hepatitis B;19/6/2009 20:00;106;;;;;
+106;Diabetes Tipo 2;Dermatitis atópica;Cirugía de amígdalas;18/5/2007 20:00;Uvas;Hepatitis B;19/6/2009 20:00;106;;;;;
+106;Hipertensión;Migrañas;Cirugía de amígdalas;18/5/2007 20:00;Uvas;Hepatitis B;19/6/2009 20:00;106;;;;;
+106;Hipertensión;Dermatitis atópica;Cirugía de amígdalas;18/5/2007 20:00;Uvas;Hepatitis B;19/6/2009 20:00;106;;;;;
+107;Cáncer de mama;Hipertensión;Cirugía de hernia;16/11/2014 20:00;Melón;Hepatitis A;24/8/2011 20:00;107;;;;;
+107;Cáncer de mama;Diabetes Tipo 1;Cirugía de hernia;16/11/2014 20:00;Melón;Hepatitis A;24/8/2011 20:00;107;;;;;
+107;Osteoporosis;Hipertensión;Cirugía de hernia;16/11/2014 20:00;Melón;Hepatitis A;24/8/2011 20:00;107;;;;;
+107;Osteoporosis;Diabetes Tipo 1;Cirugía de hernia;16/11/2014 20:00;Melón;Hepatitis A;24/8/2011 20:00;107;;;;;
+108;Enfermedad cardíaca;Eczema;Cirugía de cataratas;11/12/2015 20:00;Tomate;Influenza;19/9/2016 20:00;108;;;;;
+108;Enfermedad cardíaca;Hipotiroidismo;Cirugía de cataratas;11/12/2015 20:00;Tomate;Influenza;19/9/2016 20:00;108;;;;;
+108;Esclerosis múltiple;Eczema;Cirugía de cataratas;11/12/2015 20:00;Tomate;Influenza;19/9/2016 20:00;108;;;;;
+108;Esclerosis múltiple;Hipotiroidismo;Cirugía de cataratas;11/12/2015 20:00;Tomate;Influenza;19/9/2016 20:00;108;;;;;
+109;Cáncer de colon;Asma;Cirugía de vesícula;24/6/2013 20:00;Durazno;Varicela;13/3/2008 20:00;109;;;;;
+109;Cáncer de colon;Colitis ulcerosa;Cirugía de vesícula;24/6/2013 20:00;Durazno;Varicela;13/3/2008 20:00;109;;;;;
+109;Artritis reumatoide;Asma;Cirugía de vesícula;24/6/2013 20:00;Durazno;Varicela;13/3/2008 20:00;109;;;;;
+109;Artritis reumatoide;Colitis ulcerosa;Cirugía de vesícula;24/6/2013 20:00;Durazno;Varicela;13/3/2008 20:00;109;;;;;
+110;Diabetes Tipo 2;Migrañas;Cirugía de amígdalas;18/8/2006 20:00;Manzana;Tétanos;9/7/2014 20:00;110;;;;;
+110;Diabetes Tipo 2;Dermatitis atópica;Cirugía de amígdalas;18/8/2006 20:00;Manzana;Tétanos;9/7/2014 20:00;110;;;;;
+110;Artritis;Migrañas;Cirugía de amígdalas;18/8/2006 20:00;Manzana;Tétanos;9/7/2014 20:00;110;;;;;
+110;Artritis;Dermatitis atópica;Cirugía de amígdalas;18/8/2006 20:00;Manzana;Tétanos;9/7/2014 20:00;110;;;;;
+111;Cáncer de mama;Asma;Apendicectomía;9/12/2012 20:00;Mariscos;Hepatitis B;13/10/2010 20:00;111;;;;;
+111;Cáncer de mama;Hipotiroidismo;Apendicectomía;9/12/2012 20:00;Mariscos;Hepatitis B;13/10/2010 20:00;111;;;;;
+111;Diabetes Tipo 2;Asma;Apendicectomía;9/12/2012 20:00;Mariscos;Hepatitis B;13/10/2010 20:00;111;;;;;
+111;Diabetes Tipo 2;Hipotiroidismo;Apendicectomía;9/12/2012 20:00;Mariscos;Hepatitis B;13/10/2010 20:00;111;;;;;
+112;Hipertensión;Migrañas;Cirugía de amígdalas;16/6/2006 20:00;Frutos secos;Influenza;24/5/2019 20:00;112;;;;;
+112;Hipertensión;Dermatitis atópica;Cirugía de amígdalas;16/6/2006 20:00;Frutos secos;Influenza;24/5/2019 20:00;112;;;;;
+112;Artritis reumatoide;Migrañas;Cirugía de amígdalas;16/6/2006 20:00;Frutos secos;Influenza;24/5/2019 20:00;112;;;;;
+112;Artritis reumatoide;Dermatitis atópica;Cirugía de amígdalas;16/6/2006 20:00;Frutos secos;Influenza;24/5/2019 20:00;112;;;;;
+113;Cáncer de pulmón;Hipertensión;Cirugía de hernia;21/3/2007 20:00;Plátano;Hepatitis A;10/11/2013 20:00;113;;;;;
+113;Cáncer de pulmón;Diabetes Tipo 1;Cirugía de hernia;21/3/2007 20:00;Plátano;Hepatitis A;10/11/2013 20:00;113;;;;;
+113;Osteoporosis;Hipertensión;Cirugía de hernia;21/3/2007 20:00;Plátano;Hepatitis A;10/11/2013 20:00;113;;;;;
+113;Osteoporosis;Diabetes Tipo 1;Cirugía de hernia;21/3/2007 20:00;Plátano;Hepatitis A;10/11/2013 20:00;113;;;;;
+114;Enfermedad cardíaca;Hipotiroidismo;Cirugía de cataratas;11/10/2011 20:00;Fresas;Varicela;13/2/2002 20:00;114;;;;;
+114;Enfermedad cardíaca;Eczema;Cirugía de cataratas;11/10/2011 20:00;Fresas;Varicela;13/2/2002 20:00;114;;;;;
+114;Esclerosis múltiple;Hipotiroidismo;Cirugía de cataratas;11/10/2011 20:00;Fresas;Varicela;13/2/2002 20:00;114;;;;;
+114;Esclerosis múltiple;Eczema;Cirugía de cataratas;11/10/2011 20:00;Fresas;Varicela;13/2/2002 20:00;114;;;;;
+115;Cáncer de colon;Asma;Cirugía de vesícula;24/7/2012 20:00;Kiwi;Tétanos;17/9/2005 20:00;115;;;;;
+115;Cáncer de colon;Colitis ulcerosa;Cirugía de vesícula;24/7/2012 20:00;Kiwi;Tétanos;17/9/2005 20:00;115;;;;;
+115;Artritis;Asma;Cirugía de vesícula;24/7/2012 20:00;Kiwi;Tétanos;17/9/2005 20:00;115;;;;;
+115;Artritis;Colitis ulcerosa;Cirugía de vesícula;24/7/2012 20:00;Kiwi;Tétanos;17/9/2005 20:00;115;;;;;
+116;Diabetes Tipo 2;Migrañas;Cirugía de amígdalas;18/5/2008 20:00;Uvas;Hepatitis B;19/6/2003 20:00;116;;;;;
+116;Diabetes Tipo 2;Dermatitis atópica;Cirugía de amígdalas;18/5/2008 20:00;Uvas;Hepatitis B;19/6/2003 20:00;116;;;;;
+116;Hipertensión;Migrañas;Cirugía de amígdalas;18/5/2008 20:00;Uvas;Hepatitis B;19/6/2003 20:00;116;;;;;
+116;Hipertensión;Dermatitis atópica;Cirugía de amígdalas;18/5/2008 20:00;Uvas;Hepatitis B;19/6/2003 20:00;116;;;;;
+117;Cáncer de mama;Hipertensión;Cirugía de hernia;16/11/2012 20:00;Melón;Hepatitis A;24/8/2004 20:00;117;;;;;
+117;Cáncer de mama;Diabetes Tipo 1;Cirugía de hernia;16/11/2012 20:00;Melón;Hepatitis A;24/8/2004 20:00;117;;;;;
+117;Osteoporosis;Hipertensión;Cirugía de hernia;16/11/2012 20:00;Melón;Hepatitis A;24/8/2004 20:00;117;;;;;
+117;Osteoporosis;Diabetes Tipo 1;Cirugía de hernia;16/11/2012 20:00;Melón;Hepatitis A;24/8/2004 20:00;117;;;;;
+118;Enfermedad cardíaca;Eczema;Cirugía de cataratas;11/12/2008 20:00;Tomate;Influenza;19/9/2015 20:00;118;;;;;
+118;Enfermedad cardíaca;Hipotiroidismo;Cirugía de cataratas;11/12/2008 20:00;Tomate;Influenza;19/9/2015 20:00;118;;;;;
+118;Esclerosis múltiple;Eczema;Cirugía de cataratas;11/12/2008 20:00;Tomate;Influenza;19/9/2015 20:00;118;;;;;
+118;Esclerosis múltiple;Hipotiroidismo;Cirugía de cataratas;11/12/2008 20:00;Tomate;Influenza;19/9/2015 20:00;118;;;;;
+119;Cáncer de colon;Asma;Cirugía de vesícula;24/6/2014 20:00;Durazno;Varicela;13/3/2001 20:00;119;;;;;
+119;Cáncer de colon;Colitis ulcerosa;Cirugía de vesícula;24/6/2014 20:00;Durazno;Varicela;13/3/2001 20:00;119;;;;;
+119;Artritis reumatoide;Asma;Cirugía de vesícula;24/6/2014 20:00;Durazno;Varicela;13/3/2001 20:00;119;;;;;
+119;Artritis reumatoide;Colitis ulcerosa;Cirugía de vesícula;24/6/2014 20:00;Durazno;Varicela;13/3/2001 20:00;119;;;;;
+120;Diabetes Tipo 2;Migrañas;Cirugía de amígdalas;18/8/2011 20:00;Manzana;Tétanos;9/7/2006 20:00;120;;;;;
+120;Diabetes Tipo 2;Dermatitis atópica;Cirugía de amígdalas;18/8/2011 20:00;Manzana;Tétanos;9/7/2006 20:00;120;;;;;
+120;Artritis;Migrañas;Cirugía de amígdalas;18/8/2011 20:00;Manzana;Tétanos;9/7/2006 20:00;120;;;;;
+120;Artritis;Dermatitis atópica;Cirugía de amígdalas;18/8/2011 20:00;Manzana;Tétanos;9/7/2006 20:00;120;;;;;
+121;Hipertensión;Asma;Apendicectomía;9/9/2013 20:00;Frutas cítricas;Hepatitis B;13/5/2010 20:00;121;;;;;
+121;Hipertensión;Dermatitis atópica;Apendicectomía;9/9/2013 20:00;Frutas cítricas;Hepatitis B;13/5/2010 20:00;121;;;;;
+121;Diabetes Tipo 2;Asma;Apendicectomía;9/9/2013 20:00;Frutas cítricas;Hepatitis B;13/5/2010 20:00;121;;;;;
+121;Diabetes Tipo 2;Dermatitis atópica;Apendicectomía;9/9/2013 20:00;Frutas cítricas;Hepatitis B;13/5/2010 20:00;121;;;;;
+122;Cáncer de mama;Migrañas;Cirugía de amígdalas;16/6/2009 20:00;Frutos secos;Influenza;24/11/2018 20:00;122;;;;;
+122;Cáncer de mama;Hipotiroidismo;Cirugía de amígdalas;16/6/2009 20:00;Frutos secos;Influenza;24/11/2018 20:00;122;;;;;
+122;Artritis reumatoide;Migrañas;Cirugía de amígdalas;16/6/2009 20:00;Frutos secos;Influenza;24/11/2018 20:00;122;;;;;
+122;Artritis reumatoide;Hipotiroidismo;Cirugía de amígdalas;16/6/2009 20:00;Frutos secos;Influenza;24/11/2018 20:00;122;;;;;
+123;Cáncer de pulmón;Hipertensión;Cirugía de hernia;21/3/2014 20:00;Plátano;Hepatitis A;10/4/2015 20:00;123;;;;;
+123;Cáncer de pulmón;Diabetes Tipo 1;Cirugía de hernia;21/3/2014 20:00;Plátano;Hepatitis A;10/4/2015 20:00;123;;;;;
+123;Osteoporosis;Hipertensión;Cirugía de hernia;21/3/2014 20:00;Plátano;Hepatitis A;10/4/2015 20:00;123;;;;;
+123;Osteoporosis;Diabetes Tipo 1;Cirugía de hernia;21/3/2014 20:00;Plátano;Hepatitis A;10/4/2015 20:00;123;;;;;
+124;Enfermedad cardíaca;Hipotiroidismo;Cirugía de cataratas;11/10/2014 20:00;Fresas;Varicela;13/2/2005 20:00;124;;;;;
+124;Enfermedad cardíaca;Eczema;Cirugía de cataratas;11/10/2014 20:00;Fresas;Varicela;13/2/2005 20:00;124;;;;;
+124;Esclerosis múltiple;Hipotiroidismo;Cirugía de cataratas;11/10/2014 20:00;Fresas;Varicela;13/2/2005 20:00;124;;;;;
+124;Esclerosis múltiple;Eczema;Cirugía de cataratas;11/10/2014 20:00;Fresas;Varicela;13/2/2005 20:00;124;;;;;
+125;Cáncer de colon;Asma;Cirugía de vesícula;24/7/2013 20:00;Kiwi;Tétanos;17/9/2008 20:00;125;;;;;
+125;Cáncer de colon;Colitis ulcerosa;Cirugía de vesícula;24/7/2013 20:00;Kiwi;Tétanos;17/9/2008 20:00;125;;;;;
+125;Artritis;Asma;Cirugía de vesícula;24/7/2013 20:00;Kiwi;Tétanos;17/9/2008 20:00;125;;;;;
+125;Artritis;Colitis ulcerosa;Cirugía de vesícula;24/7/2013 20:00;Kiwi;Tétanos;17/9/2008 20:00;125;;;;;
+126;Diabetes Tipo 2;Migrañas;Cirugía de amígdalas;18/5/2007 20:00;Uvas;Hepatitis B;19/6/2012 20:00;126;;;;;
+126;Diabetes Tipo 2;Dermatitis atópica;Cirugía de amígdalas;18/5/2007 20:00;Uvas;Hepatitis B;19/6/2012 20:00;126;;;;;
+126;Hipertensión;Migrañas;Cirugía de amígdalas;18/5/2007 20:00;Uvas;Hepatitis B;19/6/2012 20:00;126;;;;;
+126;Hipertensión;Dermatitis atópica;Cirugía de amígdalas;18/5/2007 20:00;Uvas;Hepatitis B;19/6/2012 20:00;126;;;;;
+127;Cáncer de mama;Hipertensión;Cirugía de hernia;16/11/2014 20:00;Melón;Hepatitis A;24/8/2011 20:00;127;;;;;
+127;Cáncer de mama;Diabetes Tipo 1;Cirugía de hernia;16/11/2014 20:00;Melón;Hepatitis A;24/8/2011 20:00;127;;;;;
+127;Osteoporosis;Hipertensión;Cirugía de hernia;16/11/2014 20:00;Melón;Hepatitis A;24/8/2011 20:00;127;;;;;
+127;Osteoporosis;Diabetes Tipo 1;Cirugía de hernia;16/11/2014 20:00;Melón;Hepatitis A;24/8/2011 20:00;127;;;;;
+128;Enfermedad cardíaca;Eczema;Cirugía de cataratas;11/12/2015 20:00;Tomate;Influenza;19/9/2016 20:00;128;;;;;
+128;Enfermedad cardíaca;Hipotiroidismo;Cirugía de cataratas;11/12/2015 20:00;Tomate;Influenza;19/9/2016 20:00;128;;;;;
+128;Esclerosis múltiple;Eczema;Cirugía de cataratas;11/12/2015 20:00;Tomate;Influenza;19/9/2016 20:00;128;;;;;
+128;Esclerosis múltiple;Hipotiroidismo;Cirugía de cataratas;11/12/2015 20:00;Tomate;Influenza;19/9/2016 20:00;128;;;;;
+129;Cáncer de colon;Asma;Cirugía de vesícula;24/6/2013 20:00;Durazno;Varicela;13/3/2008 20:00;129;;;;;
+129;Cáncer de colon;Colitis ulcerosa;Cirugía de vesícula;24/6/2013 20:00;Durazno;Varicela;13/3/2008 20:00;129;;;;;
+129;Artritis reumatoide;Asma;Cirugía de vesícula;24/6/2013 20:00;Durazno;Varicela;13/3/2008 20:00;129;;;;;
+129;Artritis reumatoide;Colitis ulcerosa;Cirugía de vesícula;24/6/2013 20:00;Durazno;Varicela;13/3/2008 20:00;129;;;;;
+130;Diabetes Tipo 2;Migrañas;Cirugía de amígdalas;18/8/2006 20:00;Manzana;Tétanos;9/7/2014 20:00;130;;;;;
+130;Diabetes Tipo 2;Dermatitis atópica;Cirugía de amígdalas;18/8/2006 20:00;Manzana;Tétanos;9/7/2014 20:00;130;;;;;
+130;Artritis;Migrañas;Cirugía de amígdalas;18/8/2006 20:00;Manzana;Tétanos;9/7/2014 20:00;130;;;;;
+130;Artritis;Dermatitis atópica;Cirugía de amígdalas;18/8/2006 20:00;Manzana;Tétanos;9/7/2014 20:00;130;;;;;
+131;Cáncer de próstata;Asma;Apendicectomía;9/9/2015 20:00;Frutas cítricas;Hepatitis B;13/3/2010 20:00;131;;;;;
+131;Cáncer de próstata;Hipotiroidismo;Apendicectomía;9/9/2015 20:00;Frutas cítricas;Hepatitis B;13/3/2010 20:00;131;;;;;
+131;Hipertensión;Asma;Apendicectomía;9/9/2015 20:00;Frutas cítricas;Hepatitis B;13/3/2010 20:00;131;;;;;
+131;Hipertensión;Hipotiroidismo;Apendicectomía;9/9/2015 20:00;Frutas cítricas;Hepatitis B;13/3/2010 20:00;131;;;;;
+132;Cáncer de mama;Migrañas;Cirugía de amígdalas;16/6/2008 20:00;Frutos secos;Influenza;24/11/2017 20:00;132;;;;;
+132;Cáncer de mama;Dermatitis atópica;Cirugía de amígdalas;16/6/2008 20:00;Frutos secos;Influenza;24/11/2017 20:00;132;;;;;
+132;Artritis reumatoide;Migrañas;Cirugía de amígdalas;16/6/2008 20:00;Frutos secos;Influenza;24/11/2017 20:00;132;;;;;
+132;Artritis reumatoide;Dermatitis atópica;Cirugía de amígdalas;16/6/2008 20:00;Frutos secos;Influenza;24/11/2017 20:00;132;;;;;
+133;Cáncer de pulmón;Hipertensión;Cirugía de hernia;21/3/2011 20:00;Plátano;Hepatitis A;10/4/2014 20:00;133;;;;;
+133;Cáncer de pulmón;Diabetes Tipo 1;Cirugía de hernia;21/3/2011 20:00;Plátano;Hepatitis A;10/4/2014 20:00;133;;;;;
+133;Osteoporosis;Hipertensión;Cirugía de hernia;21/3/2011 20:00;Plátano;Hepatitis A;10/4/2014 20:00;133;;;;;
+133;Osteoporosis;Diabetes Tipo 1;Cirugía de hernia;21/3/2011 20:00;Plátano;Hepatitis A;10/4/2014 20:00;133;;;;;
+134;Enfermedad cardíaca;Hipotiroidismo;Cirugía de cataratas;11/10/2012 20:00;Fresas;Varicela;13/2/2005 20:00;134;;;;;
+134;Enfermedad cardíaca;Eczema;Cirugía de cataratas;11/10/2012 20:00;Fresas;Varicela;13/2/2005 20:00;134;;;;;
+134;Esclerosis múltiple;Hipotiroidismo;Cirugía de cataratas;11/10/2012 20:00;Fresas;Varicela;13/2/2005 20:00;134;;;;;
+134;Esclerosis múltiple;Eczema;Cirugía de cataratas;11/10/2012 20:00;Fresas;Varicela;13/2/2005 20:00;134;;;;;
+135;Cáncer de colon;Asma;Cirugía de vesícula;24/7/2013 20:00;Kiwi;Tétanos;17/9/2008 20:00;135;;;;;
+135;Cáncer de colon;Colitis ulcerosa;Cirugía de vesícula;24/7/2013 20:00;Kiwi;Tétanos;17/9/2008 20:00;135;;;;;
+135;Artritis;Asma;Cirugía de vesícula;24/7/2013 20:00;Kiwi;Tétanos;17/9/2008 20:00;135;;;;;
+135;Artritis;Colitis ulcerosa;Cirugía de vesícula;24/7/2013 20:00;Kiwi;Tétanos;17/9/2008 20:00;135;;;;;
+136;Diabetes Tipo 2;Migrañas;Cirugía de amígdalas;18/5/2007 20:00;Uvas;Hepatitis B;19/6/2012 20:00;136;;;;;
+136;Diabetes Tipo 2;Dermatitis atópica;Cirugía de amígdalas;18/5/2007 20:00;Uvas;Hepatitis B;19/6/2012 20:00;136;;;;;
+136;Hipertensión;Migrañas;Cirugía de amígdalas;18/5/2007 20:00;Uvas;Hepatitis B;19/6/2012 20:00;136;;;;;
+136;Hipertensión;Dermatitis atópica;Cirugía de amígdalas;18/5/2007 20:00;Uvas;Hepatitis B;19/6/2012 20:00;136;;;;;
+137;Cáncer de mama;Hipertensión;Cirugía de hernia;16/11/2014 20:00;Melón;Hepatitis A;24/8/2011 20:00;137;;;;;
+137;Cáncer de mama;Diabetes Tipo 1;Cirugía de hernia;16/11/2014 20:00;Melón;Hepatitis A;24/8/2011 20:00;137;;;;;
+137;Osteoporosis;Hipertensión;Cirugía de hernia;16/11/2014 20:00;Melón;Hepatitis A;24/8/2011 20:00;137;;;;;
+137;Osteoporosis;Diabetes Tipo 1;Cirugía de hernia;16/11/2014 20:00;Melón;Hepatitis A;24/8/2011 20:00;137;;;;;
+138;Enfermedad cardíaca;Eczema;Cirugía de cataratas;11/12/2015 20:00;Tomate;Influenza;19/9/2016 20:00;138;;;;;
+138;Enfermedad cardíaca;Hipotiroidismo;Cirugía de cataratas;11/12/2015 20:00;Tomate;Influenza;19/9/2016 20:00;138;;;;;
+138;Esclerosis múltiple;Eczema;Cirugía de cataratas;11/12/2015 20:00;Tomate;Influenza;19/9/2016 20:00;138;;;;;
+138;Esclerosis múltiple;Hipotiroidismo;Cirugía de cataratas;11/12/2015 20:00;Tomate;Influenza;19/9/2016 20:00;138;;;;;
+139;Cáncer de colon;Asma;Cirugía de vesícula;24/6/2013 20:00;Durazno;Varicela;13/3/2008 20:00;139;;;;;
+139;Cáncer de colon;Colitis ulcerosa;Cirugía de vesícula;24/6/2013 20:00;Durazno;Varicela;13/3/2008 20:00;139;;;;;
+139;Artritis reumatoide;Asma;Cirugía de vesícula;24/6/2013 20:00;Durazno;Varicela;13/3/2008 20:00;139;;;;;
+139;Artritis reumatoide;Colitis ulcerosa;Cirugía de vesícula;24/6/2013 20:00;Durazno;Varicela;13/3/2008 20:00;139;;;;;
+140;Diabetes Tipo 2;Migrañas;Cirugía de amígdalas;18/8/2006 20:00;Manzana;Tétanos;9/7/2014 20:00;140;;;;;
+140;Diabetes Tipo 2;Dermatitis atópica;Cirugía de amígdalas;18/8/2006 20:00;Manzana;Tétanos;9/7/2014 20:00;140;;;;;
+140;Artritis;Migrañas;Cirugía de amígdalas;18/8/2006 20:00;Manzana;Tétanos;9/7/2014 20:00;140;;;;;
+140;Artritis;Dermatitis atópica;Cirugía de amígdalas;18/8/2006 20:00;Manzana;Tétanos;9/7/2014 20:00;140;;;;;
+141;Cáncer de próstata;Asma;Apendicectomía;9/9/2015 20:00;Ibuprofeno;Hepatitis B;13/3/2010 20:00;141;;;;;
+141;Cáncer de próstata;Hipotiroidismo;Apendicectomía;9/9/2015 20:00;Ibuprofeno;Hepatitis B;13/3/2010 20:00;141;;;;;
+141;Hipertensión;Asma;Apendicectomía;9/9/2015 20:00;Ibuprofeno;Hepatitis B;13/3/2010 20:00;141;;;;;
+141;Hipertensión;Hipotiroidismo;Apendicectomía;9/9/2015 20:00;Ibuprofeno;Hepatitis B;13/3/2010 20:00;141;;;;;
+142;Cáncer de mama;Migrañas;Cirugía de amígdalas;16/6/2008 20:00;Aspirina;Influenza;24/11/2017 20:00;142;;;;;
+142;Cáncer de mama;Dermatitis atópica;Cirugía de amígdalas;16/6/2008 20:00;Aspirina;Influenza;24/11/2017 20:00;142;;;;;
+142;Artritis reumatoide;Migrañas;Cirugía de amígdalas;16/6/2008 20:00;Aspirina;Influenza;24/11/2017 20:00;142;;;;;
+142;Artritis reumatoide;Dermatitis atópica;Cirugía de amígdalas;16/6/2008 20:00;Aspirina;Influenza;24/11/2017 20:00;142;;;;;
+143;Cáncer de pulmón;Hipertensión;Cirugía de hernia;21/3/2011 20:00;Lentejas;Hepatitis A;10/4/2014 20:00;143;;;;;
+143;Cáncer de pulmón;Diabetes Tipo 1;Cirugía de hernia;21/3/2011 20:00;Lentejas;Hepatitis A;10/4/2014 20:00;143;;;;;
+143;Osteoporosis;Hipertensión;Cirugía de hernia;21/3/2011 20:00;Lentejas;Hepatitis A;10/4/2014 20:00;143;;;;;
+143;Osteoporosis;Diabetes Tipo 1;Cirugía de hernia;21/3/2011 20:00;Lentejas;Hepatitis A;10/4/2014 20:00;143;;;;;
+144;Enfermedad cardíaca;Hipotiroidismo;Cirugía de cataratas;11/10/2012 20:00;Gatos;Varicela;13/2/2005 20:00;144;;;;;
+144;Enfermedad cardíaca;Eczema;Cirugía de cataratas;11/10/2012 20:00;Gatos;Varicela;13/2/2005 20:00;144;;;;;
+144;Esclerosis múltiple;Hipotiroidismo;Cirugía de cataratas;11/10/2012 20:00;Gatos;Varicela;13/2/2005 20:00;144;;;;;
+144;Esclerosis múltiple;Eczema;Cirugía de cataratas;11/10/2012 20:00;Gatos;Varicela;13/2/2005 20:00;144;;;;;
+145;Cáncer de colon;Asma;Cirugía de vesícula;24/7/2013 20:00;Perros;Tétanos;17/9/2008 20:00;145;;;;;
+145;Cáncer de colon;Colitis ulcerosa;Cirugía de vesícula;24/7/2013 20:00;Perros;Tétanos;17/9/2008 20:00;145;;;;;
+145;Artritis;Asma;Cirugía de vesícula;24/7/2013 20:00;Perros;Tétanos;17/9/2008 20:00;145;;;;;
+145;Artritis;Colitis ulcerosa;Cirugía de vesícula;24/7/2013 20:00;Perros;Tétanos;17/9/2008 20:00;145;;;;;
+146;Diabetes Tipo 2;Migrañas;Cirugía de amígdalas;18/5/2007 20:00;Ibuprofeno;Hepatitis B;19/6/2009 20:00;146;;;;;
+146;Diabetes Tipo 2;Dermatitis atópica;Cirugía de amígdalas;18/5/2007 20:00;Ibuprofeno;Hepatitis B;19/6/2009 20:00;146;;;;;
+146;Hipertensión;Migrañas;Cirugía de amígdalas;18/5/2007 20:00;Ibuprofeno;Hepatitis B;19/6/2009 20:00;146;;;;;
+146;Hipertensión;Dermatitis atópica;Cirugía de amígdalas;18/5/2007 20:00;Ibuprofeno;Hepatitis B;19/6/2009 20:00;146;;;;;
+147;Cáncer de mama;Hipertensión;Cirugía de hernia;16/11/2014 20:00;Aspirina;Hepatitis A;24/8/2011 20:00;147;;;;;
+147;Cáncer de mama;Diabetes Tipo 1;Cirugía de hernia;16/11/2014 20:00;Aspirina;Hepatitis A;24/8/2011 20:00;147;;;;;
+147;Osteoporosis;Hipertensión;Cirugía de hernia;16/11/2014 20:00;Aspirina;Hepatitis A;24/8/2011 20:00;147;;;;;
+147;Osteoporosis;Diabetes Tipo 1;Cirugía de hernia;16/11/2014 20:00;Aspirina;Hepatitis A;24/8/2011 20:00;147;;;;;
+148;Enfermedad cardíaca;Eczema;Cirugía de cataratas;11/12/2015 20:00;Lentejas;Influenza;19/9/2016 20:00;148;;;;;
+148;Enfermedad cardíaca;Hipotiroidismo;Cirugía de cataratas;11/12/2015 20:00;Lentejas;Influenza;19/9/2016 20:00;148;;;;;
+148;Esclerosis múltiple;Eczema;Cirugía de cataratas;11/12/2015 20:00;Lentejas;Influenza;19/9/2016 20:00;148;;;;;
+148;Esclerosis múltiple;Hipotiroidismo;Cirugía de cataratas;11/12/2015 20:00;Lentejas;Influenza;19/9/2016 20:00;148;;;;;
+149;Cáncer de colon;Asma;Cirugía de vesícula;24/6/2013 20:00;Gatos;Varicela;13/3/2008 20:00;149;;;;;
+149;Cáncer de colon;Colitis ulcerosa;Cirugía de vesícula;24/6/2013 20:00;Gatos;Varicela;13/3/2008 20:00;149;;;;;
+149;Artritis reumatoide;Asma;Cirugía de vesícula;24/6/2013 20:00;Gatos;Varicela;13/3/2008 20:00;149;;;;;
+149;Artritis reumatoide;Colitis ulcerosa;Cirugía de vesícula;24/6/2013 20:00;Gatos;Varicela;13/3/2008 20:00;149;;;;;
+150;Diabetes Tipo 2;Migrañas;Cirugía de amígdalas;18/8/2006 20:00;Perros;Tétanos;9/7/2014 20:00;150;;;;;
+150;Diabetes Tipo 2;Dermatitis atópica;Cirugía de amígdalas;18/8/2006 20:00;Perros;Tétanos;9/7/2014 20:00;150;;;;;
+150;Artritis;Migrañas;Cirugía de amígdalas;18/8/2006 20:00;Perros;Tétanos;9/7/2014 20:00;150;;;;;
+150;Artritis;Dermatitis atópica;Cirugía de amígdalas;18/8/2006 20:00;Perros;Tétanos;9/7/2014 20:00;150;;;;;
+151;Cáncer de próstata;Asma;Apendicectomía;9/9/2015 20:00;Ibuprofeno;Hepatitis B;13/3/2010 20:00;151;;;;;
+151;Cáncer de próstata;Hipotiroidismo;Apendicectomía;9/9/2015 20:00;Ibuprofeno;Hepatitis B;13/3/2010 20:00;151;;;;;
+151;Hipertensión;Asma;Apendicectomía;9/9/2015 20:00;Ibuprofeno;Hepatitis B;13/3/2010 20:00;151;;;;;
+151;Hipertensión;Hipotiroidismo;Apendicectomía;9/9/2015 20:00;Ibuprofeno;Hepatitis B;13/3/2010 20:00;151;;;;;
+152;Cáncer de mama;Migrañas;Cirugía de amígdalas;16/6/2008 20:00;Aspirina;Influenza;24/11/2017 20:00;152;;;;;
+152;Cáncer de mama;Dermatitis atópica;Cirugía de amígdalas;16/6/2008 20:00;Aspirina;Influenza;24/11/2017 20:00;152;;;;;
+152;Artritis reumatoide;Migrañas;Cirugía de amígdalas;16/6/2008 20:00;Aspirina;Influenza;24/11/2017 20:00;152;;;;;
+152;Artritis reumatoide;Dermatitis atópica;Cirugía de amígdalas;16/6/2008 20:00;Aspirina;Influenza;24/11/2017 20:00;152;;;;;
+153;Cáncer de pulmón;Hipertensión;Cirugía de hernia;21/3/2011 20:00;Lentejas;Hepatitis A;10/4/2014 20:00;153;;;;;
+153;Cáncer de pulmón;Diabetes Tipo 1;Cirugía de hernia;21/3/2011 20:00;Lentejas;Hepatitis A;10/4/2014 20:00;153;;;;;
+153;Osteoporosis;Hipertensión;Cirugía de hernia;21/3/2011 20:00;Lentejas;Hepatitis A;10/4/2014 20:00;153;;;;;
+153;Osteoporosis;Diabetes Tipo 1;Cirugía de hernia;21/3/2011 20:00;Lentejas;Hepatitis A;10/4/2014 20:00;153;;;;;
+154;Enfermedad cardíaca;Hipotiroidismo;Cirugía de cataratas;11/10/2012 20:00;Gatos;Varicela;13/2/2005 20:00;154;;;;;
+154;Enfermedad cardíaca;Eczema;Cirugía de cataratas;11/10/2012 20:00;Gatos;Varicela;13/2/2005 20:00;154;;;;;
+154;Esclerosis múltiple;Hipotiroidismo;Cirugía de cataratas;11/10/2012 20:00;Gatos;Varicela;13/2/2005 20:00;154;;;;;
+154;Esclerosis múltiple;Eczema;Cirugía de cataratas;11/10/2012 20:00;Gatos;Varicela;13/2/2005 20:00;154;;;;;
+155;Cáncer de colon;Asma;Cirugía de vesícula;24/7/2013 20:00;Perros;Tétanos;17/9/2008 20:00;155;;;;;
+155;Cáncer de colon;Colitis ulcerosa;Cirugía de vesícula;24/7/2013 20:00;Perros;Tétanos;17/9/2008 20:00;155;;;;;
+155;Artritis;Asma;Cirugía de vesícula;24/7/2013 20:00;Perros;Tétanos;17/9/2008 20:00;155;;;;;
+155;Artritis;Colitis ulcerosa;Cirugía de vesícula;24/7/2013 20:00;Perros;Tétanos;17/9/2008 20:00;155;;;;;
+156;Diabetes Tipo 2;Migrañas;Cirugía de amígdalas;18/5/2007 20:00;Ibuprofeno;Hepatitis B;19/6/2009 20:00;156;;;;;
+156;Diabetes Tipo 2;Dermatitis atópica;Cirugía de amígdalas;18/5/2007 20:00;Ibuprofeno;Hepatitis B;19/6/2009 20:00;156;;;;;
+156;Hipertensión;Migrañas;Cirugía de amígdalas;18/5/2007 20:00;Ibuprofeno;Hepatitis B;19/6/2009 20:00;156;;;;;
+156;Hipertensión;Dermatitis atópica;Cirugía de amígdalas;18/5/2007 20:00;Ibuprofeno;Hepatitis B;19/6/2009 20:00;156;;;;;
+157;Cáncer de mama;Hipertensión;Cirugía de hernia;16/11/2014 20:00;Aspirina;Hepatitis A;24/8/2011 20:00;157;;;;;
+157;Cáncer de mama;Diabetes Tipo 1;Cirugía de hernia;16/11/2014 20:00;Aspirina;Hepatitis A;24/8/2011 20:00;157;;;;;
+157;Osteoporosis;Hipertensión;Cirugía de hernia;16/11/2014 20:00;Aspirina;Hepatitis A;24/8/2011 20:00;157;;;;;
+157;Osteoporosis;Diabetes Tipo 1;Cirugía de hernia;16/11/2014 20:00;Aspirina;Hepatitis A;24/8/2011 20:00;157;;;;;
+158;Enfermedad cardíaca;Eczema;Cirugía de cataratas;11/12/2015 20:00;Lentejas;Influenza;19/9/2016 20:00;158;;;;;
+158;Enfermedad cardíaca;Hipotiroidismo;Cirugía de cataratas;11/12/2015 20:00;Lentejas;Influenza;19/9/2016 20:00;158;;;;;
+158;Esclerosis múltiple;Eczema;Cirugía de cataratas;11/12/2015 20:00;Lentejas;Influenza;19/9/2016 20:00;158;;;;;
+158;Esclerosis múltiple;Hipotiroidismo;Cirugía de cataratas;11/12/2015 20:00;Lentejas;Influenza;19/9/2016 20:00;158;;;;;
+159;Cáncer de colon;Asma;Cirugía de vesícula;24/6/2013 20:00;Gatos;Varicela;13/3/2008 20:00;159;;;;;
+159;Cáncer de colon;Colitis ulcerosa;Cirugía de vesícula;24/6/2013 20:00;Gatos;Varicela;13/3/2008 20:00;159;;;;;
+159;Artritis reumatoide;Asma;Cirugía de vesícula;24/6/2013 20:00;Gatos;Varicela;13/3/2008 20:00;159;;;;;
+159;Artritis reumatoide;Colitis ulcerosa;Cirugía de vesícula;24/6/2013 20:00;Gatos;Varicela;13/3/2008 20:00;159;;;;;
+160;Diabetes Tipo 2;Migrañas;Cirugía de amígdalas;18/8/2006 20:00;Perros;Tétanos;9/7/2014 20:00;160;;;;;
+160;Diabetes Tipo 2;Dermatitis atópica;Cirugía de amígdalas;18/8/2006 20:00;Perros;Tétanos;9/7/2014 20:00;160;;;;;
+160;Artritis;Migrañas;Cirugía de amígdalas;18/8/2006 20:00;Perros;Tétanos;9/7/2014 20:00;160;;;;;
+160;Artritis;Dermatitis atópica;Cirugía de amígdalas;18/8/2006 20:00;Perros;Tétanos;9/7/2014 20:00;160;;;;;
+161;Cáncer de mama;Asma;Apendicectomía;9/9/2016 20:00;Aspirina;Hepatitis B;13/3/2011 20:00;161;;;;;
+161;Cáncer de mama;Hipotiroidismo;Apendicectomía;9/9/2016 20:00;Aspirina;Hepatitis B;13/3/2011 20:00;161;;;;;
+161;Hipertensión;Asma;Apendicectomía;9/9/2016 20:00;Aspirina;Hepatitis B;13/3/2011 20:00;161;;;;;
+161;Hipertensión;Hipotiroidismo;Apendicectomía;9/9/2016 20:00;Aspirina;Hepatitis B;13/3/2011 20:00;161;;;;;
+162;Cáncer de pulmón;Migrañas;Cirugía de amígdalas;16/6/2009 20:00;Lentejas;Influenza;24/11/2018 20:00;162;;;;;
+162;Cáncer de pulmón;Dermatitis atópica;Cirugía de amígdalas;16/6/2009 20:00;Lentejas;Influenza;24/11/2018 20:00;162;;;;;
+162;Artritis reumatoide;Migrañas;Cirugía de amígdalas;16/6/2009 20:00;Lentejas;Influenza;24/11/2018 20:00;162;;;;;
+162;Artritis reumatoide;Dermatitis atópica;Cirugía de amígdalas;16/6/2009 20:00;Lentejas;Influenza;24/11/2018 20:00;162;;;;;
+163;Cáncer de próstata;Hipertensión;Cirugía de hernia;21/3/2014 20:00;Gatos;Hepatitis A;10/4/2015 20:00;163;;;;;
+163;Cáncer de próstata;Diabetes Tipo 1;Cirugía de hernia;21/3/2014 20:00;Gatos;Hepatitis A;10/4/2015 20:00;163;;;;;
+163;Osteoporosis;Hipertensión;Cirugía de hernia;21/3/2014 20:00;Gatos;Hepatitis A;10/4/2015 20:00;163;;;;;
+163;Osteoporosis;Diabetes Tipo 1;Cirugía de hernia;21/3/2014 20:00;Gatos;Hepatitis A;10/4/2015 20:00;163;;;;;
+164;Enfermedad cardíaca;Hipotiroidismo;Cirugía de cataratas;11/10/2013 20:00;Perros;Varicela;13/2/2006 20:00;164;;;;;
+164;Enfermedad cardíaca;Eczema;Cirugía de cataratas;11/10/2013 20:00;Perros;Varicela;13/2/2006 20:00;164;;;;;
+164;Esclerosis múltiple;Hipotiroidismo;Cirugía de cataratas;11/10/2013 20:00;Perros;Varicela;13/2/2006 20:00;164;;;;;
+164;Esclerosis múltiple;Eczema;Cirugía de cataratas;11/10/2013 20:00;Perros;Varicela;13/2/2006 20:00;164;;;;;
+165;Cáncer de colon;Asma;Cirugía de vesícula;24/7/2014 20:00;Ibuprofeno;Tétanos;17/9/2008 20:00;165;;;;;
+165;Cáncer de colon;Colitis ulcerosa;Cirugía de vesícula;24/7/2014 20:00;Ibuprofeno;Tétanos;17/9/2008 20:00;165;;;;;
+165;Artritis;Asma;Cirugía de vesícula;24/7/2014 20:00;Ibuprofeno;Tétanos;17/9/2008 20:00;165;;;;;
+165;Artritis;Colitis ulcerosa;Cirugía de vesícula;24/7/2014 20:00;Ibuprofeno;Tétanos;17/9/2008 20:00;165;;;;;
+166;Diabetes Tipo 2;Migrañas;Cirugía de amígdalas;18/5/2008 20:00;Aspirina;Hepatitis B;19/6/2009 20:00;166;;;;;
+166;Diabetes Tipo 2;Dermatitis atópica;Cirugía de amígdalas;18/5/2008 20:00;Aspirina;Hepatitis B;19/6/2009 20:00;166;;;;;
+166;Hipertensión;Migrañas;Cirugía de amígdalas;18/5/2008 20:00;Aspirina;Hepatitis B;19/6/2009 20:00;166;;;;;
+166;Hipertensión;Dermatitis atópica;Cirugía de amígdalas;18/5/2008 20:00;Aspirina;Hepatitis B;19/6/2009 20:00;166;;;;;
+167;Cáncer de mama;Hipertensión;Cirugía de hernia;16/11/2015 20:00;Lentejas;Hepatitis A;24/8/2011 20:00;167;;;;;
+167;Cáncer de mama;Diabetes Tipo 1;Cirugía de hernia;16/11/2015 20:00;Lentejas;Hepatitis A;24/8/2011 20:00;167;;;;;
+167;Osteoporosis;Hipertensión;Cirugía de hernia;16/11/2015 20:00;Lentejas;Hepatitis A;24/8/2011 20:00;167;;;;;
+167;Osteoporosis;Diabetes Tipo 1;Cirugía de hernia;16/11/2015 20:00;Lentejas;Hepatitis A;24/8/2011 20:00;167;;;;;
+168;Enfermedad cardíaca;Eczema;Cirugía de cataratas;11/12/2015 20:00;Gatos;Influenza;19/9/2016 20:00;168;;;;;
+168;Enfermedad cardíaca;Hipotiroidismo;Cirugía de cataratas;11/12/2015 20:00;Gatos;Influenza;19/9/2016 20:00;168;;;;;
+168;Esclerosis múltiple;Eczema;Cirugía de cataratas;11/12/2015 20:00;Gatos;Influenza;19/9/2016 20:00;168;;;;;
+168;Esclerosis múltiple;Hipotiroidismo;Cirugía de cataratas;11/12/2015 20:00;Gatos;Influenza;19/9/2016 20:00;168;;;;;
+169;Cáncer de colon;Asma;Cirugía de vesícula;24/6/2015 20:00;Perros;Varicela;13/3/2008 20:00;169;;;;;
+169;Cáncer de colon;Colitis ulcerosa;Cirugía de vesícula;24/6/2015 20:00;Perros;Varicela;13/3/2008 20:00;169;;;;;
+169;Artritis reumatoide;Asma;Cirugía de vesícula;24/6/2015 20:00;Perros;Varicela;13/3/2008 20:00;169;;;;;
+169;Artritis reumatoide;Colitis ulcerosa;Cirugía de vesícula;24/6/2015 20:00;Perros;Varicela;13/3/2008 20:00;169;;;;;
+170;Diabetes Tipo 2;Migrañas;Cirugía de amígdalas;18/8/2009 20:00;Ibuprofeno;Tétanos;9/7/2014 20:00;170;;;;;
+170;Diabetes Tipo 2;Dermatitis atópica;Cirugía de amígdalas;18/8/2009 20:00;Ibuprofeno;Tétanos;9/7/2014 20:00;170;;;;;
+170;Artritis;Migrañas;Cirugía de amígdalas;18/8/2009 20:00;Ibuprofeno;Tétanos;9/7/2014 20:00;170;;;;;
+170;Artritis;Dermatitis atópica;Cirugía de amígdalas;18/8/2009 20:00;Ibuprofeno;Tétanos;9/7/2014 20:00;170;;;;;
+171;Cáncer de próstata;Asma;Apendicectomía;9/9/2016 20:00;Aspirina;Hepatitis B;13/3/2010 20:00;171;;;;;
+171;Cáncer de próstata;Hipotiroidismo;Apendicectomía;9/9/2016 20:00;Aspirina;Hepatitis B;13/3/2010 20:00;171;;;;;
+171;Hipertensión;Asma;Apendicectomía;9/9/2016 20:00;Aspirina;Hepatitis B;13/3/2010 20:00;171;;;;;
+171;Hipertensión;Hipotiroidismo;Apendicectomía;9/9/2016 20:00;Aspirina;Hepatitis B;13/3/2010 20:00;171;;;;;
+172;Cáncer de mama;Migrañas;Cirugía de amígdalas;16/6/2009 20:00;Lentejas;Influenza;24/11/2018 20:00;172;;;;;
+172;Cáncer de mama;Dermatitis atópica;Cirugía de amígdalas;16/6/2009 20:00;Lentejas;Influenza;24/11/2018 20:00;172;;;;;
+172;Artritis reumatoide;Migrañas;Cirugía de amígdalas;16/6/2009 20:00;Lentejas;Influenza;24/11/2018 20:00;172;;;;;
+172;Artritis reumatoide;Dermatitis atópica;Cirugía de amígdalas;16/6/2009 20:00;Lentejas;Influenza;24/11/2018 20:00;172;;;;;
+173;Cáncer de próstata;Hipertensión;Cirugía de hernia;21/3/2014 20:00;Gatos;Hepatitis A;10/4/2015 20:00;173;;;;;
+173;Cáncer de próstata;Diabetes Tipo 1;Cirugía de hernia;21/3/2014 20:00;Gatos;Hepatitis A;10/4/2015 20:00;173;;;;;
+173;Osteoporosis;Hipertensión;Cirugía de hernia;21/3/2014 20:00;Gatos;Hepatitis A;10/4/2015 20:00;173;;;;;
+173;Osteoporosis;Diabetes Tipo 1;Cirugía de hernia;21/3/2014 20:00;Gatos;Hepatitis A;10/4/2015 20:00;173;;;;;
+174;Enfermedad cardíaca;Hipotiroidismo;Cirugía de cataratas;11/10/2013 20:00;Perros;Varicela;13/2/2006 20:00;174;;;;;
+174;Enfermedad cardíaca;Eczema;Cirugía de cataratas;11/10/2013 20:00;Perros;Varicela;13/2/2006 20:00;174;;;;;
+174;Esclerosis múltiple;Hipotiroidismo;Cirugía de cataratas;11/10/2013 20:00;Perros;Varicela;13/2/2006 20:00;174;;;;;
+174;Esclerosis múltiple;Eczema;Cirugía de cataratas;11/10/2013 20:00;Perros;Varicela;13/2/2006 20:00;174;;;;;
+175;Cáncer de colon;Asma;Cirugía de vesícula;24/7/2014 20:00;Ibuprofeno;Tétanos;17/9/2008 20:00;175;;;;;
+175;Cáncer de colon;Colitis ulcerosa;Cirugía de vesícula;24/7/2014 20:00;Ibuprofeno;Tétanos;17/9/2008 20:00;175;;;;;
+175;Artritis;Asma;Cirugía de vesícula;24/7/2014 20:00;Ibuprofeno;Tétanos;17/9/2008 20:00;175;;;;;
+175;Artritis;Colitis ulcerosa;Cirugía de vesícula;24/7/2014 20:00;Ibuprofeno;Tétanos;17/9/2008 20:00;175;;;;;
+176;Diabetes Tipo 2;Migrañas;Cirugía de amígdalas;18/5/2008 20:00;Aspirina;Hepatitis B;19/6/2009 20:00;176;;;;;
+176;Diabetes Tipo 2;Dermatitis atópica;Cirugía de amígdalas;18/5/2008 20:00;Aspirina;Hepatitis B;19/6/2009 20:00;176;;;;;
+176;Hipertensión;Migrañas;Cirugía de amígdalas;18/5/2008 20:00;Aspirina;Hepatitis B;19/6/2009 20:00;176;;;;;
+176;Hipertensión;Dermatitis atópica;Cirugía de amígdalas;18/5/2008 20:00;Aspirina;Hepatitis B;19/6/2009 20:00;176;;;;;
+177;Cáncer de mama;Hipertensión;Cirugía de hernia;16/11/2015 20:00;Lentejas;Hepatitis A;24/8/2011 20:00;177;;;;;
+177;Cáncer de mama;Diabetes Tipo 1;Cirugía de hernia;16/11/2015 20:00;Lentejas;Hepatitis A;24/8/2011 20:00;177;;;;;
+177;Osteoporosis;Hipertensión;Cirugía de hernia;16/11/2015 20:00;Lentejas;Hepatitis A;24/8/2011 20:00;177;;;;;
+177;Osteoporosis;Diabetes Tipo 1;Cirugía de hernia;16/11/2015 20:00;Lentejas;Hepatitis A;24/8/2011 20:00;177;;;;;
+178;Enfermedad cardíaca;Eczema;Cirugía de cataratas;11/12/2015 20:00;Gatos;Influenza;19/9/2016 20:00;178;;;;;
+178;Enfermedad cardíaca;Hipotiroidismo;Cirugía de cataratas;11/12/2015 20:00;Gatos;Influenza;19/9/2016 20:00;178;;;;;
+178;Esclerosis múltiple;Eczema;Cirugía de cataratas;11/12/2015 20:00;Gatos;Influenza;19/9/2016 20:00;178;;;;;
+178;Esclerosis múltiple;Hipotiroidismo;Cirugía de cataratas;11/12/2015 20:00;Gatos;Influenza;19/9/2016 20:00;178;;;;;
+179;Cáncer de colon;Asma;Cirugía de vesícula;24/6/2015 20:00;Perros;Varicela;13/3/2008 20:00;179;;;;;
+179;Cáncer de colon;Colitis ulcerosa;Cirugía de vesícula;24/6/2015 20:00;Perros;Varicela;13/3/2008 20:00;179;;;;;
+179;Artritis reumatoide;Asma;Cirugía de vesícula;24/6/2015 20:00;Perros;Varicela;13/3/2008 20:00;179;;;;;
+179;Artritis reumatoide;Colitis ulcerosa;Cirugía de vesícula;24/6/2015 20:00;Perros;Varicela;13/3/2008 20:00;179;;;;;
+180;Diabetes Tipo 2;Migrañas;Cirugía de amígdalas;18/8/2009 20:00;Ibuprofeno;Tétanos;9/7/2014 20:00;180;;;;;
+180;Diabetes Tipo 2;Dermatitis atópica;Cirugía de amígdalas;18/8/2009 20:00;Ibuprofeno;Tétanos;9/7/2014 20:00;180;;;;;
+180;Artritis;Migrañas;Cirugía de amígdalas;18/8/2009 20:00;Ibuprofeno;Tétanos;9/7/2014 20:00;180;;;;;
+180;Artritis;Dermatitis atópica;Cirugía de amígdalas;18/8/2009 20:00;Ibuprofeno;Tétanos;9/7/2014 20:00;180;;;;;
+181;Hipertensión;Asma;Apendicectomía;9/9/2013 20:00;Sulfitos;Hepatitis B;13/5/2011 20:00;181;;;;;
+181;Hipertensión;Dermatitis atópica;Apendicectomía;9/9/2013 20:00;Sulfitos;Hepatitis B;13/5/2011 20:00;181;;;;;
+181;Diabetes Tipo 2;Asma;Apendicectomía;9/9/2013 20:00;Sulfitos;Hepatitis B;13/5/2011 20:00;181;;;;;
+181;Diabetes Tipo 2;Dermatitis atópica;Apendicectomía;9/9/2013 20:00;Sulfitos;Hepatitis B;13/5/2011 20:00;181;;;;;
+182;Cáncer de mama;Migrañas;Cirugía de amígdalas;16/6/2009 20:00;Benzoatos;Influenza;24/11/2018 20:00;182;;;;;
+182;Cáncer de mama;Hipotiroidismo;Cirugía de amígdalas;16/6/2009 20:00;Benzoatos;Influenza;24/11/2018 20:00;182;;;;;
+182;Artritis reumatoide;Migrañas;Cirugía de amígdalas;16/6/2009 20:00;Benzoatos;Influenza;24/11/2018 20:00;182;;;;;
+182;Artritis reumatoide;Hipotiroidismo;Cirugía de amígdalas;16/6/2009 20:00;Benzoatos;Influenza;24/11/2018 20:00;182;;;;;
+183;Cáncer de pulmón;Hipertensión;Cirugía de hernia;21/3/2014 20:00;Picaduras de abeja;Hepatitis A;10/4/2015 20:00;183;;;;;
+183;Cáncer de pulmón;Diabetes Tipo 1;Cirugía de hernia;21/3/2014 20:00;Picaduras de abeja;Hepatitis A;10/4/2015 20:00;183;;;;;
+183;Osteoporosis;Hipertensión;Cirugía de hernia;21/3/2014 20:00;Picaduras de abeja;Hepatitis A;10/4/2015 20:00;183;;;;;
+183;Osteoporosis;Diabetes Tipo 1;Cirugía de hernia;21/3/2014 20:00;Picaduras de abeja;Hepatitis A;10/4/2015 20:00;183;;;;;
+184;Enfermedad cardíaca;Hipotiroidismo;Cirugía de cataratas;11/10/2013 20:00;Picaduras de avispa;Varicela;13/2/2006 20:00;184;;;;;
+184;Enfermedad cardíaca;Eczema;Cirugía de cataratas;11/10/2013 20:00;Picaduras de avispa;Varicela;13/2/2006 20:00;184;;;;;
+184;Esclerosis múltiple;Hipotiroidismo;Cirugía de cataratas;11/10/2013 20:00;Picaduras de avispa;Varicela;13/2/2006 20:00;184;;;;;
+184;Esclerosis múltiple;Eczema;Cirugía de cataratas;11/10/2013 20:00;Picaduras de avispa;Varicela;13/2/2006 20:00;184;;;;;
+185;Cáncer de colon;Asma;Cirugía de vesícula;24/7/2014 20:00;Sulfitos;Tétanos;17/9/2008 20:00;185;;;;;
+185;Cáncer de colon;Colitis ulcerosa;Cirugía de vesícula;24/7/2014 20:00;Sulfitos;Tétanos;17/9/2008 20:00;185;;;;;
+185;Artritis;Asma;Cirugía de vesícula;24/7/2014 20:00;Sulfitos;Tétanos;17/9/2008 20:00;185;;;;;
+185;Artritis;Colitis ulcerosa;Cirugía de vesícula;24/7/2014 20:00;Sulfitos;Tétanos;17/9/2008 20:00;185;;;;;
+186;Diabetes Tipo 2;Migrañas;Cirugía de amígdalas;18/5/2008 20:00;Benzoatos;Hepatitis B;19/6/2009 20:00;186;;;;;
+186;Diabetes Tipo 2;Dermatitis atópica;Cirugía de amígdalas;18/5/2008 20:00;Benzoatos;Hepatitis B;19/6/2009 20:00;186;;;;;
+186;Hipertensión;Migrañas;Cirugía de amígdalas;18/5/2008 20:00;Benzoatos;Hepatitis B;19/6/2009 20:00;186;;;;;
+186;Hipertensión;Dermatitis atópica;Cirugía de amígdalas;18/5/2008 20:00;Benzoatos;Hepatitis B;19/6/2009 20:00;186;;;;;
+187;Cáncer de mama;Hipertensión;Cirugía de hernia;16/11/2015 20:00;Picaduras de abeja;Hepatitis A;24/8/2011 20:00;187;;;;;
+187;Cáncer de mama;Diabetes Tipo 1;Cirugía de hernia;16/11/2015 20:00;Picaduras de abeja;Hepatitis A;24/8/2011 20:00;187;;;;;
+187;Osteoporosis;Hipertensión;Cirugía de hernia;16/11/2015 20:00;Picaduras de abeja;Hepatitis A;24/8/2011 20:00;187;;;;;
+187;Osteoporosis;Diabetes Tipo 1;Cirugía de hernia;16/11/2015 20:00;Picaduras de abeja;Hepatitis A;24/8/2011 20:00;187;;;;;
+188;Enfermedad cardíaca;Eczema;Cirugía de cataratas;11/12/2015 20:00;Picaduras de avispa;Influenza;19/9/2016 20:00;188;;;;;
+188;Enfermedad cardíaca;Hipotiroidismo;Cirugía de cataratas;11/12/2015 20:00;Picaduras de avispa;Influenza;19/9/2016 20:00;188;;;;;
+188;Esclerosis múltiple;Eczema;Cirugía de cataratas;11/12/2015 20:00;Picaduras de avispa;Influenza;19/9/2016 20:00;188;;;;;
+188;Esclerosis múltiple;Hipotiroidismo;Cirugía de cataratas;11/12/2015 20:00;Picaduras de avispa;Influenza;19/9/2016 20:00;188;;;;;
+189;Cáncer de colon;Asma;Cirugía de vesícula;24/6/2015 20:00;Sulfitos;Varicela;13/3/2008 20:00;189;;;;;
+189;Cáncer de colon;Colitis ulcerosa;Cirugía de vesícula;24/6/2015 20:00;Sulfitos;Varicela;13/3/2008 20:00;189;;;;;
+189;Artritis reumatoide;Asma;Cirugía de vesícula;24/6/2015 20:00;Sulfitos;Varicela;13/3/2008 20:00;189;;;;;
+189;Artritis reumatoide;Colitis ulcerosa;Cirugía de vesícula;24/6/2015 20:00;Sulfitos;Varicela;13/3/2008 20:00;189;;;;;
+190;Diabetes Tipo 2;Migrañas;Cirugía de amígdalas;18/8/2009 20:00;Benzoatos;Tétanos;9/7/2014 20:00;190;;;;;
+190;Diabetes Tipo 2;Dermatitis atópica;Cirugía de amígdalas;18/8/2009 20:00;Benzoatos;Tétanos;9/7/2014 20:00;190;;;;;
+190;Artritis;Migrañas;Cirugía de amígdalas;18/8/2009 20:00;Benzoatos;Tétanos;9/7/2014 20:00;190;;;;;
+190;Artritis;Dermatitis atópica;Cirugía de amígdalas;18/8/2009 20:00;Benzoatos;Tétanos;9/7/2014 20:00;190;;;;;
+191;Cáncer de próstata;Asma;Apendicectomía;9/9/2016 20:00;Picaduras de abeja;Hepatitis B;13/3/2010 20:00;191;;;;;
+191;Cáncer de próstata;Hipotiroidismo;Apendicectomía;9/9/2016 20:00;Picaduras de abeja;Hepatitis B;13/3/2010 20:00;191;;;;;
+191;Hipertensión;Asma;Apendicectomía;9/9/2016 20:00;Picaduras de abeja;Hepatitis B;13/3/2010 20:00;191;;;;;
+191;Hipertensión;Hipotiroidismo;Apendicectomía;9/9/2016 20:00;Picaduras de abeja;Hepatitis B;13/3/2010 20:00;191;;;;;
+192;Cáncer de mama;Migrañas;Cirugía de amígdalas;16/6/2009 20:00;Picaduras de avispa;Influenza;24/11/2018 20:00;192;;;;;
+192;Cáncer de mama;Dermatitis atópica;Cirugía de amígdalas;16/6/2009 20:00;Picaduras de avispa;Influenza;24/11/2018 20:00;192;;;;;
+192;Artritis reumatoide;Migrañas;Cirugía de amígdalas;16/6/2009 20:00;Picaduras de avispa;Influenza;24/11/2018 20:00;192;;;;;
+192;Artritis reumatoide;Dermatitis atópica;Cirugía de amígdalas;16/6/2009 20:00;Picaduras de avispa;Influenza;24/11/2018 20:00;192;;;;;
+193;Cáncer de próstata;Hipertensión;Cirugía de hernia;21/3/2014 20:00;Sulfitos;Hepatitis A;10/4/2015 20:00;193;;;;;
+193;Cáncer de próstata;Diabetes Tipo 1;Cirugía de hernia;21/3/2014 20:00;Sulfitos;Hepatitis A;10/4/2015 20:00;193;;;;;
+193;Osteoporosis;Hipertensión;Cirugía de hernia;21/3/2014 20:00;Sulfitos;Hepatitis A;10/4/2015 20:00;193;;;;;
+193;Osteoporosis;Diabetes Tipo 1;Cirugía de hernia;21/3/2014 20:00;Sulfitos;Hepatitis A;10/4/2015 20:00;193;;;;;
+194;Enfermedad cardíaca;Hipotiroidismo;Cirugía de cataratas;11/10/2013 20:00;Benzoatos;Varicela;13/2/2006 20:00;194;;;;;
+194;Enfermedad cardíaca;Eczema;Cirugía de cataratas;11/10/2013 20:00;Benzoatos;Varicela;13/2/2006 20:00;194;;;;;
+194;Esclerosis múltiple;Hipotiroidismo;Cirugía de cataratas;11/10/2013 20:00;Benzoatos;Varicela;13/2/2006 20:00;194;;;;;
+194;Esclerosis múltiple;Eczema;Cirugía de cataratas;11/10/2013 20:00;Benzoatos;Varicela;13/2/2006 20:00;194;;;;;
+195;Cáncer de colon;Asma;Cirugía de vesícula;24/7/2014 20:00;Picaduras de abeja;Tétanos;17/9/2008 20:00;195;;;;;
+195;Cáncer de colon;Colitis ulcerosa;Cirugía de vesícula;24/7/2014 20:00;Picaduras de abeja;Tétanos;17/9/2008 20:00;195;;;;;
+195;Artritis;Asma;Cirugía de vesícula;24/7/2014 20:00;Picaduras de abeja;Tétanos;17/9/2008 20:00;195;;;;;
+195;Artritis;Colitis ulcerosa;Cirugía de vesícula;24/7/2014 20:00;Picaduras de abeja;Tétanos;17/9/2008 20:00;195;;;;;
+196;Diabetes Tipo 2;Migrañas;Cirugía de amígdalas;18/5/2008 20:00;Picaduras de avispa;Hepatitis B;19/6/2009 20:00;196;;;;;
+196;Diabetes Tipo 2;Dermatitis atópica;Cirugía de amígdalas;18/5/2008 20:00;Picaduras de avispa;Hepatitis B;19/6/2009 20:00;196;;;;;
+196;Hipertensión;Migrañas;Cirugía de amígdalas;18/5/2008 20:00;Picaduras de avispa;Hepatitis B;19/6/2009 20:00;196;;;;;
+196;Hipertensión;Dermatitis atópica;Cirugía de amígdalas;18/5/2008 20:00;Picaduras de avispa;Hepatitis B;19/6/2009 20:00;196;;;;;
+197;Cáncer de mama;Hipertensión;Cirugía de hernia;16/11/2015 20:00;Sulfitos;Hepatitis A;24/8/2011 20:00;197;;;;;
+197;Cáncer de mama;Diabetes Tipo 1;Cirugía de hernia;16/11/2015 20:00;Sulfitos;Hepatitis A;24/8/2011 20:00;197;;;;;
+197;Osteoporosis;Hipertensión;Cirugía de hernia;16/11/2015 20:00;Sulfitos;Hepatitis A;24/8/2011 20:00;197;;;;;
+197;Osteoporosis;Diabetes Tipo 1;Cirugía de hernia;16/11/2015 20:00;Sulfitos;Hepatitis A;24/8/2011 20:00;197;;;;;
+198;Enfermedad cardíaca;Eczema;Cirugía de cataratas;11/12/2015 20:00;Benzoatos;Influenza;19/9/2016 20:00;198;;;;;
+198;Enfermedad cardíaca;Hipotiroidismo;Cirugía de cataratas;11/12/2015 20:00;Benzoatos;Influenza;19/9/2016 20:00;198;;;;;
+198;Esclerosis múltiple;Eczema;Cirugía de cataratas;11/12/2015 20:00;Benzoatos;Influenza;19/9/2016 20:00;198;;;;;
+198;Esclerosis múltiple;Hipotiroidismo;Cirugía de cataratas;11/12/2015 20:00;Benzoatos;Influenza;19/9/2016 20:00;198;;;;;
+199;Cáncer de colon;Asma;Cirugía de vesícula;24/6/2015 20:00;Picaduras de abeja;Varicela;13/3/2008 20:00;199;;;;;
+199;Cáncer de colon;Colitis ulcerosa;Cirugía de vesícula;24/6/2015 20:00;Picaduras de abeja;Varicela;13/3/2008 20:00;199;;;;;
+199;Artritis reumatoide;Asma;Cirugía de vesícula;24/6/2015 20:00;Picaduras de abeja;Varicela;13/3/2008 20:00;199;;;;;
+199;Artritis reumatoide;Colitis ulcerosa;Cirugía de vesícula;24/6/2015 20:00;Picaduras de abeja;Varicela;13/3/2008 20:00;199;;;;;
+200;Diabetes Tipo 2;Migrañas;Cirugía de amígdalas;18/8/2009 20:00;Picaduras de avispa;Tétanos;9/7/2014 20:00;200;;;;;
+200;Diabetes Tipo 2;Dermatitis atópica;Cirugía de amígdalas;18/8/2009 20:00;Picaduras de avispa;Tétanos;9/7/2014 20:00;200;;;;;
+200;Artritis;Migrañas;Cirugía de amígdalas;18/8/2009 20:00;Picaduras de avispa;Tétanos;9/7/2014 20:00;200;;;;;
+200;Artritis;Dermatitis atópica;Cirugía de amígdalas;18/8/2009 20:00;Picaduras de avispa;Tétanos;9/7/2014 20:00;200;;;;;
+201;Hipertensión;Asma;Apendicectomía;9/9/2013 20:00;Sulfitos;Hepatitis B;13/5/2011 20:00;201;;;;;
+201;Hipertensión;Dermatitis atópica;Apendicectomía;9/9/2013 20:00;Sulfitos;Hepatitis B;13/5/2011 20:00;201;;;;;
+201;Diabetes Tipo 2;Asma;Apendicectomía;9/9/2013 20:00;Sulfitos;Hepatitis B;13/5/2011 20:00;201;;;;;
+201;Diabetes Tipo 2;Dermatitis atópica;Apendicectomía;9/9/2013 20:00;Sulfitos;Hepatitis B;13/5/2011 20:00;201;;;;;
+202;Cáncer de mama;Migrañas;Cirugía de amígdalas;16/6/2009 20:00;Benzoatos;Influenza;24/11/2018 20:00;202;;;;;
+202;Cáncer de mama;Hipotiroidismo;Cirugía de amígdalas;16/6/2009 20:00;Benzoatos;Influenza;24/11/2018 20:00;202;;;;;
+202;Artritis reumatoide;Migrañas;Cirugía de amígdalas;16/6/2009 20:00;Benzoatos;Influenza;24/11/2018 20:00;202;;;;;
+202;Artritis reumatoide;Hipotiroidismo;Cirugía de amígdalas;16/6/2009 20:00;Benzoatos;Influenza;24/11/2018 20:00;202;;;;;
+203;Cáncer de pulmón;Hipertensión;Cirugía de hernia;21/3/2014 20:00;Picaduras de abeja;Hepatitis A;10/4/2015 20:00;203;;;;;
+203;Cáncer de pulmón;Diabetes Tipo 1;Cirugía de hernia;21/3/2014 20:00;Picaduras de abeja;Hepatitis A;10/4/2015 20:00;203;;;;;
+203;Osteoporosis;Hipertensión;Cirugía de hernia;21/3/2014 20:00;Picaduras de abeja;Hepatitis A;10/4/2015 20:00;203;;;;;
+203;Osteoporosis;Diabetes Tipo 1;Cirugía de hernia;21/3/2014 20:00;Picaduras de abeja;Hepatitis A;10/4/2015 20:00;203;;;;;
+204;Enfermedad cardíaca;Hipotiroidismo;Cirugía de cataratas;11/10/2013 20:00;Picaduras de avispa;Varicela;13/2/2006 20:00;204;;;;;
+204;Enfermedad cardíaca;Eczema;Cirugía de cataratas;11/10/2013 20:00;Picaduras de avispa;Varicela;13/2/2006 20:00;204;;;;;
+204;Esclerosis múltiple;Hipotiroidismo;Cirugía de cataratas;11/10/2013 20:00;Picaduras de avispa;Varicela;13/2/2006 20:00;204;;;;;
+204;Esclerosis múltiple;Eczema;Cirugía de cataratas;11/10/2013 20:00;Picaduras de avispa;Varicela;13/2/2006 20:00;204;;;;;
+205;Cáncer de colon;Asma;Cirugía de vesícula;24/7/2014 20:00;Sulfitos;Tétanos;17/9/2008 20:00;205;;;;;
+205;Cáncer de colon;Colitis ulcerosa;Cirugía de vesícula;24/7/2014 20:00;Sulfitos;Tétanos;17/9/2008 20:00;205;;;;;
+205;Artritis;Asma;Cirugía de vesícula;24/7/2014 20:00;Sulfitos;Tétanos;17/9/2008 20:00;205;;;;;
+205;Artritis;Colitis ulcerosa;Cirugía de vesícula;24/7/2014 20:00;Sulfitos;Tétanos;17/9/2008 20:00;205;;;;;
+206;Diabetes Tipo 2;Migrañas;Cirugía de amígdalas;18/5/2008 20:00;Benzoatos;Hepatitis B;19/6/2009 20:00;206;;;;;
+206;Diabetes Tipo 2;Dermatitis atópica;Cirugía de amígdalas;18/5/2008 20:00;Benzoatos;Hepatitis B;19/6/2009 20:00;206;;;;;
+206;Hipertensión;Migrañas;Cirugía de amígdalas;18/5/2008 20:00;Benzoatos;Hepatitis B;19/6/2009 20:00;206;;;;;
+206;Hipertensión;Dermatitis atópica;Cirugía de amígdalas;18/5/2008 20:00;Benzoatos;Hepatitis B;19/6/2009 20:00;206;;;;;
+207;Cáncer de mama;Hipertensión;Cirugía de hernia;16/11/2015 20:00;Picaduras de abeja;Hepatitis A;24/8/2011 20:00;207;;;;;
+207;Cáncer de mama;Diabetes Tipo 1;Cirugía de hernia;16/11/2015 20:00;Picaduras de abeja;Hepatitis A;24/8/2011 20:00;207;;;;;
+207;Osteoporosis;Hipertensión;Cirugía de hernia;16/11/2015 20:00;Picaduras de abeja;Hepatitis A;24/8/2011 20:00;207;;;;;
+207;Osteoporosis;Diabetes Tipo 1;Cirugía de hernia;16/11/2015 20:00;Picaduras de abeja;Hepatitis A;24/8/2011 20:00;207;;;;;
+208;Enfermedad cardíaca;Eczema;Cirugía de cataratas;11/12/2015 20:00;Picaduras de avispa;Influenza;19/9/2016 20:00;208;;;;;
+208;Enfermedad cardíaca;Hipotiroidismo;Cirugía de cataratas;11/12/2015 20:00;Picaduras de avispa;Influenza;19/9/2016 20:00;208;;;;;
+208;Esclerosis múltiple;Eczema;Cirugía de cataratas;11/12/2015 20:00;Picaduras de avispa;Influenza;19/9/2016 20:00;208;;;;;
+208;Esclerosis múltiple;Hipotiroidismo;Cirugía de cataratas;11/12/2015 20:00;Picaduras de avispa;Influenza;19/9/2016 20:00;208;;;;;
+209;Cáncer de colon;Asma;Cirugía de vesícula;24/6/2015 20:00;Sulfitos;Varicela;13/3/2008 20:00;209;;;;;
+209;Cáncer de colon;Colitis ulcerosa;Cirugía de vesícula;24/6/2015 20:00;Sulfitos;Varicela;13/3/2008 20:00;209;;;;;
+209;Artritis reumatoide;Asma;Cirugía de vesícula;24/6/2015 20:00;Sulfitos;Varicela;13/3/2008 20:00;209;;;;;
+209;Artritis reumatoide;Colitis ulcerosa;Cirugía de vesícula;24/6/2015 20:00;Sulfitos;Varicela;13/3/2008 20:00;209;;;;;
+210;Diabetes Tipo 2;Migrañas;Cirugía de amígdalas;18/8/2009 20:00;Benzoatos;Tétanos;9/7/2014 20:00;210;;;;;
+210;Diabetes Tipo 2;Dermatitis atópica;Cirugía de amígdalas;18/8/2009 20:00;Benzoatos;Tétanos;9/7/2014 20:00;210;;;;;
+210;Artritis;Migrañas;Cirugía de amígdalas;18/8/2009 20:00;Benzoatos;Tétanos;9/7/2014 20:00;210;;;;;
+210;Artritis;Dermatitis atópica;Cirugía de amígdalas;18/8/2009 20:00;Benzoatos;Tétanos;9/7/2014 20:00;210;;;;;
+85;Diabetes;Asma;Apendicectomía;19/8/2015 20:00;Penicilina;Hepatitis B;14/5/2000 20:00;85;;;85;Paciente 85;Apellido 85
+85;Diabetes;Artritis;Apendicectomía;19/8/2015 20:00;Penicilina;Hepatitis B;14/5/2000 20:00;85;;;85;Paciente 85;Apellido 85
+85;Hipertensión;Asma;Apendicectomía;19/8/2015 20:00;Penicilina;Hepatitis B;14/5/2000 20:00;85;;;85;Paciente 85;Apellido 85
+85;Hipertensión;Artritis;Apendicectomía;19/8/2015 20:00;Penicilina;Hepatitis B;14/5/2000 20:00;85;;;85;Paciente 85;Apellido 85
+86;Cáncer de mama;Migraña;Colecistectomía;13/6/2018 20:00;Polen;Influenza;9/10/2021 20:00;86;;;86;Paciente 86;Apellido 86
+86;Cáncer de mama;Tiroiditis;Colecistectomía;13/6/2018 20:00;Polen;Influenza;9/10/2021 20:00;86;;;86;Paciente 86;Apellido 86
+86;Depresión;Migraña;Colecistectomía;13/6/2018 20:00;Polen;Influenza;9/10/2021 20:00;86;;;86;Paciente 86;Apellido 86
+86;Depresión;Tiroiditis;Colecistectomía;13/6/2018 20:00;Polen;Influenza;9/10/2021 20:00;86;;;86;Paciente 86;Apellido 86
+87;Alzheimer;Diabetes Tipo 2;Bypass gástrico;29/1/2020 20:00;Mariscos;Tétanos;24/9/2019 20:00;87;;;87;Paciente 87;Apellido 87
+87;Alzheimer;Hipertensión;Bypass gástrico;29/1/2020 20:00;Mariscos;Tétanos;24/9/2019 20:00;87;;;87;Paciente 87;Apellido 87
+87;Hipertensión;Diabetes Tipo 2;Bypass gástrico;29/1/2020 20:00;Mariscos;Tétanos;24/9/2019 20:00;87;;;87;Paciente 87;Apellido 87
+87;Hipertensión;Hipertensión;Bypass gástrico;29/1/2020 20:00;Mariscos;Tétanos;24/9/2019 20:00;87;;;87;Paciente 87;Apellido 87
+88;Enfermedad cardíaca;Hipertensión;Reemplazo de cadera;10/11/2017 20:00;Frutos secos;Varicela;24/4/1999 20:00;88;;;88;Paciente 88;Apellido 88
+88;Enfermedad cardíaca;Osteoporosis;Reemplazo de cadera;10/11/2017 20:00;Frutos secos;Varicela;24/4/1999 20:00;88;;;88;Paciente 88;Apellido 88
+88;Obesidad;Hipertensión;Reemplazo de cadera;10/11/2017 20:00;Frutos secos;Varicela;24/4/1999 20:00;88;;;88;Paciente 88;Apellido 88
+88;Obesidad;Osteoporosis;Reemplazo de cadera;10/11/2017 20:00;Frutos secos;Varicela;24/4/1999 20:00;88;;;88;Paciente 88;Apellido 88
+89;Asma;Eczema;Cirugía de cataratas;14/3/2022 20:00;Antibióticos;Neumococo;19/7/2016 20:00;89;;;89;Paciente 89;Apellido 89
+89;Asma;Hipotiroidismo;Cirugía de cataratas;14/3/2022 20:00;Antibióticos;Neumococo;19/7/2016 20:00;89;;;89;Paciente 89;Apellido 89
+89;Diabetes;Eczema;Cirugía de cataratas;14/3/2022 20:00;Antibióticos;Neumococo;19/7/2016 20:00;89;;;89;Paciente 89;Apellido 89
+89;Diabetes;Hipotiroidismo;Cirugía de cataratas;14/3/2022 20:00;Antibióticos;Neumococo;19/7/2016 20:00;89;;;89;Paciente 89;Apellido 89
+90;Enfermedad renal;Anemia;Cirugía de rodilla;4/5/2010 20:00;Huevo;Sarampión;29/11/2002 20:00;90;;;90;Paciente 90;Apellido 90
+90;Enfermedad renal;Artritis reumatoide;Cirugía de rodilla;4/5/2010 20:00;Huevo;Sarampión;29/11/2002 20:00;90;;;90;Paciente 90;Apellido 90
+90;Enfermedad cardíaca;Anemia;Cirugía de rodilla;4/5/2010 20:00;Huevo;Sarampión;29/11/2002 20:00;90;;;90;Paciente 90;Apellido 90
+90;Enfermedad cardíaca;Artritis reumatoide;Cirugía de rodilla;4/5/2010 20:00;Huevo;Sarampión;29/11/2002 20:00;90;;;90;Paciente 90;Apellido 90
+91;Esclerosis múltiple;Hipertensión;Cirugía de columna;21/9/2021 20:00;Gluten;Hepatitis A;14/4/2018 20:00;91;;;91;Paciente 91;Apellido 91
+91;Esclerosis múltiple;Enfermedad celíaca;Cirugía de columna;21/9/2021 20:00;Gluten;Hepatitis A;14/4/2018 20:00;91;;;91;Paciente 91;Apellido 91
+91;Obesidad;Hipertensión;Cirugía de columna;21/9/2021 20:00;Gluten;Hepatitis A;14/4/2018 20:00;91;;;91;Paciente 91;Apellido 91
+91;Obesidad;Enfermedad celíaca;Cirugía de columna;21/9/2021 20:00;Gluten;Hepatitis A;14/4/2018 20:00;91;;;91;Paciente 91;Apellido 91
+92;Hipotiroidismo;Asma;Cirugía de vesícula;4/11/2016 20:00;Lactosa;Polio;11/6/1995 20:00;92;;;92;Paciente 92;Apellido 92
+92;Hipotiroidismo;Hipertensión;Cirugía de vesícula;4/11/2016 20:00;Lactosa;Polio;11/6/1995 20:00;92;;;92;Paciente 92;Apellido 92
+92;Enfermedad cardíaca;Asma;Cirugía de vesícula;4/11/2016 20:00;Lactosa;Polio;11/6/1995 20:00;92;;;92;Paciente 92;Apellido 92
+92;Enfermedad cardíaca;Hipertensión;Cirugía de vesícula;4/11/2016 20:00;Lactosa;Polio;11/6/1995 20:00;92;;;92;Paciente 92;Apellido 92
+93;Diabetes;Migraña;Cirugía de hombro;22/7/2019 20:00;Picaduras de insectos;Varicela;17/3/2001 20:00;93;;;93;Paciente 93;Apellido 93
+93;Diabetes;Artritis;Cirugía de hombro;22/7/2019 20:00;Picaduras de insectos;Varicela;17/3/2001 20:00;93;;;93;Paciente 93;Apellido 93
+93;Enfermedad pulmonar;Migraña;Cirugía de hombro;22/7/2019 20:00;Picaduras de insectos;Varicela;17/3/2001 20:00;93;;;93;Paciente 93;Apellido 93
+93;Enfermedad pulmonar;Artritis;Cirugía de hombro;22/7/2019 20:00;Picaduras de insectos;Varicela;17/3/2001 20:00;93;;;93;Paciente 93;Apellido 93
+94;Enfermedad de Parkinson;Diabetes Tipo 1;Cirugía de muñeca;14/12/2018 20:00;Perfume;Difteria;9/2/2000 20:00;94;;;94;Paciente 94;Apellido 94
+94;Enfermedad de Parkinson;Psoriasis;Cirugía de muñeca;14/12/2018 20:00;Perfume;Difteria;9/2/2000 20:00;94;;;94;Paciente 94;Apellido 94
+94;Hipertensión;Diabetes Tipo 1;Cirugía de muñeca;14/12/2018 20:00;Perfume;Difteria;9/2/2000 20:00;94;;;94;Paciente 94;Apellido 94
+94;Hipertensión;Psoriasis;Cirugía de muñeca;14/12/2018 20:00;Perfume;Difteria;9/2/2000 20:00;94;;;94;Paciente 94;Apellido 94
+95;Hipotiroidismo;Asma;Cirugía de tobillo;29/6/2014 20:00;Pescado;COVID-19;24/3/2021 20:00;95;;;95;Paciente 95;Apellido 95
+95;Hipotiroidismo;Colesterol alto;Cirugía de tobillo;29/6/2014 20:00;Pescado;COVID-19;24/3/2021 20:00;95;;;95;Paciente 95;Apellido 95
+95;Depresión;Asma;Cirugía de tobillo;29/6/2014 20:00;Pescado;COVID-19;24/3/2021 20:00;95;;;95;Paciente 95;Apellido 95
+95;Depresión;Colesterol alto;Cirugía de tobillo;29/6/2014 20:00;Pescado;COVID-19;24/3/2021 20:00;95;;;95;Paciente 95;Apellido 95
+96;Diabetes;Hipertensión;Cirugía de corazón;19/11/2019 20:00;Ácaros del polvo;Influenza;14/10/2020 20:00;96;;;96;Paciente 96;Apellido 96
+96;Diabetes;Enfermedad renal crónica;Cirugía de corazón;19/11/2019 20:00;Ácaros del polvo;Influenza;14/10/2020 20:00;96;;;96;Paciente 96;Apellido 96
+96;Hipertensión;Hipertensión;Cirugía de corazón;19/11/2019 20:00;Ácaros del polvo;Influenza;14/10/2020 20:00;96;;;96;Paciente 96;Apellido 96
+96;Hipertensión;Enfermedad renal crónica;Cirugía de corazón;19/11/2019 20:00;Ácaros del polvo;Influenza;14/10/2020 20:00;96;;;96;Paciente 96;Apellido 96
+97;Cáncer de próstata;Asma;Cirugía ocular;30/11/2017 20:00;Polen;Hepatitis C;17/5/2018 20:00;97;;;97;Paciente 97;Apellido 97
+97;Cáncer de próstata;Hipertensión;Cirugía ocular;30/11/2017 20:00;Polen;Hepatitis C;17/5/2018 20:00;97;;;97;Paciente 97;Apellido 97
+97;Diabetes;Asma;Cirugía ocular;30/11/2017 20:00;Polen;Hepatitis C;17/5/2018 20:00;97;;;97;Paciente 97;Apellido 97
+97;Diabetes;Hipertensión;Cirugía ocular;30/11/2017 20:00;Polen;Hepatitis C;17/5/2018 20:00;97;;;97;Paciente 97;Apellido 97
+98;Obesidad;Artritis;Cirugía de espalda;9/9/2015 20:00;Polvo;Hepatitis B;24/6/2001 20:00;98;;;98;Paciente 98;Apellido 98
+98;Obesidad;Diabetes Tipo 1;Cirugía de espalda;9/9/2015 20:00;Polvo;Hepatitis B;24/6/2001 20:00;98;;;98;Paciente 98;Apellido 98
+98;Enfermedad cardíaca;Artritis;Cirugía de espalda;9/9/2015 20:00;Polvo;Hepatitis B;24/6/2001 20:00;98;;;98;Paciente 98;Apellido 98
+98;Enfermedad cardíaca;Diabetes Tipo 1;Cirugía de espalda;9/9/2015 20:00;Polvo;Hepatitis B;24/6/2001 20:00;98;;;98;Paciente 98;Apellido 98
+99;Depresión;Hipertensión;Cirugía de hombro;9/3/2018 20:00;Picaduras de insectos;COVID-19;11/4/2021 20:00;99;;;99;Paciente 99;Apellido 99
+99;Depresión;Artritis reumatoide;Cirugía de hombro;9/3/2018 20:00;Picaduras de insectos;COVID-19;11/4/2021 20:00;99;;;99;Paciente 99;Apellido 99
+99;Hipotiroidismo;Hipertensión;Cirugía de hombro;9/3/2018 20:00;Picaduras de insectos;COVID-19;11/4/2021 20:00;99;;;99;Paciente 99;Apellido 99
+99;Hipotiroidismo;Artritis reumatoide;Cirugía de hombro;9/3/2018 20:00;Picaduras de insectos;COVID-19;11/4/2021 20:00;99;;;99;Paciente 99;Apellido 99
+100;Hipertensión;Asma;Cirugía de cadera;14/1/2016 20:00;Mariscos;Hepatitis A;19/8/2003 20:00;100;;;100;Paciente 100;Apellido 100
+100;Hipertensión;Osteoporosis;Cirugía de cadera;14/1/2016 20:00;Mariscos;Hepatitis A;19/8/2003 20:00;100;;;100;Paciente 100;Apellido 100
+100;Diabetes;Asma;Cirugía de cadera;14/1/2016 20:00;Mariscos;Hepatitis A;19/8/2003 20:00;100;;;100;Paciente 100;Apellido 100
+100;Diabetes;Osteoporosis;Cirugía de cadera;14/1/2016 20:00;Mariscos;Hepatitis A;19/8/2003 20:00;100;;;100;Paciente 100;Apellido 100
