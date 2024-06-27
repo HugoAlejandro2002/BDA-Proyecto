@@ -1,0 +1,21 @@
+id,nombre,descripcion,created_at,updated_at,disabled_at
+1,Especialidad 1,Descripción detallada de la especialidad 1,2022-11-17 21:22:37,2022-04-23 12:48:08,2022-06-22 16:34:27
+2,Especialidad 2,Descripción detallada de la especialidad 2,2022-05-11 22:53:02,2022-05-11 10:36:49,2022-04-17 15:10:54
+3,Especialidad 3,Descripción detallada de la especialidad 3,2022-03-04 16:46:56,2022-01-04 06:23:41,2022-06-01 18:38:00
+4,Especialidad 4,Descripción detallada de la especialidad 4,2022-05-20 09:46:55,2022-01-12 05:29:57,2022-09-03 10:00:07
+5,Especialidad 5,Descripción detallada de la especialidad 5,2022-11-06 16:09:04,2022-09-23 10:12:24,2022-12-12 11:14:37
+6,Especialidad 6,Descripción detallada de la especialidad 6,2022-12-03 00:46:53,2022-06-13 05:09:13,2022-04-11 23:15:35
+7,Especialidad 7,Descripción detallada de la especialidad 7,2022-01-29 18:50:27,2022-05-25 11:01:01,2022-12-22 18:58:21
+8,Especialidad 8,Descripción detallada de la especialidad 8,2022-12-10 21:04:37,2022-07-18 14:26:57,2022-07-09 21:56:56
+9,Especialidad 9,Descripción detallada de la especialidad 9,2022-07-19 11:49:25,2022-09-20 02:52:36,2022-08-06 19:50:25
+10,Especialidad 10,Descripción detallada de la especialidad 10,2022-05-18 04:35:02,2022-10-09 00:11:44,2022-07-09 06:14:49
+11,Especialidad 11,Descripción detallada de la especialidad 11,2022-04-14 11:30:49,2022-05-09 23:29:31,2022-06-21 04:55:52
+12,Especialidad 12,Descripción detallada de la especialidad 12,2022-07-20 09:34:39,2022-06-26 12:31:46,2022-01-19 21:03:26
+13,Especialidad 13,Descripción detallada de la especialidad 13,2022-12-20 04:19:06,2022-04-10 05:08:00,2022-11-16 17:34:33
+14,Especialidad 14,Descripción detallada de la especialidad 14,2022-11-26 10:31:17,2022-08-04 16:44:09,2022-08-01 05:29:52
+15,Especialidad 15,Descripción detallada de la especialidad 15,2022-11-20 23:15:19,2022-04-14 01:08:45,2022-05-09 14:02:36
+16,Especialidad 16,Descripción detallada de la especialidad 16,2022-09-24 02:54:54,2022-03-01 14:20:55,2022-04-23 02:30:22
+17,Especialidad 17,Descripción detallada de la especialidad 17,2022-02-27 07:15:42,2022-08-20 22:26:34,2022-07-18 14:06:03
+18,Especialidad 18,Descripción detallada de la especialidad 18,2022-11-26 18:11:33,2022-12-12 01:09:51,2022-11-23 12:24:07
+19,Especialidad 19,Descripción detallada de la especialidad 19,2022-05-11 18:17:02,2022-03-26 01:06:22,2022-09-22 14:27:19
+20,Especialidad 20,Descripción detallada de la especialidad 20,2022-04-04 22:37:29,2022-12-04 03:33:13,2022-05-11 14:34:00
