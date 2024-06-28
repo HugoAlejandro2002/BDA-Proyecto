@@ -1,0 +1,21 @@
+id,tipo_recurso,nombre,estado
+0,,,
+12,Monitor,Monitor de Gases Sanguíneos,Operativo
+15,Monitor,Monitor de Frecuencia Cardíaca,En mantenimiento
+8,Instrumento,Ventilador de Transporte,Operativo
+22,Equipo Quirúrgico,Electrobisturí,Operativo
+17,Instrumento,Desfibrilador Externo Automático,Operativo
+5,Instrumento,Bomba de Infusión,Mantenimiento
+20,Instrumento,Bomba de Nutrición Enteral,Operativo
+7,Equipo Quirúrgico,Mesa de Operaciones,En mantenimiento
+14,Instrumento,Bomba de Infusión de Doble Canal,Operativo
+18,Monitor,Monitor de Saturación de Oxígeno,Mantenimiento
+6,Monitor,Monitor de Electrocardiograma,Operativo
+19,Instrumento,Incubadora de Transporte Neonatal,Operativo
+11,Instrumento,Incubadora Neonatal,Operativo
+10,Instrumento,Bomba de Aspiración,En mantenimiento
+3,Equipo Quirúrgico,Lámpara Quirúrgica LED,En reparación
+4,Instrumento,Desfibrilador Automático,Operativo
+13,Equipo Quirúrgico,Aspirador de Humos Quirúrgico,Mantenimiento
+9,Monitor,Monitor de Presión Arterial,Operativo
+16,Equipo Quirúrgico,Lámpara Quirúrgica Halógena,Operativo
